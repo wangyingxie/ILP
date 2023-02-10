@@ -1,0 +1,992 @@
+pair,SVM_predict,RF_predict,XGB_predict
+tributylmethylammonium dibutylphosphate,0,0,0
+1-methyl-3-propylimidazolium tricyanomethanide,1,1,1
+1-hexyl-3-methylimidazolium diethyl phosphate,0,0,0
+butyltriethylammonium acetate,0,0,0
+ethylammonium bis(fluorosulfonyl)imide,1,1,1
+1-propyl-4-methylpyridinium thiocyanate,1,1,1
+1-butyl-2-methylpyridinium bis(fluorosulfonyl)imide,0,0,0
+tributylmethylphosphonium diethyl phosphate,0,0,0
+1-methyl-1-propylpiperidinium dibutylphosphate,0,0,0
+trihexyltetradecylphosphonium methyl sulfate,0,0,0
+1-methyl-3-pentylimidazolium thiocyanate,1,0,0
+diethylmethylammonium hydrogensulfate,0,0,0
+"1-ethyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethylimidazolium ethyl sulfate,0,1,0
+1-methylimidazolium ethyl sulfate,0,0,0
+1-benzyl-3-methylimidazolium diethyl phosphate,0,0,0
+"1,2-dimethyl-3-propylimidazolium tricyanomethanide",1,1,1
+1-heptyl-3-methylimidazolium diethyl phosphate,0,0,0
+"1,2-dimethylimidazolium thiocyanate",1,1,1
+1-methyl-1-propylpiperidinium diethyl phosphate,0,0,0
+butyltrimethylammonium bis(fluorosulfonyl)imide,1,1,0
+1-propyl-4-methylpyridinium trifluoroacetate,0,0,0
+"2-methyl-1-propylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethyl-3-vinylimidazolium acetate,0,0,0
+1-heptyl-3-methylimidazolium acetate,0,0,0
+"1-butyl-2,3-dimethylimidazolium thiocyanate",1,0,0
+butyltrimethylammonium decanoate,0,0,0
+1-ethylimidazolium diethyl phosphate,0,0,0
+1-methyl-3-octylimidazolium trifluoroacetate,0,0,0
+1-propyl-2-methylpyridinium formate,0,1,0
+1-ethyl-2-methylpyridinium dibutylphosphate,0,0,0
+2-methyl-1-propylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+diethylmethylammonium ethyl sulfate,0,1,1
+"1,3-dimethylimidazolium tricyanomethanide",1,1,1
+triethylsulfonium bis(pentafluoroethylsulfonyl)imide,1,1,1
+"ethyltributylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium hydrogensulfate,0,0,0
+trihexyltetradecylphosphonium dimethyl phosphate,0,0,0
+1-methyl-3-propylimidazolium methanesulfonate,0,0,0
+tributylmethylammonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-propyl-2-methylpyridinium dibutylphosphate,0,0,0
+"1,3-dimethylimidazolium formate",0,0,0
+1-methyl-3-pentylimidazolium dibutylphosphate,0,0,0
+1-hexyl-3-methylimidazolium methanesulfonate,0,0,0
+1-ethyl-3-vinylimidazolium dihydrogen phosphate,0,0,0
+1-propylpyridinium methyl sulfate,0,0,0
+1-methyl-3-propylimidazolium hydrogensulfate,0,0,0
+tributylmethylammonium dimethyl phosphate,0,0,0
+tributylmethylammonium ethyl sulfate,0,0,0
+diethylmethylsulfonium acetate,0,0,0
+"tributylmethylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"1,2-dimethylimidazolium decanoate",0,0,0
+"1-butyl-2,3-dimethylimidazolium diethyl phosphate",0,0,0
+n-ethyl-n-methyl-n-propylammonium formate,0,0,0
+ethyltributylphosphonium dimethyl phosphate,0,0,0
+dimethylammonium dicyanamide,1,1,1
+1-ethyl-3-methylpyridinium acetate,0,0,0
+2-methyl-1-propylpyridinium methyl sulfate,0,0,0
+1-ethyl-2-methylpyridinium methyl sulfate,0,0,0
+1-ethyl-3-methylpyridinium tricyanomethanide,1,1,1
+1-hexylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butyl-2-methylpyridinium dibutylphosphate,0,0,0
+1-ethyl-3-methylpyridinium ethyl sulfate,0,1,0
+1-methyl-3-propylimidazolium ethyl sulfate,0,0,0
+1-benzyl-3-methylimidazolium decanoate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium nitrate,1,1,0
+1-hexyl-3-methylimidazolium acetate,0,0,0
+1-ethylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-decyl-3-methylimidazolium tricyanomethanide,0,0,0
+1-propylpyridinium ethyl sulfate,0,0,0
+1-hexyl-3-methylimidazolium bromide,0,0,0
+1-heptyl-3-methylimidazolium decanoate,0,0,0
+1-methyl-3-propylimidazolium bis(fluorosulfonyl)imide,1,0,1
+1-butyl-3-ethylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butyl-3-methylimidazolium perfluorobutanesulfonate,0,0,0
+tributylmethylammonium thiocyanate,0,0,0
+diethylmethylammonium bis(fluorosulfonyl)imide,1,1,1
+butyltriethylammonium tosylate,0,0,0
+1-butyl-3-methylimidazolium dihydrogen phosphate,0,0,0
+ethyltributylphosphonium thiocyanate,0,0,0
+ethyltributylphosphonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethyl-3-vinylimidazolium decanoate,0,0,0
+butyltriethylammonium bis(fluorosulfonyl)imide,0,0,0
+n-ethyl-n-methyl-n-propylammonium methanesulfonate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium dibutylphosphate",0,0,0
+1-butyl-4-methylpyridinium hydrogensulfate,0,0,0
+1-heptyl-3-methylimidazolium dimethyl phosphate,0,0,0
+1-butyl-3-ethylimidazolium bis(fluorosulfonyl)imide,0,0,0
+n-ethyl-n-methyl-n-propylammonium decanoate,0,0,0
+n-ethyl-n-methyl-n-propylammonium acetate,0,0,0
+tributyltetradecylphosphonium decanoate,0,0,0
+1-allyl-3-methylimidazolium dibutylphosphate,0,0,0
+1-decyl-3-methylimidazolium dihydrogen phosphate,0,0,0
+1-methyl-1-octylpyrrolidinium diethyl phosphate,0,0,0
+1-ethylimidazolium methyl sulfate,0,0,0
+1-hexyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-heptyl-3-methylimidazolium triflate,0,0,0
+trihexyltetradecylphosphonium bromide,0,0,0
+1-ethyl-4-methylpyridinium hydrogensulfate,0,0,0
+"1-butyl-2,3-dimethylimidazolium decanoate",0,0,0
+1-allyl-3-methylimidazolium acetate,0,0,0
+1-butyl-2-methylpyridinium tricyanomethanide,1,1,1
+2-methyl-1-propylpyridinium decanoate,0,0,0
+1-methyl-1-octylpyrrolidinium dimethyl phosphate,0,0,0
+1-methyl-3-nonylimidazolium methanesulfonate,0,0,0
+"1-allyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-propyl-2-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-propylimidazolium tetrafluoroborate,0,0,0
+"trihexyltetradecylphosphonium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+1-methyl-3-octylimidazolium methyl sulfate,0,0,0
+1-methyl-3-pentylimidazolium acetate,0,0,0
+1-ethyl-3-propylimidazolium methyl sulfate,0,0,0
+"1,2-dimethyl-3-propylimidazolium decanoate",0,0,0
+1-decyl-3-methylimidazolium tosylate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium acetate,0,0,0
+triethylsulfonium dicyanamide,1,1,1
+1-butyl-1-methylpiperidinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+"1,3-diethylimidazolium triflate",0,0,0
+octyltriethylammonium dimethyl phosphate,0,0,0
+1-ethyl-3-propylimidazolium thiocyanate,1,1,0
+1-decyl-3-methylimidazolium decanoate,0,0,0
+1-heptyl-3-methylimidazolium trifluoroacetate,0,0,0
+1-propyl-4-methylpyridinium diethyl phosphate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium formate",0,0,0
+"1,3-diethylimidazolium methyl sulfate",0,0,0
+diethylmethylammonium decanoate,0,0,0
+1-propyl-4-methylpyridinium dimethyl phosphate,0,0,0
+1-allyl-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-nonylimidazolium thiocyanate,0,0,0
+ethyltributylphosphonium tricyanomethanide,1,0,0
+"1,3-diethylimidazolium tosylate",0,0,0
+2-hydroxyethylammonium dimethyl phosphate,0,0,0
+1-methyl-3-octylimidazolium thiocyanate,1,0,0
+1-butylpyridinium bis(fluorosulfonyl)imide,0,0,0
+choline dibutylphosphate,0,0,0
+1-heptyl-3-methylimidazolium perfluorobutanesulfonate,0,0,0
+1-propylpyridinium dicyanamide,1,1,1
+1-ethyl-2-methylpyridinium ethyl sulfate,0,0,0
+trihexyltetradecylphosphonium methanesulfonate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium bis(fluorosulfonyl)imide,0,0,0
+1-butyl-3-ethylimidazolium formate,0,0,0
+trihexyltetradecylphosphonium dibutylphosphate,0,0,0
+butyltrimethylammonium formate,0,0,0
+1-methyl-3-nonylimidazolium trifluoroacetate,0,0,0
+diethylmethylammonium tetrafluoroborate,1,1,1
+1-hexyl-3-methylimidazolium ethyl sulfate,0,0,0
+1-butyl-1-methylpyrrolidinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethyl-3-vinylimidazolium diethyl phosphate,0,0,0
+1-butyl-3-ethylimidazolium triflate,0,0,0
+"1,2-dimethylimidazolium ethyl sulfate",0,0,0
+1-methyl-1-propylpiperidinium bis(2-ethylhexyl)phosphate,0,0,0
+1-butylpyridinium dicyanamide,1,1,1
+1-ethylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-hexylpyridinium methanesulfonate,0,0,0
+1-allyl-3-methylimidazolium hydrogensulfate,0,0,0
+1-butylpyridinium tricyanomethanide,1,1,1
+n-ethyl-n-methyl-n-propylammonium ethyl sulfate,0,0,0
+"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+1-propyl-3-methylpyridinium bis(fluorosulfonyl)imide,0,1,1
+"1-butyl-2,3-dimethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"1,2-dimethyl-3-propylimidazolium bis(2-ethylhexyl)phosphate",0,0,0
+1-ethylimidazolium thiocyanate,1,1,1
+1-benzyl-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+"1,2-dimethylimidazolium dimethyl phosphate",0,0,0
+trihexyltetradecylphosphonium nitrate,0,0,0
+1-propyl-3-methylpyridinium hydrogensulfate,0,0,0
+1-methyl-3-nonylimidazolium tetrafluoroborate,0,0,0
+triethylsulfonium bis(2-ethylhexyl)phosphate,0,0,0
+1-butyl-3-methylpyridinium dibutylphosphate,0,0,0
+"1-propyl-2-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+diethylmethylsulfonium ethyl sulfate,1,1,1
+1-ethyl-4-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-allyl-3-methylimidazolium diethyl phosphate,0,0,0
+1-butyl-2-methylpyridinium trifluoroacetate,0,0,0
+1-methyl-1-propylpyrrolidinium diethyl phosphate,0,0,0
+"1,2-dimethyl-3-propylimidazolium bis(fluorosulfonyl)imide",1,0,0
+1-ethyl-2-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butylpyridinium dibutylphosphate,0,0,0
+1-dodecyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butyl-2-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-allyl-3-methylimidazolium triflate,0,0,0
+1-butylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+1-ethyl-3-vinylimidazolium methyl sulfate,0,0,0
+1-ethyl-3-methylpyridinium trifluoroacetate,0,0,0
+1-methyl-3-nonylimidazolium dibutylphosphate,0,0,0
+1-ethyl-4-methylpyridinium tosylate,0,0,0
+1-methyl-3-propylimidazolium acetate,0,0,0
+1-hexyl-1-methylpyrrolidinium bis(fluorosulfonyl)imide,0,0,0
+1-hexylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+1-propyl-4-methylpyridinium formate,0,0,0
+1-methyl-3-nonylimidazolium hexafluorophosphate,0,0,0
+1-butyl-4-methylpyridinium dicyanamide,1,0,1
+triisobutylmethylphosphonium diethyl phosphate,0,0,0
+1-butyl-3-vinylimidazolium bis(fluorosulfonyl)imide,0,0,0
+"1-ethyl-3-propylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+tributyltetradecylphosphonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butyl-3-vinylimidazolium methyl sulfate,0,0,0
+1-butyl-3-methylimidazolium formate,0,0,0
+1-butyl-3-ethylimidazolium dibutylphosphate,0,0,0
+1-butyl-3-ethylimidazolium nitrate,1,0,0
+1-butyl-1-methylpiperidinium dibutylphosphate,0,0,0
+tributylmethylphosphonium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-methyl-1-octylpyrrolidinium bis(2-ethylhexyl)phosphate,0,0,0
+trihexyltetradecylphosphonium trifluoroacetate,0,0,0
+1-hexyl-3-methylimidazolium methyl sulfate,0,0,0
+2-hydroxyethylammonium diethyl phosphate,0,0,0
+1-propylpyridinium tricyanomethanide,1,1,1
+"1-ethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-heptyl-3-methylimidazolium dibutylphosphate,0,0,0
+choline dicyanamide,1,1,1
+"1-butyl-3-ethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"1,3-diethylimidazolium bis(fluorosulfonyl)imide",1,0,1
+1-ethyl-3-propylimidazolium dihydrogen phosphate,0,0,0
+1-methyl-1-propylpyrrolidinium decanoate,0,0,0
+1-hexyl-3-methylimidazolium dimethyl phosphate,0,0,0
+"1,3-diethylimidazolium ethyl sulfate",0,0,0
+1-butyl-3-vinylimidazolium dibutylphosphate,0,0,0
+1-hexyl-3-methylimidazolium dicyanamide,1,0,0
+1-methyl-3-propylimidazolium dibutylphosphate,0,0,0
+"1,3-diethylimidazolium dicyanamide",1,1,1
+octyltriethylammonium decanoate,0,0,0
+1-ethyl-4-methylpyridinium dimethyl phosphate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium thiocyanate",1,1,1
+1-butyl-3-ethylimidazolium methyl sulfate,0,0,0
+1-methyl-1-propylpyrrolidinium bis(2-ethylhexyl)phosphate,0,0,0
+octyltriethylammonium bis(fluorosulfonyl)imide,0,0,0
+1-butyl-2-methylpyridinium formate,0,0,0
+1-methyl-3-octylimidazolium acetate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium thiocyanate,1,1,0
+1-butyl-3-ethylimidazolium thiocyanate,1,0,0
+1-(2-methoxyethyl)-3-methylimidazolium diethyl phosphate,0,0,0
+1-methyl-3-pentylimidazolium decanoate,0,0,0
+1-methyl-1-propylpyrrolidinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-propyl-3-methylpyridinium dibutylphosphate,0,0,0
+1-butyl-4-methylpyridinium formate,0,0,0
+"1-heptyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+choline bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethyl-3-propylimidazolium dibutylphosphate,0,0,0
+ethylammonium ethyl sulfate,0,1,0
+triethylsulfonium bis(fluorosulfonyl)imide,1,1,1
+1-ethylimidazolium acetate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium trifluoroacetate,0,0,0
+1-methyl-3-pentylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethyl-4-methylpyridinium thiocyanate,1,1,1
+1-allyl-3-methylimidazolium bis(fluorosulfonyl)imide,1,1,1
+diethylmethylammonium dimethyl phosphate,0,0,0
+1-ethyl-3-propylimidazolium dicyanamide,1,1,1
+"1-butyl-2,3-dimethylimidazolium trifluoroacetate",0,0,0
+1-butyl-3-ethylimidazolium methanesulfonate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium acetate",0,0,0
+tributylmethylammonium bis(fluorosulfonyl)imide,0,0,0
+1-benzyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-benzyl-3-methylimidazolium dimethyl phosphate,0,0,0
+1-butyl-4-methylpyridinium decanoate,0,0,0
+1-methyl-3-propylimidazolium trifluoroacetate,0,0,0
+ethylammonium formate,0,0,0
+2-methyl-1-propylpyridinium dicyanamide,1,1,1
+1-butyl-3-ethylimidazolium tricyanomethanide,1,1,0
+octyltriethylammonium formate,0,0,0
+1-allyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-methyl-3-nonylimidazolium bis(fluorosulfonyl)imide,0,0,0
+1-methyl-1-octylpyrrolidinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-decyl-3-methylimidazolium dibutylphosphate,0,0,0
+1-hexylpyridinium thiocyanate,1,0,0
+1-ethyl-4-methylpyridinium ethyl sulfate,0,0,0
+1-hexyl-3-methylimidazolium decanoate,0,0,0
+1-hexyl-1-methylpyrrolidinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+tributyltetradecylphosphonium tricyanomethanide,0,0,0
+"tributyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+tributylmethylammonium decanoate,0,0,0
+"1-propyl-4-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+tributyltetradecylphosphonium bis(trifluoromethylsulfonyl)imide,0,0,0
+diethylmethylammonium acetate,0,0,0
+triisobutylmethylphosphonium dicyanamide,1,0,0
+1-methyl-1-octylpyrrolidinium tricyanomethanide,1,0,0
+1-butyl-4-methylpyridinium methanesulfonate,0,0,0
+1-butylpyridinium methyl sulfate,0,0,0
+"1-butyl-2,3-dimethylimidazolium dibutylphosphate",0,0,0
+1-methyl-3-octylimidazolium dicyanamide,1,0,0
+1-allyl-3-methylimidazolium tricyanomethanide,1,1,1
+1-butyl-3-methylpyridinium hydrogensulfate,0,0,0
+1-butylpyridinium methanesulfonate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium methyl sulfate,0,0,0
+butyltrimethylammonium dicyanamide,1,1,1
+1-decyl-3-methylimidazolium ethyl sulfate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium decanoate",0,0,0
+2-methyl-1-propylpyridinium acetate,0,0,0
+1-ethyl-3-propylimidazolium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-butyl-3-methylpyridinium diethyl phosphate,0,0,0
+"1-methyl-3-octylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"1,3-dimethylimidazolium tetrafluoroborate",1,1,1
+1-heptyl-3-methylimidazolium dicyanamide,1,0,0
+1-allyl-3-methylimidazolium methyl sulfate,0,0,0
+1-ethyl-3-methylpyridinium decanoate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium bis(fluorosulfonyl)imide",1,0,0
+"1,3-diethylimidazolium bis(pentafluoroethylsulfonyl)imide",0,0,1
+n-ethyl-n-methyl-n-propylammonium dibutylphosphate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium diethyl phosphate",0,0,0
+1-ethyl-4-methylpyridinium triflate,0,0,0
+1-hexyl-1-methylpyrrolidinium dibutylphosphate,0,0,0
+"triethylsulfonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethylimidazolium decanoate,0,0,0
+1-butyl-4-methylpyridinium dibutylphosphate,0,0,0
+1-butyl-3-vinylimidazolium perfluorobutanesulfonate,0,0,0
+"1-butyl-2,3-dimethylimidazolium formate",0,0,0
+1-ethyl-3-vinylimidazolium thiocyanate,1,1,1
+butyltriethylammonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethylimidazolium trifluoroacetate,0,1,0
+1-(2-methoxyethyl)-3-methylimidazolium nitrate,0,0,1
+1-ethyl-3-vinylimidazolium trifluoroacetate,0,0,0
+1-heptyl-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-ethyl-4-methylpyridinium formate,0,0,0
+diethylmethylammonium tricyanomethanide,1,1,1
+"1-butyl-2,3-dimethylimidazolium methyl sulfate",0,0,0
+1-ethyl-3-vinylimidazolium methanesulfonate,0,0,0
+1-hexylpyridinium tricyanomethanide,1,0,0
+1-butyl-3-methylpyridinium tricyanomethanide,1,1,1
+1-butyl-3-methylpyridinium methyl sulfate,0,0,0
+"1-butyl-2,3-dimethylimidazolium bis(2-ethylhexyl)phosphate",0,0,0
+octyltriethylammonium dibutylphosphate,0,0,0
+1-butyl-4-methylpyridinium diethyl phosphate,0,0,0
+ethyltributylphosphonium formate,0,0,0
+diethylmethylsulfonium methyl sulfate,0,1,0
+"1-ethyl-2,3-dimethylimidazolium dicyanamide",1,1,1
+"1-ethyl-2,3-dimethylimidazolium bis(2-ethylhexyl)phosphate",0,0,0
+"1,2-dimethyl-3-propylimidazolium diethyl phosphate",0,0,0
+2-methyl-1-propylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-methyl-3-pentylimidazolium bromide,0,0,0
+1-butyl-3-methylimidazolium trifluoroacetate,0,0,0
+1-butyl-3-ethylimidazolium acetate,0,0,0
+1-ethyl-3-propylimidazolium acetate,0,0,0
+1-propyl-4-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+2-hydroxyethylammonium acetate,0,0,0
+1-propyl-4-methylpyridinium methanesulfonate,0,0,0
+butyltriethylammonium bis(2-ethylhexyl)phosphate,0,0,0
+1-propyl-2-methylpyridinium decanoate,0,0,0
+1-hexylpyridinium trifluoroacetate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium dicyanamide,1,1,1
+"1,2-dimethyl-3-propylimidazolium dicyanamide",1,1,1
+n-ethyl-n-methyl-n-propylammonium bis(trifluoromethylsulfonyl)imide,0,0,0
+methyltrioctylammonium bis(2-ethylhexyl)phosphate,0,0,0
+1-ethyl-3-methylpyridinium bis(fluorosulfonyl)imide,0,1,1
+1-benzyl-3-methylimidazolium dibutylphosphate,0,0,0
+2-hydroxyethylammonium ethyl sulfate,0,1,0
+"1-methyl-3-nonylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"1-butyl-4-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethyl-3-methylimidazolium bis(fluorosulfonyl)imide,1,1,1
+1-ethyl-3-vinylimidazolium dibutylphosphate,0,0,0
+1-ethyl-3-vinylimidazolium hydrogensulfate,0,0,0
+"1-butyl-2,3-dimethylimidazolium acetate",0,0,0
+1-methyl-1-octylpyrrolidinium ethyl sulfate,0,0,0
+1-hexyl-3-methylimidazolium formate,0,0,0
+diethylmethylsulfonium dimethyl phosphate,1,0,0
+1-propylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-nonylimidazolium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-ethyl-2-methylpyridinium dicyanamide,1,1,1
+1-methyl-1-propylpyrrolidinium dibutylphosphate,0,0,0
+1-propyl-3-methylpyridinium thiocyanate,1,1,1
+1-butyl-1-methylpyrrolidinium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-octylimidazolium decanoate,0,0,0
+1-methyl-3-propylimidazolium dimethyl phosphate,0,0,0
+choline methyl sulfate,0,0,0
+n-ethyl-n-methyl-n-propylammonium bis(fluorosulfonyl)imide,1,1,0
+triethylsulfonium trifluoroacetate,1,1,0
+2-hydroxyethylammonium nitrate,1,1,1
+1-methyl-3-pentylimidazolium tricyanomethanide,1,1,1
+"1,2-dimethyl-3-propylimidazolium acetate",0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium formate,0,0,0
+1-butyl-3-vinylimidazolium formate,0,0,0
+1-methyl-3-pentylimidazolium trifluoroacetate,0,0,0
+n-ethyl-n-methyl-n-propylammonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-methyl-3-propylimidazolium methyl sulfate,0,0,0
+"1,3-diethylimidazolium bis(2-ethylhexyl)phosphate",0,0,0
+1-propyl-4-methylpyridinium triflate,0,0,0
+butyltrimethylammonium dibutylphosphate,0,0,0
+1-methyl-1-octylpyrrolidinium methyl sulfate,0,0,0
+tributylmethylphosphonium bis(fluorosulfonyl)imide,1,0,0
+1-decyl-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-butyl-2-methylpyridinium acetate,0,0,0
+"1,3-diethylimidazolium dihydrogen phosphate",0,0,0
+ethyltributylphosphonium bis(2-ethylhexyl)phosphate,0,0,0
+"1-hexyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-hexylpyridinium methyl sulfate,0,0,0
+1-butyl-3-ethylimidazolium diethyl phosphate,0,0,0
+1-ethyl-3-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethyl-3-vinylimidazolium tosylate,0,0,0
+tributyltetradecylphosphonium bis(fluorosulfonyl)imide,0,0,0
+ethylammonium dicyanamide,1,1,1
+"1,2-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide",0,0,0
+ethyltributylphosphonium dibutylphosphate,0,0,0
+diethylmethylsulfonium dicyanamide,1,1,1
+"1-butyl-3-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-butyl-3-vinylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-ethyl-1-methylpyrrolidinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+"1,2-dimethyl-3-propylimidazolium bis(pentafluoroethylsulfonyl)imide",0,0,0
+1-methyl-3-propylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,1
+1-(2-hydroxyethyl)-3-methylimidazolium tricyanomethanide,1,1,1
+diethylmethylsulfonium dibutylphosphate,1,0,0
+tributyltetradecylphosphonium thiocyanate,0,0,0
+1-butyl-3-ethylimidazolium tetrafluoroborate,0,0,0
+1-hexyl-1-methylpyrrolidinium dicyanamide,1,0,0
+1-methyl-3-propylimidazolium triflate,0,1,1
+1-(2-hydroxyethyl)-3-methylimidazolium dicyanamide,1,1,1
+1-methyl-3-propylimidazolium thiocyanate,1,1,1
+butyltriethylammonium thiocyanate,1,0,1
+1-ethyl-4-methylpyridinium dibutylphosphate,0,0,0
+1-decyl-3-methylimidazolium hydrogensulfate,0,0,0
+triethylsulfonium tricyanomethanide,1,1,1
+1-hexyl-3-methylimidazolium dibutylphosphate,0,0,0
+1-hexyl-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-butyl-2-methylpyridinium decanoate,0,0,0
+2-hydroxyethylammonium bis(fluorosulfonyl)imide,1,1,0
+1-methyl-3-octylimidazolium hydrogensulfate,0,0,0
+octyltriethylammonium acetate,0,0,0
+"1-butyl-2,3-dimethylimidazolium tricyanomethanide",1,1,0
+ethylammonium thiocyanate,1,1,1
+1-methyl-1-propylpiperidinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-hexyl-3-methylimidazolium thiocyanate,1,0,0
+1-propyl-4-methylpyridinium dicyanamide,1,1,1
+1-butyl-2-methylpyridinium dimethyl phosphate,0,0,0
+1-propylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-heptyl-3-methylimidazolium thiocyanate,1,0,0
+1-propyl-2-methylpyridinium trifluoroacetate,0,0,0
+1-propyl-4-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+1-ethyl-3-methylpyridinium dimethyl phosphate,0,0,0
+1-propyl-2-methylpyridinium bis(fluorosulfonyl)imide,1,1,0
+1-benzyl-3-methylimidazolium formate,0,0,0
+triisobutylmethylphosphonium dibutylphosphate,0,0,0
+1-butyl-3-methylpyridinium methanesulfonate,0,0,0
+diethylmethylammonium tosylate,0,0,0
+1-methyl-1-propylpiperidinium bis(fluorosulfonyl)imide,0,0,0
+1-hexyl-3-methylimidazolium bis(fluorosulfonyl)imide,0,0,0
+1-ethyl-3-propylimidazolium decanoate,0,0,0
+tributylmethylphosphonium tricyanomethanide,1,0,0
+choline tricyanomethanide,1,1,1
+trihexyltetradecylphosphonium tricyanomethanide,0,0,0
+"1-butyl-2,3-dimethylimidazolium bis(fluorosulfonyl)imide",0,0,0
+1-hexylpyridinium diethyl phosphate,0,0,0
+1-ethylimidazolium tricyanomethanide,1,1,1
+1-decyl-3-methylimidazolium methanesulfonate,0,0,0
+1-methyl-3-octylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-ethyl-4-methylpyridinium tricyanomethanide,1,1,1
+"1-butyl-3-vinylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-methyl-1-propylpyrrolidinium formate,0,1,0
+1-methyl-3-nonylimidazolium bromide,0,0,0
+methyltrioctylammonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+tributyltetradecylphosphonium formate,0,0,0
+1-propyl-3-methylpyridinium diethyl phosphate,0,0,0
+diethylmethylsulfonium formate,1,1,1
+butyltriethylammonium dibutylphosphate,0,0,0
+propylammonium formate,0,0,0
+1-allyl-3-methylimidazolium decanoate,0,0,0
+1-propyl-3-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+diethylmethylsulfonium bis(pentafluoroethylsulfonyl)imide,1,0,0
+triethylsulfonium perfluorobutanesulfonate,1,1,0
+butyltrimethylammonium ethyl sulfate,0,0,0
+1-ethyl-2-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+"1,3-diethylimidazolium perfluorobutanesulfonate",0,0,0
+2-hydroxyethylammonium dibutylphosphate,0,0,0
+"1-methyl-3-propylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethyl-3-propylimidazolium tosylate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium thiocyanate,1,0,0
+1-ethyl-4-methylpyridinium methanesulfonate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-propyl-3-methylpyridinium decanoate,0,0,0
+1-heptyl-3-methylimidazolium bromide,0,0,0
+1-methyl-3-octylimidazolium ethyl sulfate,0,0,0
+1-butyl-3-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+diethylmethylsulfonium diethyl phosphate,1,1,0
+1-(2-methoxyethyl)-3-methylimidazolium triflate,0,0,0
+tributylmethylammonium tricyanomethanide,1,0,0
+1-ethyl-3-vinylimidazolium ethyl sulfate,0,0,0
+"1,3-dimethylimidazolium hydrogensulfate",0,0,0
+triisobutylmethylphosphonium ethyl sulfate,0,0,0
+diethylmethylammonium trifluoroacetate,0,1,1
+"1,3-dimethylimidazolium thiocyanate",1,1,1
+dimethylammonium thiocyanate,1,1,1
+1-butyl-3-vinylimidazolium dimethyl phosphate,0,0,0
+1-butyl-1-methylpyrrolidinium diethyl phosphate,0,0,0
+2-hydroxyethylammonium dicyanamide,1,1,1
+1-methyl-3-pentylimidazolium bis(fluorosulfonyl)imide,0,0,0
+1-heptyl-3-methylimidazolium ethyl sulfate,0,0,0
+1-propyl-3-methylpyridinium dicyanamide,1,1,1
+1-allyl-3-methylimidazolium trifluoroacetate,0,0,0
+"1,3-diethylimidazolium hydrogensulfate",0,0,0
+1-butyl-4-methylpyridinium dimethyl phosphate,0,0,0
+1-methyl-3-pentylimidazolium dihydrogen phosphate,0,0,0
+1-methyl-3-octylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+ethyltributylphosphonium ethyl sulfate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium trifluoroacetate,0,0,0
+diethylmethylsulfonium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-1-octylpyrrolidinium dicyanamide,0,0,0
+tributyltetradecylphosphonium acetate,0,0,0
+1-butyl-3-ethylimidazolium decanoate,0,0,0
+1-butyl-4-methylpyridinium thiocyanate,1,0,0
+1-methyl-3-pentylimidazolium hexafluorophosphate,0,0,0
+1-hexylpyridinium dicyanamide,1,0,1
+1-ethyl-4-methylpyridinium methyl sulfate,0,0,0
+1-propyl-4-methylpyridinium tetrafluoroborate,0,0,0
+1-butyl-2-methylpyridinium dicyanamide,1,0,1
+propylammonium dibutylphosphate,0,0,0
+1-propyl-2-methylpyridinium dimethyl phosphate,0,0,0
+"1,3-diethylimidazolium tricyanomethanide",1,1,1
+"1,2-dimethyl-3-propylimidazolium trifluoroacetate",0,0,0
+diethylmethylsulfonium thiocyanate,1,1,1
+diethylmethylammonium thiocyanate,1,1,1
+1-heptyl-3-methylimidazolium formate,0,0,0
+tributylmethylphosphonium decanoate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium dibutylphosphate,0,0,0
+"1-propylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-propylpyridinium triflate,0,0,0
+1-propyl-2-methylpyridinium tricyanomethanide,1,1,1
+2-methyl-1-propylpyridinium thiocyanate,1,1,1
+1-methyl-1-propylpiperidinium dicyanamide,1,1,1
+butyltrimethylammonium thiocyanate,1,1,1
+1-butyl-3-ethylimidazolium trifluoroacetate,0,0,0
+1-propyl-2-methylpyridinium acetate,0,0,0
+diethylmethylammonium methyl sulfate,0,0,0
+tributylmethylammonium tosylate,0,0,0
+1-ethyl-3-vinylimidazolium tricyanomethanide,1,1,1
+1-(2-hydroxyethyl)-3-methylimidazolium diethyl phosphate,0,0,0
+1-ethylpyridinium dibutylphosphate,0,0,0
+1-ethylpyridinium ethyl sulfate,0,1,1
+tributylmethylphosphonium ethyl sulfate,0,0,0
+1-propyl-4-methylpyridinium dibutylphosphate,0,0,0
+1-butyl-2-methylpyridinium methyl sulfate,0,0,0
+"1,2-dimethylimidazolium dicyanamide",1,1,1
+ethylammonium triflate,1,1,1
+tributylmethylphosphonium tosylate,0,0,0
+1-butylpyridinium decanoate,0,0,0
+"n-ethyl-n-methyl-n-propylammonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"1,2-dimethylimidazolium dibutylphosphate",0,0,0
+diethylmethylsulfonium bis(fluorosulfonyl)imide,1,1,1
+"1-(2-hydroxyethyl)-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethyl-2-methylpyridinium diethyl phosphate,0,0,0
+1-ethyl-4-methylpyridinium diethyl phosphate,0,0,0
+1-butylpyridinium ethyl sulfate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium ethyl sulfate,0,0,0
+2-methyl-1-propylpyridinium bis(fluorosulfonyl)imide,0,0,0
+trihexyltetradecylphosphonium tosylate,0,0,0
+1-butyl-2-methylpyridinium diethyl phosphate,0,0,0
+1-heptyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+"1-butyl-3-ethylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+1-methyl-3-pentylimidazolium diethyl phosphate,0,0,0
+triisobutylmethylphosphonium bis(fluorosulfonyl)imide,0,0,0
+1-methyl-3-pentylimidazolium methanesulfonate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium acetate,0,0,0
+triethylsulfonium dibutylphosphate,1,1,0
+1-butyl-1-methylpyrrolidinium dibutylphosphate,0,0,0
+octyltriethylammonium thiocyanate,0,0,0
+1-heptyl-3-methylimidazolium tricyanomethanide,1,0,0
+1-butylpyridinium formate,0,0,0
+trihexyltetradecylphosphonium ethyl sulfate,0,0,0
+1-methyl-3-pentylimidazolium triflate,0,0,0
+1-ethyl-3-methylpyridinium formate,0,0,1
+1-butyl-1-methylpiperidinium dicyanamide,1,1,1
+2-methyl-1-propylpyridinium hydrogensulfate,0,0,0
+trihexyltetradecylphosphonium dihydrogen phosphate,0,0,0
+1-butyl-2-methylpyridinium methanesulfonate,0,0,0
+1-hexylpyridinium dimethyl phosphate,0,0,0
+1-heptyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,0,0,0
+"1,3-dimethylimidazolium diethyl phosphate",0,0,0
+1-butyl-4-methylpyridinium bis(fluorosulfonyl)imide,0,0,0
+octyltriethylammonium nitrate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium methanesulfonate,0,0,0
+1-propyl-3-methylpyridinium dimethyl phosphate,0,0,0
+triisobutylmethylphosphonium tricyanomethanide,1,0,0
+1-hexylpyridinium formate,0,0,0
+1-ethyl-3-propylimidazolium ethyl sulfate,0,0,0
+1-propyl-4-methylpyridinium methyl sulfate,0,0,0
+tributyltetradecylphosphonium dicyanamide,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium decanoate,0,0,0
+1-propylpyridinium diethyl phosphate,0,0,0
+2-methyl-1-propylpyridinium trifluoroacetate,0,0,0
+1-butyl-2-methylpyridinium ethyl sulfate,0,0,0
+1-ethylpyridinium acetate,0,0,0
+1-ethylimidazolium dicyanamide,1,1,1
+1-propyl-2-methylpyridinium methyl sulfate,0,0,0
+methyltrioctylammonium dodecylbenzenesulfonate,0,0,0
+1-propyl-3-methylpyridinium acetate,0,0,0
+1-ethyl-4-methylpyridinium tetrafluoroborate,0,0,0
+1-ethyl-4-methylpyridinium acetate,0,0,0
+1-hexyl-3-methylimidazolium nitrate,1,0,0
+"1-heptyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+tributylmethylphosphonium thiocyanate,1,0,0
+n-ethyl-n-methyl-n-propylammonium diethyl phosphate,0,0,0
+1-methyl-3-nonylimidazolium decanoate,0,0,0
+1-butyl-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-ethyl-3-propylimidazolium bis(fluorosulfonyl)imide,0,0,0
+octyltriethylammonium diethyl phosphate,0,0,0
+1-propyl-3-methylpyridinium triflate,0,0,1
+1-ethyl-3-propylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-octylimidazolium methanesulfonate,0,0,0
+tributylmethylammonium dicyanamide,1,0,0
+1-butyl-3-vinylimidazolium dicyanamide,1,0,0
+1-ethyl-2-methylpyridinium dimethyl phosphate,0,0,0
+1-decyl-3-methylimidazolium diethyl phosphate,0,0,0
+1-propylpyridinium tetrafluoroborate,0,0,0
+1-butylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-heptyl-3-methylimidazolium methanesulfonate,0,0,0
+1-propyl-4-methylpyridinium tricyanomethanide,1,1,1
+1-hexyl-3-methylimidazolium trifluoroacetate,0,0,0
+1-butyl-3-methylimidazolium decanoate,0,0,0
+triethylsulfonium dimethyl phosphate,0,0,0
+"1,2-dimethyl-3-propylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-hexylpyridinium hydrogensulfate,0,0,0
+"1,3-dimethylimidazolium decanoate",0,0,0
+"1,3-diethylimidazolium thiocyanate",1,1,1
+"1-ethyl-3-propylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+1-benzyl-3-methylimidazolium ethyl sulfate,0,0,0
+1-butyl-3-vinylimidazolium trifluoroacetate,0,0,0
+1-propylpyridinium decanoate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium methyl sulfate,0,0,0
+propylammonium ethyl sulfate,0,1,0
+tributylmethylphosphonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-methyl-3-nonylimidazolium methyl sulfate,0,0,0
+1-methyl-3-pentylimidazolium ethyl sulfate,0,0,0
+1-propyl-2-methylpyridinium bis(trifluoromethylsulfonyl)imide,0,0,0
+"1-ethyl-3-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+2-methyl-1-propylpyridinium tricyanomethanide,1,1,1
+octyltriethylammonium dicyanamide,1,0,0
+1-ethyl-3-propylimidazolium tricyanomethanide,1,1,1
+1-heptyl-3-methylimidazolium tosylate,0,0,0
+2-methyl-1-propylpyridinium diethyl phosphate,0,0,0
+ethyltributylphosphonium tosylate,0,0,0
+triisobutylmethylphosphonium decanoate,0,0,0
+1-ethyl-3-propylimidazolium tetrafluoroborate,0,0,0
+1-methyl-3-nonylimidazolium hydrogensulfate,0,0,0
+1-hexylpyridinium bis(fluorosulfonyl)imide,0,0,0
+n-ethyl-n-methyl-n-propylammonium dicyanamide,1,1,1
+tributylmethylammonium acetate,0,0,0
+1-butyl-1-methylpyrrolidinium formate,0,0,0
+diethylmethylammonium dibutylphosphate,0,0,0
+1-butylpyridinium dimethyl phosphate,0,0,0
+1-heptyl-3-methylimidazolium nitrate,0,0,0
+propylammonium nitrate,1,1,1
+"1,3-diethylimidazolium dimethyl phosphate",0,0,0
+1-propyl-3-methylpyridinium tricyanomethanide,1,1,1
+1-(2-hydroxyethyl)-3-methylimidazolium dibutylphosphate,0,0,0
+1-methyl-3-nonylimidazolium tricyanomethanide,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium perfluorobutanesulfonate,0,0,0
+1-decyl-3-methylimidazolium dicyanamide,0,0,0
+1-butylpyridinium tosylate,0,0,0
+1-propyl-3-methylpyridinium formate,0,1,0
+1-ethyl-3-methylimidazolium methyl sulfate,0,0,0
+"methyltrioctylammonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-methyl-3-propylimidazolium decanoate,0,0,0
+1-ethyl-4-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+1-butyl-3-vinylimidazolium ethyl sulfate,0,0,0
+butyltrimethylammonium diethyl phosphate,0,0,0
+butyltriethylammonium decanoate,0,0,0
+butyltriethylammonium diethyl phosphate,0,0,0
+1-butyl-3-methylimidazolium diethyl phosphate,0,0,0
+1-allyl-3-methylimidazolium methanesulfonate,0,0,0
+triethylsulfonium decanoate,1,1,0
+"1-methyl-3-pentylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethyl-2-methylpyridinium bis(fluorosulfonyl)imide,1,0,0
+1-ethyl-3-methylpyridinium methyl sulfate,0,0,0
+1-propylpyridinium trifluoroacetate,0,0,0
+"1,3-dimethylimidazolium methanesulfonate",0,0,0
+1-methyl-3-pentylimidazolium dimethyl phosphate,0,0,0
+1-ethyl-3-methylimidazolium decanoate,0,0,0
+1-butyl-4-methylpyridinium tosylate,0,0,0
+propylammonium triflate,0,1,1
+1-ethyl-4-methylpyridinium decanoate,0,0,0
+"1,3-dimethylimidazolium dibutylphosphate",0,0,0
+1-decyl-3-methylimidazolium dimethyl phosphate,0,0,0
+2-methyl-1-propylpyridinium formate,0,1,0
+1-methyl-3-nonylimidazolium dimethyl phosphate,0,0,0
+tributyltetradecylphosphonium dibutylphosphate,0,0,0
+1-ethyl-3-propylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+tributyltetradecylphosphonium perfluorobutanesulfonate,0,0,0
+"1,3-dimethylimidazolium acetate",0,0,0
+1-heptyl-3-methylimidazolium methyl sulfate,0,0,0
+1-butyl-3-methylpyridinium bis(fluorosulfonyl)imide,0,0,0
+1-methyl-3-pentylimidazolium tosylate,0,0,0
+1-methyl-3-octylimidazolium triflate,0,0,0
+1-methyl-3-pentylimidazolium nitrate,1,0,1
+tributylmethylammonium formate,0,0,0
+1-butyl-4-methylpyridinium trifluoroacetate,0,0,0
+1-heptyl-3-methylimidazolium tetrafluoroborate,0,0,0
+1-hexyl-1-methylpyrrolidinium tricyanomethanide,1,0,0
+propylammonium tetrafluoroborate,1,1,0
+choline bis(fluorosulfonyl)imide,0,1,0
+1-(2-methoxyethyl)-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+"1-butyl-2-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+propylammonium methyl sulfate,0,0,0
+2-methyl-1-propylpyridinium ethyl sulfate,0,0,0
+1-propyl-2-methylpyridinium ethyl sulfate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium tricyanomethanide,1,1,1
+1-(2-hydroxyethyl)-3-methylimidazolium triflate,0,0,0
+1-methyl-3-nonylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethyl-4-methylpyridinium bis(fluorosulfonyl)imide,1,0,0
+"1,3-diethylimidazolium acetate",0,0,0
+tributyltetradecylphosphonium diethyl phosphate,0,0,0
+propylammonium dimethyl phosphate,0,0,0
+"diethylmethylammonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-methyl-3-octylimidazolium tosylate,0,0,0
+1-butyl-3-ethylimidazolium ethyl sulfate,0,0,0
+1-ethyl-3-methylimidazolium trifluoroacetate,1,0,1
+"1,3-dimethylimidazolium trifluoroacetate",1,1,1
+1-butyl-3-methylpyridinium thiocyanate,1,0,0
+1-hexyl-3-methylimidazolium tosylate,0,0,0
+1-ethyl-3-vinylimidazolium triflate,0,0,0
+"1-butyl-2,3-dimethylimidazolium dicyanamide",1,0,0
+1-hexylpyridinium acetate,0,0,0
+1-propyl-2-methylpyridinium diethyl phosphate,0,0,0
+1-propylpyridinium hydrogensulfate,0,0,0
+1-propyl-3-methylpyridinium trifluoroacetate,0,0,0
+1-propylpyridinium acetate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium ethyl sulfate",0,0,0
+1-methyl-3-nonylimidazolium ethyl sulfate,0,0,0
+1-ethyl-3-propylimidazolium hydrogensulfate,0,0,0
+1-butylpyridinium acetate,0,0,0
+"triisobutylmethylphosphonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-butyl-2-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+triethylsulfonium tosylate,1,1,0
+"1,3-diethylimidazolium formate",0,0,0
+"1-butyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+triisobutylmethylphosphonium thiocyanate,0,0,0
+1-ethyl-4-methylpyridinium trifluoroacetate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium dimethyl phosphate,0,0,0
+ethyltributylphosphonium decanoate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium decanoate,0,0,0
+butyltrimethylammonium acetate,0,0,0
+1-ethylimidazolium bis(fluorosulfonyl)imide,1,1,0
+1-methyl-3-octylimidazolium diethyl phosphate,0,0,0
+1-propyl-4-methylpyridinium acetate,0,0,0
+1-decyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+n-ethyl-n-methyl-n-propylammonium tricyanomethanide,1,1,1
+1-propyl-2-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-propyl-2-methylpyridinium dicyanamide,1,1,1
+1-methyl-3-nonylimidazolium tosylate,0,0,0
+1-butyl-3-vinylimidazolium thiocyanate,1,0,0
+1-butyl-3-methylimidazolium bis(fluorosulfonyl)imide,0,0,0
+diethylmethylammonium formate,0,1,0
+1-butyl-1-methylpiperidinium diethyl phosphate,0,0,0
+1-ethyl-3-methylimidazolium tricyanomethanide,1,1,1
+1-butyl-3-ethylimidazolium dimethyl phosphate,0,0,0
+1-ethyl-2-methylpyridinium decanoate,0,0,0
+butyltrimethylammonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-hexylpyridinium chloride,0,0,0
+1-ethyl-3-methylimidazolium formate,0,0,0
+tributyltetradecylphosphonium tosylate,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium formate,0,0,0
+propylammonium acetate,0,0,0
+"1,3-diethylimidazolium dibutylphosphate",0,0,0
+trihexyltetradecylphosphonium hydrogensulfate,0,0,0
+"1,3-diethylimidazolium decanoate",0,0,0
+1-methyl-1-octylpyrrolidinium bis(fluorosulfonyl)imide,0,0,0
+1-benzyl-3-methylimidazolium thiocyanate,1,0,0
+octyltriethylammonium trifluoroacetate,0,0,0
+1-methyl-3-pentylimidazolium dicyanamide,1,0,1
+1-butyl-3-vinylimidazolium decanoate,0,0,0
+"1,2-dimethyl-3-propylimidazolium ethyl sulfate",0,0,0
+1-ethyl-3-methylpyridinium diethyl phosphate,0,0,0
+trihexyltetradecylphosphonium perfluorobutanesulfonate,0,0,0
+1-butyl-1-methylpyrrolidinium bis(fluorosulfonyl)imide,0,0,0
+1-propylpyridinium thiocyanate,1,1,1
+trihexyltetradecylphosphonium acetate,0,0,0
+propylammonium decanoate,0,0,0
+1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)imide,1,1,0
+1-ethyl-3-propylimidazolium diethyl phosphate,0,0,0
+"1-(2-methoxyethyl)-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+tributyltetradecylphosphonium bis(2-ethylhexyl)phosphate,0,0,0
+triethylsulfonium methyl sulfate,0,0,0
+trihexyltetradecylphosphonium diethyl phosphate,0,0,0
+"1,2-dimethyl-3-propylimidazolium formate",0,0,0
+1-ethyl-3-methylpyridinium dicyanamide,1,1,1
+1-butyl-3-methylpyridinium ethyl sulfate,0,0,0
+1-butyl-3-methylpyridinium acetate,0,0,0
+1-heptyl-3-methylimidazolium hexafluorophosphate,0,0,0
+1-butyl-3-vinylimidazolium acetate,0,0,0
+1-butyl-3-methylpyridinium decanoate,0,0,0
+choline diethyl phosphate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-methyl-3-pentylimidazolium tetrafluoroborate,0,0,0
+1-butyl-3-ethylimidazolium tosylate,0,0,0
+trihexyltetradecylphosphonium dodecylbenzenesulfonate,0,0,0
+octyltriethylammonium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium hydrogensulfate,0,0,0
+triisobutylmethylphosphonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butyl-3-ethylimidazolium perfluorobutanesulfonate,0,0,0
+diethylmethylammonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-heptyl-3-methylimidazolium hydrogensulfate,0,0,0
+1-hexyl-1-methylpyrrolidinium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-nonylimidazolium acetate,0,0,0
+"1,3-dimethylimidazolium bis(fluorosulfonyl)imide",1,1,1
+1-methyl-3-pentylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+tributylmethylammonium perfluorobutanesulfonate,0,0,0
+"1,3-diethylimidazolium trifluoroacetate",0,0,0
+octyltriethylammonium tricyanomethanide,1,0,0
+1-ethyl-3-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-pentylimidazolium formate,0,0,0
+1-allyl-3-methylimidazolium formate,0,0,0
+"1,3-dimethylimidazolium bis(2-ethylhexyl)phosphate",0,0,0
+1-allyl-3-methylimidazolium ethyl sulfate,0,0,0
+"1-methyl-3-pentylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+1-allyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-heptyl-3-methylimidazolium dihydrogen phosphate,0,0,0
+"1,3-dimethylimidazolium dicyanamide",1,1,1
+ethylammonium methyl sulfate,0,0,0
+propylammonium hydrogensulfate,0,0,0
+ethyltributylphosphonium dicyanamide,1,0,0
+1-hexyl-3-methylimidazolium tricyanomethanide,1,0,0
+"octyltriethylammonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethyl-3-vinylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-hexylpyridinium ethyl sulfate,0,0,0
+trihexyltetradecylphosphonium thiocyanate,0,0,0
+trihexyltetradecylphosphonium formate,0,0,0
+2-hydroxyethylammonium thiocyanate,1,1,1
+ethyltributylphosphonium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium tetrafluoroborate,0,0,0
+1-decyl-3-methylimidazolium trifluoroacetate,0,0,0
+1-methyl-3-propylimidazolium formate,0,0,0
+1-methyl-3-octylimidazolium dibutylphosphate,0,0,0
+1-butyl-2-methylpyridinium hydrogensulfate,0,0,0
+1-ethyl-2-methylpyridinium tricyanomethanide,1,1,1
+"1,2-dimethylimidazolium diethyl phosphate",0,0,0
+1-butyl-1-methylpiperidinium bis(2-ethylhexyl)phosphate,0,0,0
+1-butyl-4-methylpyridinium bis(pentafluoroethylsulfonyl)imide,0,0,0
+"1-hexylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"1,3-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide",0,0,1
+1-methyl-3-propylimidazolium dicyanamide,1,1,1
+1-hexyl-1-methylpyrrolidinium diethyl phosphate,0,0,0
+1-ethyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,1
+1-decyl-3-methylimidazolium thiocyanate,0,0,0
+1-propylpyridinium methanesulfonate,0,0,0
+propylammonium diethyl phosphate,0,0,0
+2-hydroxyethylammonium trifluoroacetate,1,1,0
+1-butyl-3-vinylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-propyl-4-methylpyridinium decanoate,0,0,0
+1-ethyl-3-propylimidazolium dimethyl phosphate,0,0,0
+1-propyl-4-methylpyridinium ethyl sulfate,0,0,0
+1-butylpyridinium thiocyanate,1,1,0
+1-methyl-3-nonylimidazolium dicyanamide,0,0,0
+"1,2-dimethyl-3-propylimidazolium thiocyanate",1,1,1
+1-ethyl-3-vinylimidazolium formate,0,0,0
+ethylammonium acetate,0,0,0
+ethyltributylphosphonium bis(fluorosulfonyl)imide,0,0,0
+ethylammonium trifluoroacetate,1,1,0
+1-decyl-3-methylimidazolium formate,0,0,0
+1-butyl-4-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+octyltriethylammonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+tributylmethylphosphonium bis(2-ethylhexyl)phosphate,0,0,0
+"1,2-dimethylimidazolium bis(2-ethylhexyl)phosphate",0,0,0
+1-butyl-4-methylpyridinium acetate,0,0,0
+"1-butyl-2,3-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide",0,0,0
+tributylmethylphosphonium dibutylphosphate,0,0,0
+1-butyl-3-methylpyridinium formate,0,0,0
+1-(2-methoxyethyl)-3-methylimidazolium ethyl sulfate,0,0,0
+1-butyl-2-methylpyridinium thiocyanate,1,0,0
+1-butyl-3-methylimidazolium dibutylphosphate,0,0,0
+1-ethyl-3-vinylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-methyl-3-pentylimidazolium methyl sulfate,0,0,0
+"1,2-dimethylimidazolium bis(fluorosulfonyl)imide",0,1,1
+1-butyl-3-methylpyridinium dicyanamide,1,0,1
+1-decyl-3-methylimidazolium bis(fluorosulfonyl)imide,0,0,0
+1-methyl-3-octylimidazolium dimethyl phosphate,0,0,0
+1-methyl-1-propylpyrrolidinium bis(trifluoromethylsulfonyl)imide,0,0,0
+"1-decyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+"butyltriethylammonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-propyl-2-methylpyridinium thiocyanate,1,1,1
+1-butyl-3-ethylimidazolium dicyanamide,1,0,0
+1-butylpyridinium hydrogensulfate,0,0,0
+tributylmethylammonium diethyl phosphate,0,0,0
+1-hexyl-1-methylpyrrolidinium ethyl sulfate,0,0,0
+1-ethyl-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+propylammonium thiocyanate,1,1,1
+1-butyl-3-methylimidazolium hydrogensulfate,0,0,0
+"1,2-dimethyl-3-propylimidazolium dibutylphosphate",0,0,0
+1-methyl-3-nonylimidazolium formate,0,0,0
+1-butyl-3-vinylimidazolium diethyl phosphate,0,0,0
+1-heptyl-3-methylimidazolium bis(fluorosulfonyl)imide,0,0,0
+1-allyl-3-methylimidazolium thiocyanate,1,1,1
+1-butyl-1-methylpiperidinium bis(fluorosulfonyl)imide,0,0,0
+1-butyl-3-ethylimidazolium dihydrogen phosphate,0,0,0
+butyltrimethylammonium tricyanomethanide,1,1,1
+2-methyl-1-propylpyridinium dibutylphosphate,0,0,0
+"1,3-dimethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-methyl-3-octylimidazolium bis(fluorosulfonyl)imide,0,0,0
+triethylsulfonium diethyl phosphate,1,0,0
+1-methyl-3-nonylimidazolium diethyl phosphate,0,0,0
+1-decyl-3-methylimidazolium acetate,0,0,0
+1-butylpyridinium triflate,0,0,0
+1-ethyl-3-methylpyridinium thiocyanate,1,1,1
+"1-ethyl-3-vinylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-hexyl-3-methylimidazolium dihydrogen phosphate,0,0,0
+trihexyltetradecylphosphonium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-butyl-3-methylimidazolium ethyl sulfate,0,0,0
+1-propyl-3-methylpyridinium methyl sulfate,0,0,0
+2-methyl-1-propylpyridinium dimethyl phosphate,0,0,0
+diethylmethylsulfonium decanoate,1,1,0
+propylammonium bis(fluorosulfonyl)imide,1,1,0
+1-methyl-3-octylimidazolium formate,0,0,0
+1-butylpyridinium trifluoroacetate,0,0,0
+1-methyl-1-propylpyrrolidinium dicyanamide,1,1,1
+1-ethyl-1-methylpyrrolidinium dibutylphosphate,0,0,0
+1-propyl-3-methylpyridinium ethyl sulfate,0,0,0
+1-butyl-3-ethylimidazolium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-butyl-4-methylpyridinium methyl sulfate,0,0,0
+1-ethylimidazolium dibutylphosphate,0,0,0
+"tributylmethylammonium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-benzyl-3-methylimidazolium tricyanomethanide,1,0,0
+1-butylpyridinium diethyl phosphate,0,0,0
+"1-decyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+"1-ethyl-2,3-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide",0,0,0
+1-ethylimidazolium nitrate,1,1,1
+1-(2-hydroxyethyl)-3-methylimidazolium bis(fluorosulfonyl)imide,0,0,0
+1-(2-hydroxyethyl)-3-methylimidazolium dihydrogen phosphate,0,0,0
+1-ethylimidazolium bis(pentafluoroethylsulfonyl)imide,0,0,0
+1-ethyl-1-methylpyrrolidinium dicyanamide,1,1,1
+"1,3-dimethylimidazolium ethyl sulfate",0,1,1
+1-ethyl-3-propylimidazolium triflate,0,0,0
+1-methyl-3-propylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+octyltriethylammonium bis(2-ethylhexyl)phosphate,0,0,0
+1-benzyl-3-methylimidazolium acetate,0,0,0
+1-propyl-3-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+triisobutylmethylphosphonium bis(trifluoromethylsulfonyl)imide,0,0,0
+butyltriethylammonium dicyanamide,1,1,1
+1-decyl-3-methylimidazolium methyl sulfate,0,0,0
+butyltriethylammonium bis(trifluoromethylsulfonyl)imide,0,0,0
+1-hexyl-3-methylimidazolium hydrogensulfate,0,0,0
+"1,2-dimethyl-3-propylimidazolium methyl sulfate",0,0,0
+triisobutylmethylphosphonium bis(2-ethylhexyl)phosphate,0,0,0
+1-propyl-4-methylpyridinium bis(fluorosulfonyl)imide,0,0,0
+octyltriethylammonium ethyl sulfate,0,0,0
+1-butyl-4-methylpyridinium ethyl sulfate,0,0,0
+1-decyl-3-methylimidazolium tetrafluoroborate,0,0,0
+"1-ethyl-2,3-dimethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-hexylpyridinium dibutylphosphate,0,0,0
+1-ethyl-3-propylimidazolium methanesulfonate,0,0,0
+1-butyl-3-vinylimidazolium tricyanomethanide,1,1,0
+1-butyl-3-methylpyridinium dimethyl phosphate,0,0,0
+1-ethylimidazolium formate,0,0,0
+1-methyl-3-nonylimidazolium triflate,0,0,0
+1-ethyl-3-propylimidazolium trifluoroacetate,0,0,0
+triethylsulfonium thiocyanate,1,1,1
+1-ethyl-3-propylimidazolium formate,0,0,0
+"1-ethyl-4-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-propyl-4-methylpyridinium hydrogensulfate,0,0,0
+"1,3-diethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+triethylsulfonium ethyl sulfate,0,1,1
+ethyltributylphosphonium perfluorobutanesulfonate,0,0,0
+butyltrimethylammonium bis(2-ethylhexyl)phosphate,0,0,0
+1-methyl-3-pentylimidazolium hydrogensulfate,0,0,0
+"1-butylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-butyl-3-ethylimidazolium hydrogensulfate,0,0,0
+octyltriethylammonium tosylate,0,0,0
+propylammonium trifluoroacetate,0,1,0
+"1-propyl-3-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate",0,0,0
+1-ethylpyridinium dicyanamide,1,1,1
+1-butyl-3-ethylimidazolium hexafluorophosphate,0,0,0
+diethylmethylammonium dicyanamide,1,1,1
+1-benzyl-3-methylimidazolium bis(fluorosulfonyl)imide,0,0,0
+"1,2-dimethylimidazolium methyl sulfate",0,0,0
+1-dodecyl-3-methylimidazolium dodecylbenzenesulfonate,0,0,0
+1-butyl-3-ethylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+"1,3-diethylimidazolium tetrafluoroborate",0,0,0
+tributylmethylphosphonium dicyanamide,1,0,0
+1-hexylpyridinium decanoate,0,0,0
+1-allyl-3-methylimidazolium dimethyl phosphate,0,0,0
+tributylmethylammonium trifluoroacetate,0,0,0
+1-butyl-1-methylpyrrolidinium decanoate,0,0,0
+1-butyl-3-ethylimidazolium bromide,0,0,0
+n-ethyl-n-methyl-n-propylammonium thiocyanate,1,1,1
+1-ethyl-3-vinylimidazolium dicyanamide,1,1,1
+1-(2-hydroxyethyl)-3-methylimidazolium bis(2-ethylhexyl)phosphate,0,0,0
+1-propylpyridinium formate,0,0,0
+1-ethyl-3-vinylimidazolium tetrafluoroborate,1,0,0
+2-hydroxyethylammonium methyl sulfate,0,0,0
+"1-butyl-2,3-dimethylimidazolium ethyl sulfate",0,0,0
+1-ethyl-4-methylpyridinium dicyanamide,1,1,1
+1-ethyl-3-vinylimidazolium bis(fluorosulfonyl)imide,1,0,0
+1-methyl-3-pentylimidazolium perfluorobutanesulfonate,0,0,0
+"1,3-diethylimidazolium methanesulfonate",0,0,0
+1-butyl-3-methylpyridinium bis(2-ethylhexyl)phosphate,0,0,0
+diethylmethylsulfonium tricyanomethanide,1,1,1
+1-benzyl-3-methylimidazolium methyl sulfate,0,0,0
+ethylammonium diethyl phosphate,0,0,0
+1-butyl-3-methylpyridinium trifluoroacetate,0,0,0
+1-methyl-3-octylimidazolium tricyanomethanide,1,0,0
+1-ethyl-3-methylpyridinium dibutylphosphate,0,0,0
+diethylmethylammonium bis(trifluoromethylsulfonyl)imide,0,0,1
+trihexyltetradecylphosphonium bis(fluorosulfonyl)imide,0,0,0
+1-methyl-3-propylimidazolium diethyl phosphate,0,0,0
+1-methyl-1-octylpyrrolidinium dibutylphosphate,0,0,0
+"1-hexyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate",0,0,0
+1-ethyl-3-propylimidazolium perfluorobutanesulfonate,0,0,0
+diethylmethylammonium diethyl phosphate,0,0,0

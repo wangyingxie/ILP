@@ -1,0 +1,1454 @@
+pair_sml,state,pair
+CN1C=C[N+](CCCCCCCCCC)=C1.[S-]C#N,0.0,1-decyl-3-methylimidazolium thiocyanate
+CN1C=C[N+](CCCCCCCCCC)=C1.O=C(C)[O-],0.0,1-decyl-3-methylimidazolium acetate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]S(=O)(OCC)=O,0.0,1-decyl-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]S(=O)(O)=O,0.0,1-decyl-3-methylimidazolium hydrogensulfate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]S(=O)(C)=O,0.0,1-decyl-3-methylimidazolium methanesulfonate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-decyl-3-methylimidazolium tosylate
+CN1C=C[N+](CCCCCCCCCC)=C1.O=C([H])[O-],0.0,1-decyl-3-methylimidazolium formate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-decyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-decyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-decyl-3-methylimidazolium dibutylphosphate
+CN1C=C[N+](CCCCCCCCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-decyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]P(O)(O)=O,0.0,1-decyl-3-methylimidazolium dihydrogen phosphate
+CN1C=C[N+](CCCCCCCCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-decyl-3-methylimidazolium trifluoroacetate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-decyl-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-decyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]P(OCC)(OCC)=O,0.0,1-decyl-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-decyl-3-methylimidazolium dimethyl phosphate
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-decyl-3-methylimidazolium methyl sulfate
+CN1C=C[N+](CCCCCCCCCC)=C1.N#C[N-]C#N,0.0,1-decyl-3-methylimidazolium dicyanamide
+CN1C=C[N+](CCCCCCCCCC)=C1.[O-][N+]([O-])=O,0.0,1-decyl-3-methylimidazolium nitrate
+CN1C=C[N+](CCCCCCCCCC)=C1.N#C[C-](C#N)C#N,-0.0,1-decyl-3-methylimidazolium tricyanomethanide
+CN1C=C[N+](CCCCCCCCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-decyl-3-methylimidazolium decanoate
+CN1C=C[N+](CCCCCCCCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-decyl-3-methylimidazolium bis(fluorosulfonyl)imide
+CC[N+]1=CC=CC(C)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-ethyl-3-methylpyridinium triflate
+CC[N+]1=CC=CC(C)=C1.[S-]C#N,0.0,1-ethyl-3-methylpyridinium thiocyanate
+CC[N+]1=CC=CC(C)=C1.O=C(C)[O-],0.0,1-ethyl-3-methylpyridinium acetate
+CC[N+]1=CC=CC(C)=C1.[O-]S(=O)(OCC)=O,0.0,1-ethyl-3-methylpyridinium ethyl sulfate
+CC[N+]1=CC=CC(C)=C1.[O-]S(=O)(O)=O,0.0,1-ethyl-3-methylpyridinium hydrogensulfate
+CC[N+]1=CC=CC(C)=C1.[O-]S(=O)(C)=O,0.0,1-ethyl-3-methylpyridinium methanesulfonate
+CC[N+]1=CC=CC(C)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-ethyl-3-methylpyridinium tosylate
+CC[N+]1=CC=CC(C)=C1.O=C([H])[O-],0.0,1-ethyl-3-methylpyridinium formate
+CC[N+]1=CC=CC(C)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethyl-3-methylpyridinium bis(2-ethylhexyl)phosphate
+CC[N+]1=CC=CC(C)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethyl-3-methylpyridinium dibutylphosphate
+CC[N+]1=CC=CC(C)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethyl-3-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC[N+]1=CC=CC(C)=C1.O=C(C(F)(F)F)[O-],0.0,1-ethyl-3-methylpyridinium trifluoroacetate
+CC[N+]1=CC=CC(C)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-ethyl-3-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CC[N+]1=CC=CC(C)=C1.[O-]P(OCC)(OCC)=O,0.0,1-ethyl-3-methylpyridinium diethyl phosphate
+CC[N+]1=CC=CC(C)=C1.[O-]P(OC)(OC)=O,0.0,1-ethyl-3-methylpyridinium dimethyl phosphate
+CC[N+]1=CC=CC(C)=C1.[O-]S(=O)(OC)=O,0.0,1-ethyl-3-methylpyridinium methyl sulfate
+CC[N+]1=CC=CC(C)=C1.N#C[N-]C#N,0.0,1-ethyl-3-methylpyridinium dicyanamide
+CC[N+]1=CC=CC(C)=C1.N#C[C-](C#N)C#N,-0.0,1-ethyl-3-methylpyridinium tricyanomethanide
+CC[N+]1=CC=CC(C)=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethyl-3-methylpyridinium decanoate
+CC[N+]1=CC=CC(C)=C1.F[B-](F)(F)F,0.0,1-ethyl-3-methylpyridinium tetrafluoroborate
+CC[N+]1=CC=CC(C)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-ethyl-3-methylpyridinium bis(fluorosulfonyl)imide
+CN1C=C[N+](CCCCCC)=C1.[S-]C#N,0.0,1-hexyl-3-methylimidazolium thiocyanate
+CN1C=C[N+](CCCCCC)=C1.O=C(C)[O-],0.0,1-hexyl-3-methylimidazolium acetate
+CN1C=C[N+](CCCCCC)=C1.[O-]S(=O)(OCC)=O,0.0,1-hexyl-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CCCCCC)=C1.[O-]S(=O)(O)=O,0.0,1-hexyl-3-methylimidazolium hydrogensulfate
+CN1C=C[N+](CCCCCC)=C1.[O-]S(=O)(C)=O,0.0,1-hexyl-3-methylimidazolium methanesulfonate
+CN1C=C[N+](CCCCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-hexyl-3-methylimidazolium tosylate
+CN1C=C[N+](CCCCCC)=C1.O=C([H])[O-],0.0,1-hexyl-3-methylimidazolium formate
+CN1C=C[N+](CCCCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-hexyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCCCCC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-hexyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CCCCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-hexyl-3-methylimidazolium dibutylphosphate
+CN1C=C[N+](CCCCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-hexyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CCCCCC)=C1.[O-]P(O)(O)=O,0.0,1-hexyl-3-methylimidazolium dihydrogen phosphate
+CN1C=C[N+](CCCCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-hexyl-3-methylimidazolium trifluoroacetate
+CN1C=C[N+](CCCCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-hexyl-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCCCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-hexyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCCCCC)=C1.[O-]P(OCC)(OCC)=O,0.0,1-hexyl-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CCCCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-hexyl-3-methylimidazolium dimethyl phosphate
+CN1C=C[N+](CCCCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-hexyl-3-methylimidazolium methyl sulfate
+CN1C=C[N+](CCCCCC)=C1.N#C[N-]C#N,-0.0,1-hexyl-3-methylimidazolium dicyanamide
+CN1C=C[N+](CCCCCC)=C1.[O-][N+]([O-])=O,0.0,1-hexyl-3-methylimidazolium nitrate
+CN1C=C[N+](CCCCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-hexyl-3-methylimidazolium decanoate
+CN1C=C[N+](CCCCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-hexyl-3-methylimidazolium bis(fluorosulfonyl)imide
+C[N+]1=C(C)N(CCC)C=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,"1,2-dimethyl-3-propylimidazolium triflate"
+C[N+]1=C(C)N(CCC)C=C1.[S-]C#N,0.0,"1,2-dimethyl-3-propylimidazolium thiocyanate"
+C[N+]1=C(C)N(CCC)C=C1.O=C(C)[O-],0.0,"1,2-dimethyl-3-propylimidazolium acetate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]S(=O)(OCC)=O,0.0,"1,2-dimethyl-3-propylimidazolium ethyl sulfate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]S(=O)(O)=O,0.0,"1,2-dimethyl-3-propylimidazolium hydrogensulfate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]S(=O)(C)=O,0.0,"1,2-dimethyl-3-propylimidazolium methanesulfonate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,"1,2-dimethyl-3-propylimidazolium tosylate"
+C[N+]1=C(C)N(CCC)C=C1.O=C([H])[O-],0.0,"1,2-dimethyl-3-propylimidazolium formate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,"1,2-dimethyl-3-propylimidazolium bis(2-ethylhexyl)phosphate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,"1,2-dimethyl-3-propylimidazolium dibutylphosphate"
+C[N+]1=C(C)N(CCC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,"1,2-dimethyl-3-propylimidazolium bis(pentafluoroethylsulfonyl)imide"
+C[N+]1=C(C)N(CCC)C=C1.O=C(C(F)(F)F)[O-],0.0,"1,2-dimethyl-3-propylimidazolium trifluoroacetate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,"1,2-dimethyl-3-propylimidazolium dodecylbenzenesulfonate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1,2-dimethyl-3-propylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]P(OCC)(OCC)=O,0.0,"1,2-dimethyl-3-propylimidazolium diethyl phosphate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]P(OC)(OC)=O,0.0,"1,2-dimethyl-3-propylimidazolium dimethyl phosphate"
+C[N+]1=C(C)N(CCC)C=C1.[O-]S(=O)(OC)=O,0.0,"1,2-dimethyl-3-propylimidazolium methyl sulfate"
+C[N+]1=C(C)N(CCC)C=C1.N#C[N-]C#N,0.0,"1,2-dimethyl-3-propylimidazolium dicyanamide"
+C[N+]1=C(C)N(CCC)C=C1.N#C[C-](C#N)C#N,-0.0,"1,2-dimethyl-3-propylimidazolium tricyanomethanide"
+C[N+]1=C(C)N(CCC)C=C1.O=C(CCCCCCCCC)[O-],0.0,"1,2-dimethyl-3-propylimidazolium decanoate"
+C[N+]1=C(C)N(CCC)C=C1.F[B-](F)(F)F,0.0,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate"
+C[N+]1=C(C)N(CCC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,"1,2-dimethyl-3-propylimidazolium bis(fluorosulfonyl)imide"
+CCN1C=C[N+](CC)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,"1,3-diethylimidazolium triflate"
+CCN1C=C[N+](CC)=C1.[S-]C#N,0.0,"1,3-diethylimidazolium thiocyanate"
+CCN1C=C[N+](CC)=C1.O=C(C)[O-],0.0,"1,3-diethylimidazolium acetate"
+CCN1C=C[N+](CC)=C1.[O-]S(=O)(O)=O,0.0,"1,3-diethylimidazolium hydrogensulfate"
+CCN1C=C[N+](CC)=C1.[O-]S(=O)(C)=O,0.0,"1,3-diethylimidazolium methanesulfonate"
+CCN1C=C[N+](CC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,"1,3-diethylimidazolium tosylate"
+CCN1C=C[N+](CC)=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,"1,3-diethylimidazolium perfluorobutanesulfonate"
+CCN1C=C[N+](CC)=C1.O=C([H])[O-],0.0,"1,3-diethylimidazolium formate"
+CCN1C=C[N+](CC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,"1,3-diethylimidazolium bis(2-ethylhexyl)phosphate"
+CCN1C=C[N+](CC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1,3-diethylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CCN1C=C[N+](CC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,"1,3-diethylimidazolium dibutylphosphate"
+CCN1C=C[N+](CC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,"1,3-diethylimidazolium bis(pentafluoroethylsulfonyl)imide"
+CCN1C=C[N+](CC)=C1.[O-]P(O)(O)=O,0.0,"1,3-diethylimidazolium dihydrogen phosphate"
+CCN1C=C[N+](CC)=C1.O=C(C(F)(F)F)[O-],0.0,"1,3-diethylimidazolium trifluoroacetate"
+CCN1C=C[N+](CC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,"1,3-diethylimidazolium dodecylbenzenesulfonate"
+CCN1C=C[N+](CC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1,3-diethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CCN1C=C[N+](CC)=C1.[O-]P(OC)(OC)=O,0.0,"1,3-diethylimidazolium dimethyl phosphate"
+CCN1C=C[N+](CC)=C1.[O-]S(=O)(OC)=O,0.0,"1,3-diethylimidazolium methyl sulfate"
+CCN1C=C[N+](CC)=C1.N#C[N-]C#N,-0.0,"1,3-diethylimidazolium dicyanamide"
+CCN1C=C[N+](CC)=C1.[O-][N+]([O-])=O,0.0,"1,3-diethylimidazolium nitrate"
+CCN1C=C[N+](CC)=C1.N#C[C-](C#N)C#N,-0.0,"1,3-diethylimidazolium tricyanomethanide"
+CCN1C=C[N+](CC)=C1.O=C(CCCCCCCCC)[O-],0.0,"1,3-diethylimidazolium decanoate"
+CCN1C=C[N+](CC)=C1.F[B-](F)(F)F,0.0,"1,3-diethylimidazolium tetrafluoroborate"
+CCN1C=C[N+](CC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,"1,3-diethylimidazolium bis(fluorosulfonyl)imide"
+CN1C=C[N+](C)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,"1,3-dimethylimidazolium triflate"
+CN1C=C[N+](C)=C1.[S-]C#N,0.0,"1,3-dimethylimidazolium thiocyanate"
+CN1C=C[N+](C)=C1.O=C(C)[O-],0.0,"1,3-dimethylimidazolium acetate"
+CN1C=C[N+](C)=C1.[O-]S(=O)(OCC)=O,0.0,"1,3-dimethylimidazolium ethyl sulfate"
+CN1C=C[N+](C)=C1.[O-]S(=O)(O)=O,0.0,"1,3-dimethylimidazolium hydrogensulfate"
+CN1C=C[N+](C)=C1.[O-]S(=O)(C)=O,0.0,"1,3-dimethylimidazolium methanesulfonate"
+CN1C=C[N+](C)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,"1,3-dimethylimidazolium tosylate"
+CN1C=C[N+](C)=C1.O=C([H])[O-],0.0,"1,3-dimethylimidazolium formate"
+CN1C=C[N+](C)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,"1,3-dimethylimidazolium bis(2-ethylhexyl)phosphate"
+CN1C=C[N+](C)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,"1,3-dimethylimidazolium dibutylphosphate"
+CN1C=C[N+](C)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,"1,3-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide"
+CN1C=C[N+](C)=C1.O=C(C(F)(F)F)[O-],0.0,"1,3-dimethylimidazolium trifluoroacetate"
+CN1C=C[N+](C)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,"1,3-dimethylimidazolium dodecylbenzenesulfonate"
+CN1C=C[N+](C)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1,3-dimethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](C)=C1.[O-]P(OCC)(OCC)=O,0.0,"1,3-dimethylimidazolium diethyl phosphate"
+CN1C=C[N+](C)=C1.N#C[N-]C#N,-0.0,"1,3-dimethylimidazolium dicyanamide"
+CN1C=C[N+](C)=C1.N#C[C-](C#N)C#N,-0.0,"1,3-dimethylimidazolium tricyanomethanide"
+CN1C=C[N+](C)=C1.O=C(CCCCCCCCC)[O-],0.0,"1,3-dimethylimidazolium decanoate"
+CN1C=C[N+](C)=C1.F[B-](F)(F)F,0.0,"1,3-dimethylimidazolium tetrafluoroborate"
+CN1C=C[N+](C)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,"1,3-dimethylimidazolium bis(fluorosulfonyl)imide"
+CN1C=C[N+](CCO)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-(2-hydroxyethyl)-3-methylimidazolium triflate
+CN1C=C[N+](CCO)=C1.[S-]C#N,0.0,1-(2-hydroxyethyl)-3-methylimidazolium thiocyanate
+CN1C=C[N+](CCO)=C1.O=C(C)[O-],0.0,1-(2-hydroxyethyl)-3-methylimidazolium acetate
+CN1C=C[N+](CCO)=C1.[O-]S(=O)(OCC)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CCO)=C1.[O-]S(=O)(O)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium hydrogensulfate
+CN1C=C[N+](CCO)=C1.[O-]S(=O)(C)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium methanesulfonate
+CN1C=C[N+](CCO)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium tosylate
+CN1C=C[N+](CCO)=C1.O=C([H])[O-],0.0,1-(2-hydroxyethyl)-3-methylimidazolium formate
+CN1C=C[N+](CCO)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCO)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-(2-hydroxyethyl)-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CCO)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium dibutylphosphate
+CN1C=C[N+](CCO)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CCO)=C1.[O-]P(O)(O)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium dihydrogen phosphate
+CN1C=C[N+](CCO)=C1.O=C(C(F)(F)F)[O-],0.0,1-(2-hydroxyethyl)-3-methylimidazolium trifluoroacetate
+CN1C=C[N+](CCO)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCO)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-(2-hydroxyethyl)-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCO)=C1.[O-]P(OCC)(OCC)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CCO)=C1.[O-]P(OC)(OC)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium dimethyl phosphate
+CN1C=C[N+](CCO)=C1.[O-]S(=O)(OC)=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium methyl sulfate
+CN1C=C[N+](CCO)=C1.N#C[N-]C#N,-0.0,1-(2-hydroxyethyl)-3-methylimidazolium dicyanamide
+CN1C=C[N+](CCO)=C1.[O-][N+]([O-])=O,0.0,1-(2-hydroxyethyl)-3-methylimidazolium nitrate
+CN1C=C[N+](CCO)=C1.N#C[C-](C#N)C#N,-0.0,1-(2-hydroxyethyl)-3-methylimidazolium tricyanomethanide
+CN1C=C[N+](CCO)=C1.O=C(CCCCCCCCC)[O-],0.0,1-(2-hydroxyethyl)-3-methylimidazolium decanoate
+CN1C=C[N+](CCO)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-(2-hydroxyethyl)-3-methylimidazolium bis(fluorosulfonyl)imide
+CN1C=C[N+](CC=C)=C1.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,1-allyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+CN1C=C[N+](CC=C)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-allyl-3-methylimidazolium triflate
+CN1C=C[N+](CC=C)=C1.[S-]C#N,0.0,1-allyl-3-methylimidazolium thiocyanate
+CN1C=C[N+](CC=C)=C1.O=C(C)[O-],0.0,1-allyl-3-methylimidazolium acetate
+CN1C=C[N+](CC=C)=C1.[O-]S(=O)(OCC)=O,0.0,1-allyl-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CC=C)=C1.[O-]S(=O)(O)=O,0.0,1-allyl-3-methylimidazolium hydrogensulfate
+CN1C=C[N+](CC=C)=C1.[O-]S(=O)(C)=O,0.0,1-allyl-3-methylimidazolium methanesulfonate
+CN1C=C[N+](CC=C)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-allyl-3-methylimidazolium tosylate
+CN1C=C[N+](CC=C)=C1.O=C([H])[O-],0.0,1-allyl-3-methylimidazolium formate
+CN1C=C[N+](CC=C)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-allyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CC=C)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-allyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CC=C)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-allyl-3-methylimidazolium dibutylphosphate
+CN1C=C[N+](CC=C)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-allyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CC=C)=C1.[O-]P(O)(O)=O,0.0,1-allyl-3-methylimidazolium dihydrogen phosphate
+CN1C=C[N+](CC=C)=C1.O=C(C(F)(F)F)[O-],0.0,1-allyl-3-methylimidazolium trifluoroacetate
+CN1C=C[N+](CC=C)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-allyl-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CC=C)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-allyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CC=C)=C1.[O-]P(OCC)(OCC)=O,0.0,1-allyl-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CC=C)=C1.[O-]P(OC)(OC)=O,0.0,1-allyl-3-methylimidazolium dimethyl phosphate
+CN1C=C[N+](CC=C)=C1.[O-]S(=O)(OC)=O,0.0,1-allyl-3-methylimidazolium methyl sulfate
+CN1C=C[N+](CC=C)=C1.[O-][N+]([O-])=O,0.0,1-allyl-3-methylimidazolium nitrate
+CN1C=C[N+](CC=C)=C1.N#C[C-](C#N)C#N,-0.0,1-allyl-3-methylimidazolium tricyanomethanide
+CN1C=C[N+](CC=C)=C1.O=C(CCCCCCCCC)[O-],0.0,1-allyl-3-methylimidazolium decanoate
+CN1C=C[N+](CC=C)=C1.F[B-](F)(F)F,0.0,1-allyl-3-methylimidazolium tetrafluoroborate
+CN1C=C[N+](CC=C)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-allyl-3-methylimidazolium bis(fluorosulfonyl)imide
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[S-]C#N,0.0,1-benzyl-3-methylimidazolium thiocyanate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.O=C(C)[O-],0.0,1-benzyl-3-methylimidazolium acetate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[O-]S(=O)(OCC)=O,0.0,1-benzyl-3-methylimidazolium ethyl sulfate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.O=C([H])[O-],0.0,1-benzyl-3-methylimidazolium formate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-benzyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-benzyl-3-methylimidazolium dibutylphosphate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-benzyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-benzyl-3-methylimidazolium diethyl phosphate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[O-]P(OC)(OC)=O,0.0,1-benzyl-3-methylimidazolium dimethyl phosphate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[O-]S(=O)(OC)=O,0.0,1-benzyl-3-methylimidazolium methyl sulfate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.N#C[C-](C#N)C#N,0.0,1-benzyl-3-methylimidazolium tricyanomethanide
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-benzyl-3-methylimidazolium decanoate
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-benzyl-3-methylimidazolium bis(fluorosulfonyl)imide
+C[N+]1(CCCC)CCCCC1.[O-]S(=O)(OCC)=O,0.0,1-butyl-1-methylpiperidinium ethyl sulfate
+C[N+]1(CCCC)CCCCC1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-1-methylpiperidinium bis(2-ethylhexyl)phosphate
+C[N+]1(CCCC)CCCCC1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butyl-1-methylpiperidinium dibutylphosphate
+C[N+]1(CCCC)CCCCC1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butyl-1-methylpiperidinium bis(pentafluoroethylsulfonyl)imide
+C[N+]1(CCCC)CCCCC1.[O-]P(OCC)(OCC)=O,0.0,1-butyl-1-methylpiperidinium diethyl phosphate
+C[N+]1(CCCC)CCCCC1.[O-]P(OC)(OC)=O,0.0,1-butyl-1-methylpiperidinium dimethyl phosphate
+C[N+]1(CCCC)CCCCC1.[O-]S(=O)(OC)=O,0.0,1-butyl-1-methylpiperidinium methyl sulfate
+C[N+]1(CCCC)CCCCC1.N#C[N-]C#N,0.0,1-butyl-1-methylpiperidinium dicyanamide
+C[N+]1(CCCC)CCCCC1.N#C[C-](C#N)C#N,0.0,1-butyl-1-methylpiperidinium tricyanomethanide
+C[N+]1(CCCC)CCCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-butyl-1-methylpiperidinium bis(fluorosulfonyl)imide
+C[N+]1(CCCC)CCCC1.[O-]S(=O)(OCC)=O,0.0,1-butyl-1-methylpyrrolidinium ethyl sulfate
+C[N+]1(CCCC)CCCC1.O=C([H])[O-],0.0,1-butyl-1-methylpyrrolidinium formate
+C[N+]1(CCCC)CCCC1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-1-methylpyrrolidinium bis(2-ethylhexyl)phosphate
+C[N+]1(CCCC)CCCC1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butyl-1-methylpyrrolidinium dibutylphosphate
+C[N+]1(CCCC)CCCC1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butyl-1-methylpyrrolidinium bis(pentafluoroethylsulfonyl)imide
+C[N+]1(CCCC)CCCC1.[O-]P(OCC)(OCC)=O,0.0,1-butyl-1-methylpyrrolidinium diethyl phosphate
+C[N+]1(CCCC)CCCC1.[O-]P(OC)(OC)=O,0.0,1-butyl-1-methylpyrrolidinium dimethyl phosphate
+C[N+]1(CCCC)CCCC1.[O-]S(=O)(OC)=O,0.0,1-butyl-1-methylpyrrolidinium methyl sulfate
+C[N+]1(CCCC)CCCC1.O=C(CCCCCCCCC)[O-],0.0,1-butyl-1-methylpyrrolidinium decanoate
+C[N+]1(CCCC)CCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-butyl-1-methylpyrrolidinium bis(fluorosulfonyl)imide
+CN1C=C[N+](CCCC)=C1C.[S-]C#N,0.0,"1-butyl-2,3-dimethylimidazolium thiocyanate"
+CN1C=C[N+](CCCC)=C1C.O=C(C)[O-],0.0,"1-butyl-2,3-dimethylimidazolium acetate"
+CN1C=C[N+](CCCC)=C1C.[O-]S(=O)(OCC)=O,0.0,"1-butyl-2,3-dimethylimidazolium ethyl sulfate"
+CN1C=C[N+](CCCC)=C1C.[O-]S(=O)(O)=O,0.0,"1-butyl-2,3-dimethylimidazolium hydrogensulfate"
+CN1C=C[N+](CCCC)=C1C.[O-]S(=O)(C)=O,0.0,"1-butyl-2,3-dimethylimidazolium methanesulfonate"
+CN1C=C[N+](CCCC)=C1C.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,"1-butyl-2,3-dimethylimidazolium tosylate"
+CN1C=C[N+](CCCC)=C1C.O=C([H])[O-],0.0,"1-butyl-2,3-dimethylimidazolium formate"
+CN1C=C[N+](CCCC)=C1C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,"1-butyl-2,3-dimethylimidazolium bis(2-ethylhexyl)phosphate"
+CN1C=C[N+](CCCC)=C1C.[O-]P(OCCCC)(OCCCC)=O,0.0,"1-butyl-2,3-dimethylimidazolium dibutylphosphate"
+CN1C=C[N+](CCCC)=C1C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,"1-butyl-2,3-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide"
+CN1C=C[N+](CCCC)=C1C.O=C(C(F)(F)F)[O-],0.0,"1-butyl-2,3-dimethylimidazolium trifluoroacetate"
+CN1C=C[N+](CCCC)=C1C.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,"1-butyl-2,3-dimethylimidazolium dodecylbenzenesulfonate"
+CN1C=C[N+](CCCC)=C1C.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butyl-2,3-dimethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCCC)=C1C.[O-]P(OCC)(OCC)=O,0.0,"1-butyl-2,3-dimethylimidazolium diethyl phosphate"
+CN1C=C[N+](CCCC)=C1C.[O-]P(OC)(OC)=O,0.0,"1-butyl-2,3-dimethylimidazolium dimethyl phosphate"
+CN1C=C[N+](CCCC)=C1C.[O-]S(=O)(OC)=O,0.0,"1-butyl-2,3-dimethylimidazolium methyl sulfate"
+CN1C=C[N+](CCCC)=C1C.N#C[N-]C#N,0.0,"1-butyl-2,3-dimethylimidazolium dicyanamide"
+CN1C=C[N+](CCCC)=C1C.N#C[C-](C#N)C#N,-0.0,"1-butyl-2,3-dimethylimidazolium tricyanomethanide"
+CN1C=C[N+](CCCC)=C1C.O=C(CCCCCCCCC)[O-],0.0,"1-butyl-2,3-dimethylimidazolium decanoate"
+CN1C=C[N+](CCCC)=C1C.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,"1-butyl-2,3-dimethylimidazolium bis(fluorosulfonyl)imide"
+CC1=CC=CC=[N+]1CCCC.[S-]C#N,0.0,1-butyl-2-methylpyridinium thiocyanate
+CC1=CC=CC=[N+]1CCCC.O=C(C)[O-],0.0,1-butyl-2-methylpyridinium acetate
+CC1=CC=CC=[N+]1CCCC.[O-]S(=O)(OCC)=O,0.0,1-butyl-2-methylpyridinium ethyl sulfate
+CC1=CC=CC=[N+]1CCCC.[O-]S(=O)(O)=O,0.0,1-butyl-2-methylpyridinium hydrogensulfate
+CC1=CC=CC=[N+]1CCCC.[O-]S(=O)(C)=O,0.0,1-butyl-2-methylpyridinium methanesulfonate
+CC1=CC=CC=[N+]1CCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-butyl-2-methylpyridinium tosylate
+CC1=CC=CC=[N+]1CCCC.O=C([H])[O-],0.0,1-butyl-2-methylpyridinium formate
+CC1=CC=CC=[N+]1CCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-2-methylpyridinium bis(2-ethylhexyl)phosphate
+CC1=CC=CC=[N+]1CCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butyl-2-methylpyridinium dibutylphosphate
+CC1=CC=CC=[N+]1CCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butyl-2-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC1=CC=CC=[N+]1CCCC.O=C(C(F)(F)F)[O-],0.0,1-butyl-2-methylpyridinium trifluoroacetate
+CC1=CC=CC=[N+]1CCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butyl-2-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CC1=CC=CC=[N+]1CCCC.[O-]P(OCC)(OCC)=O,0.0,1-butyl-2-methylpyridinium diethyl phosphate
+CC1=CC=CC=[N+]1CCCC.[O-]P(OC)(OC)=O,0.0,1-butyl-2-methylpyridinium dimethyl phosphate
+CC1=CC=CC=[N+]1CCCC.[O-]S(=O)(OC)=O,0.0,1-butyl-2-methylpyridinium methyl sulfate
+CC1=CC=CC=[N+]1CCCC.N#C[N-]C#N,0.0,1-butyl-2-methylpyridinium dicyanamide
+CC1=CC=CC=[N+]1CCCC.N#C[C-](C#N)C#N,-0.0,1-butyl-2-methylpyridinium tricyanomethanide
+CC1=CC=CC=[N+]1CCCC.O=C(CCCCCCCCC)[O-],0.0,1-butyl-2-methylpyridinium decanoate
+CC1=CC=CC=[N+]1CCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-butyl-2-methylpyridinium bis(fluorosulfonyl)imide
+CN1C=C[N+](CCCC)=C1.[O-]S(=O)(OCC)=O,-0.0,1-butyl-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CCCC)=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,1-butyl-3-methylimidazolium perfluorobutanesulfonate
+CN1C=C[N+](CCCC)=C1.O=C([H])[O-],0.0,1-butyl-3-methylimidazolium formate
+CN1C=C[N+](CCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCCC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-butyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CCCC)=C1.[O-]P(O)(O)=O,0.0,1-butyl-3-methylimidazolium dihydrogen phosphate
+CN1C=C[N+](CCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-butyl-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCCC)=C1.[O-]P(OCC)(OCC)=O,-0.0,1-butyl-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-butyl-3-methylimidazolium decanoate
+CC1=CC=C[N+](CCCC)=C1.[S-]C#N,0.0,1-butyl-3-methylpyridinium thiocyanate
+CC1=CC=C[N+](CCCC)=C1.O=C(C)[O-],0.0,1-butyl-3-methylpyridinium acetate
+CC1=CC=C[N+](CCCC)=C1.[O-]S(=O)(OCC)=O,0.0,1-butyl-3-methylpyridinium ethyl sulfate
+CC1=CC=C[N+](CCCC)=C1.[O-]S(=O)(O)=O,0.0,1-butyl-3-methylpyridinium hydrogensulfate
+CC1=CC=C[N+](CCCC)=C1.[O-]S(=O)(C)=O,0.0,1-butyl-3-methylpyridinium methanesulfonate
+CC1=CC=C[N+](CCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-butyl-3-methylpyridinium tosylate
+CC1=CC=C[N+](CCCC)=C1.O=C([H])[O-],0.0,1-butyl-3-methylpyridinium formate
+CC1=CC=C[N+](CCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-3-methylpyridinium bis(2-ethylhexyl)phosphate
+CC1=CC=C[N+](CCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butyl-3-methylpyridinium dibutylphosphate
+CC1=CC=C[N+](CCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butyl-3-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC1=CC=C[N+](CCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-butyl-3-methylpyridinium trifluoroacetate
+CC1=CC=C[N+](CCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-butyl-3-methylpyridinium dodecylbenzenesulfonate
+CC1=CC=C[N+](CCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butyl-3-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CC1=CC=C[N+](CCCC)=C1.[O-]P(OCC)(OCC)=O,0.0,1-butyl-3-methylpyridinium diethyl phosphate
+CC1=CC=C[N+](CCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-butyl-3-methylpyridinium dimethyl phosphate
+CC1=CC=C[N+](CCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-butyl-3-methylpyridinium methyl sulfate
+CC1=CC=C[N+](CCCC)=C1.N#C[N-]C#N,0.0,1-butyl-3-methylpyridinium dicyanamide
+CC1=CC=C[N+](CCCC)=C1.N#C[C-](C#N)C#N,-0.0,1-butyl-3-methylpyridinium tricyanomethanide
+CC1=CC=C[N+](CCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-butyl-3-methylpyridinium decanoate
+CC1=CC=C[N+](CCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-butyl-3-methylpyridinium bis(fluorosulfonyl)imide
+C=CN1C=C[N+](CCCC)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-butyl-3-vinylimidazolium triflate
+C=CN1C=C[N+](CCCC)=C1.[S-]C#N,0.0,1-butyl-3-vinylimidazolium thiocyanate
+C=CN1C=C[N+](CCCC)=C1.O=C(C)[O-],0.0,1-butyl-3-vinylimidazolium acetate
+C=CN1C=C[N+](CCCC)=C1.[O-]S(=O)(OCC)=O,-0.0,1-butyl-3-vinylimidazolium ethyl sulfate
+C=CN1C=C[N+](CCCC)=C1.[O-]S(=O)(O)=O,0.0,1-butyl-3-vinylimidazolium hydrogensulfate
+C=CN1C=C[N+](CCCC)=C1.[O-]S(=O)(C)=O,0.0,1-butyl-3-vinylimidazolium methanesulfonate
+C=CN1C=C[N+](CCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-butyl-3-vinylimidazolium tosylate
+C=CN1C=C[N+](CCCC)=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,1-butyl-3-vinylimidazolium perfluorobutanesulfonate
+C=CN1C=C[N+](CCCC)=C1.O=C([H])[O-],0.0,1-butyl-3-vinylimidazolium formate
+C=CN1C=C[N+](CCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-3-vinylimidazolium bis(2-ethylhexyl)phosphate
+C=CN1C=C[N+](CCCC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-butyl-3-vinylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+C=CN1C=C[N+](CCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butyl-3-vinylimidazolium dibutylphosphate
+C=CN1C=C[N+](CCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butyl-3-vinylimidazolium bis(pentafluoroethylsulfonyl)imide
+C=CN1C=C[N+](CCCC)=C1.[O-]P(O)(O)=O,0.0,1-butyl-3-vinylimidazolium dihydrogen phosphate
+C=CN1C=C[N+](CCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-butyl-3-vinylimidazolium trifluoroacetate
+C=CN1C=C[N+](CCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-butyl-3-vinylimidazolium dodecylbenzenesulfonate
+C=CN1C=C[N+](CCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butyl-3-vinylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+C=CN1C=C[N+](CCCC)=C1.[O-]P(OCC)(OCC)=O,-0.0,1-butyl-3-vinylimidazolium diethyl phosphate
+C=CN1C=C[N+](CCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-butyl-3-vinylimidazolium dimethyl phosphate
+C=CN1C=C[N+](CCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-butyl-3-vinylimidazolium methyl sulfate
+C=CN1C=C[N+](CCCC)=C1.N#C[N-]C#N,-0.0,1-butyl-3-vinylimidazolium dicyanamide
+C=CN1C=C[N+](CCCC)=C1.[O-][N+]([O-])=O,0.0,1-butyl-3-vinylimidazolium nitrate
+C=CN1C=C[N+](CCCC)=C1.N#C[C-](C#N)C#N,-0.0,1-butyl-3-vinylimidazolium tricyanomethanide
+C=CN1C=C[N+](CCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-butyl-3-vinylimidazolium decanoate
+C=CN1C=C[N+](CCCC)=C1.F[B-](F)(F)F,0.0,1-butyl-3-vinylimidazolium tetrafluoroborate
+C=CN1C=C[N+](CCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-butyl-3-vinylimidazolium bis(fluorosulfonyl)imide
+CC1=CC=[N+](CCCC)C=C1.[S-]C#N,0.0,1-butyl-4-methylpyridinium thiocyanate
+CC1=CC=[N+](CCCC)C=C1.O=C(C)[O-],0.0,1-butyl-4-methylpyridinium acetate
+CC1=CC=[N+](CCCC)C=C1.[O-]S(=O)(OCC)=O,0.0,1-butyl-4-methylpyridinium ethyl sulfate
+CC1=CC=[N+](CCCC)C=C1.[O-]S(=O)(O)=O,0.0,1-butyl-4-methylpyridinium hydrogensulfate
+CC1=CC=[N+](CCCC)C=C1.[O-]S(=O)(C)=O,0.0,1-butyl-4-methylpyridinium methanesulfonate
+CC1=CC=[N+](CCCC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-butyl-4-methylpyridinium tosylate
+CC1=CC=[N+](CCCC)C=C1.O=C([H])[O-],0.0,1-butyl-4-methylpyridinium formate
+CC1=CC=[N+](CCCC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-4-methylpyridinium bis(2-ethylhexyl)phosphate
+CC1=CC=[N+](CCCC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butyl-4-methylpyridinium dibutylphosphate
+CC1=CC=[N+](CCCC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butyl-4-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC1=CC=[N+](CCCC)C=C1.O=C(C(F)(F)F)[O-],0.0,1-butyl-4-methylpyridinium trifluoroacetate
+CC1=CC=[N+](CCCC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-butyl-4-methylpyridinium dodecylbenzenesulfonate
+CC1=CC=[N+](CCCC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butyl-4-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CC1=CC=[N+](CCCC)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-butyl-4-methylpyridinium diethyl phosphate
+CC1=CC=[N+](CCCC)C=C1.[O-]P(OC)(OC)=O,0.0,1-butyl-4-methylpyridinium dimethyl phosphate
+CC1=CC=[N+](CCCC)C=C1.[O-]S(=O)(OC)=O,0.0,1-butyl-4-methylpyridinium methyl sulfate
+CC1=CC=[N+](CCCC)C=C1.N#C[N-]C#N,0.0,1-butyl-4-methylpyridinium dicyanamide
+CC1=CC=[N+](CCCC)C=C1.[O-][N+]([O-])=O,0.0,1-butyl-4-methylpyridinium nitrate
+CC1=CC=[N+](CCCC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-butyl-4-methylpyridinium decanoate
+CC1=CC=[N+](CCCC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-butyl-4-methylpyridinium bis(fluorosulfonyl)imide
+CCCC[N+]1=CC=CC=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-butylpyridinium triflate
+CCCC[N+]1=CC=CC=C1.[S-]C#N,0.0,1-butylpyridinium thiocyanate
+CCCC[N+]1=CC=CC=C1.O=C(C)[O-],0.0,1-butylpyridinium acetate
+CCCC[N+]1=CC=CC=C1.[O-]S(=O)(OCC)=O,0.0,1-butylpyridinium ethyl sulfate
+CCCC[N+]1=CC=CC=C1.[O-]S(=O)(O)=O,0.0,1-butylpyridinium hydrogensulfate
+CCCC[N+]1=CC=CC=C1.[O-]S(=O)(C)=O,0.0,1-butylpyridinium methanesulfonate
+CCCC[N+]1=CC=CC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-butylpyridinium tosylate
+CCCC[N+]1=CC=CC=C1.O=C([H])[O-],0.0,1-butylpyridinium formate
+CCCC[N+]1=CC=CC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butylpyridinium bis(2-ethylhexyl)phosphate
+CCCC[N+]1=CC=CC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butylpyridinium dibutylphosphate
+CCCC[N+]1=CC=CC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butylpyridinium bis(pentafluoroethylsulfonyl)imide
+CCCC[N+]1=CC=CC=C1.O=C(C(F)(F)F)[O-],0.0,1-butylpyridinium trifluoroacetate
+CCCC[N+]1=CC=CC=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-butylpyridinium dodecylbenzenesulfonate
+CCCC[N+]1=CC=CC=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCC[N+]1=CC=CC=C1.[O-]P(OCC)(OCC)=O,0.0,1-butylpyridinium diethyl phosphate
+CCCC[N+]1=CC=CC=C1.[O-]P(OC)(OC)=O,0.0,1-butylpyridinium dimethyl phosphate
+CCCC[N+]1=CC=CC=C1.[O-]S(=O)(OC)=O,0.0,1-butylpyridinium methyl sulfate
+CCCC[N+]1=CC=CC=C1.N#C[N-]C#N,0.0,1-butylpyridinium dicyanamide
+CCCC[N+]1=CC=CC=C1.N#C[C-](C#N)C#N,-0.0,1-butylpyridinium tricyanomethanide
+CCCC[N+]1=CC=CC=C1.O=C(CCCCCCCCC)[O-],0.0,1-butylpyridinium decanoate
+CCCC[N+]1=CC=CC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-butylpyridinium bis(fluorosulfonyl)imide
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[S-]C#N,0.0,1-dodecyl-3-methylimidazolium thiocyanate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.O=C(C)[O-],0.0,1-dodecyl-3-methylimidazolium acetate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]S(=O)(OCC)=O,0.0,1-dodecyl-3-methylimidazolium ethyl sulfate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]S(=O)(O)=O,0.0,1-dodecyl-3-methylimidazolium hydrogensulfate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]S(=O)(C)=O,0.0,1-dodecyl-3-methylimidazolium methanesulfonate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-dodecyl-3-methylimidazolium tosylate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.O=C([H])[O-],0.0,1-dodecyl-3-methylimidazolium formate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-dodecyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-dodecyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-dodecyl-3-methylimidazolium dibutylphosphate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-dodecyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]P(O)(O)=O,0.0,1-dodecyl-3-methylimidazolium dihydrogen phosphate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-dodecyl-3-methylimidazolium trifluoroacetate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-dodecyl-3-methylimidazolium dodecylbenzenesulfonate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-dodecyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]P(OCC)(OCC)=O,0.0,1-dodecyl-3-methylimidazolium diethyl phosphate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-dodecyl-3-methylimidazolium dimethyl phosphate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-dodecyl-3-methylimidazolium methyl sulfate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.N#C[N-]C#N,0.0,1-dodecyl-3-methylimidazolium dicyanamide
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[O-][N+]([O-])=O,0.0,1-dodecyl-3-methylimidazolium nitrate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.N#C[C-](C#N)C#N,0.0,1-dodecyl-3-methylimidazolium tricyanomethanide
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-dodecyl-3-methylimidazolium decanoate
+CCN1C=C[N+](CCCCCCCCCCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-dodecyl-3-methylimidazolium bis(fluorosulfonyl)imide
+CN1C=C[N+](CC)=C1C.[S-]C#N,0.0,"1-ethyl-2,3-dimethylimidazolium thiocyanate"
+CN1C=C[N+](CC)=C1C.O=C(C)[O-],0.0,"1-ethyl-2,3-dimethylimidazolium acetate"
+CN1C=C[N+](CC)=C1C.[O-]S(=O)(OCC)=O,0.0,"1-ethyl-2,3-dimethylimidazolium ethyl sulfate"
+CN1C=C[N+](CC)=C1C.[O-]S(=O)(O)=O,0.0,"1-ethyl-2,3-dimethylimidazolium hydrogensulfate"
+CN1C=C[N+](CC)=C1C.[O-]S(=O)(C)=O,0.0,"1-ethyl-2,3-dimethylimidazolium methanesulfonate"
+CN1C=C[N+](CC)=C1C.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,"1-ethyl-2,3-dimethylimidazolium tosylate"
+CN1C=C[N+](CC)=C1C.O=C([H])[O-],0.0,"1-ethyl-2,3-dimethylimidazolium formate"
+CN1C=C[N+](CC)=C1C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,"1-ethyl-2,3-dimethylimidazolium bis(2-ethylhexyl)phosphate"
+CN1C=C[N+](CC)=C1C.[O-]P(OCCCC)(OCCCC)=O,0.0,"1-ethyl-2,3-dimethylimidazolium dibutylphosphate"
+CN1C=C[N+](CC)=C1C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,"1-ethyl-2,3-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide"
+CN1C=C[N+](CC)=C1C.O=C(C(F)(F)F)[O-],0.0,"1-ethyl-2,3-dimethylimidazolium trifluoroacetate"
+CN1C=C[N+](CC)=C1C.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,"1-ethyl-2,3-dimethylimidazolium dodecylbenzenesulfonate"
+CN1C=C[N+](CC)=C1C.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-ethyl-2,3-dimethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CC)=C1C.[O-]P(OCC)(OCC)=O,0.0,"1-ethyl-2,3-dimethylimidazolium diethyl phosphate"
+CN1C=C[N+](CC)=C1C.[O-]P(OC)(OC)=O,0.0,"1-ethyl-2,3-dimethylimidazolium dimethyl phosphate"
+CN1C=C[N+](CC)=C1C.[O-]S(=O)(OC)=O,0.0,"1-ethyl-2,3-dimethylimidazolium methyl sulfate"
+CN1C=C[N+](CC)=C1C.N#C[N-]C#N,0.0,"1-ethyl-2,3-dimethylimidazolium dicyanamide"
+CN1C=C[N+](CC)=C1C.N#C[C-](C#N)C#N,-0.0,"1-ethyl-2,3-dimethylimidazolium tricyanomethanide"
+CN1C=C[N+](CC)=C1C.O=C(CCCCCCCCC)[O-],0.0,"1-ethyl-2,3-dimethylimidazolium decanoate"
+CN1C=C[N+](CC)=C1C.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,"1-ethyl-2,3-dimethylimidazolium bis(fluorosulfonyl)imide"
+CC[N+]1=C(C)C=CC=C1.[O-]S(=O)(OCC)=O,0.0,1-ethyl-2-methylpyridinium ethyl sulfate
+CC[N+]1=C(C)C=CC=C1.O=C([H])[O-],0.0,1-ethyl-2-methylpyridinium formate
+CC[N+]1=C(C)C=CC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethyl-2-methylpyridinium bis(2-ethylhexyl)phosphate
+CC[N+]1=C(C)C=CC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethyl-2-methylpyridinium dibutylphosphate
+CC[N+]1=C(C)C=CC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethyl-2-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC[N+]1=C(C)C=CC=C1.[O-]P(OCC)(OCC)=O,0.0,1-ethyl-2-methylpyridinium diethyl phosphate
+CC[N+]1=C(C)C=CC=C1.[O-]P(OC)(OC)=O,0.0,1-ethyl-2-methylpyridinium dimethyl phosphate
+CC[N+]1=C(C)C=CC=C1.[O-]S(=O)(OC)=O,0.0,1-ethyl-2-methylpyridinium methyl sulfate
+CC[N+]1=C(C)C=CC=C1.N#C[N-]C#N,0.0,1-ethyl-2-methylpyridinium dicyanamide
+CC[N+]1=C(C)C=CC=C1.N#C[C-](C#N)C#N,0.0,1-ethyl-2-methylpyridinium tricyanomethanide
+CC[N+]1=C(C)C=CC=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethyl-2-methylpyridinium decanoate
+CC[N+]1=C(C)C=CC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-ethyl-2-methylpyridinium bis(fluorosulfonyl)imide
+C[N+]1=CN(CC)C=C1.O=C([H])[O-],0.0,1-ethyl-3-methylimidazolium formate
+C[N+]1=CN(CC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN(CC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-ethyl-3-methylimidazolium dodecylbenzenesulfonate
+C[N+]1=CN(CC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-ethyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+C[N+]1=CN(CC)C=C1.N#C[C-](C#N)C#N,-0.0,1-ethyl-3-methylimidazolium tricyanomethanide
+C[N+]1=CN(CC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethyl-3-methylimidazolium decanoate
+CC[N+]1=CN(C=C)C=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-ethyl-3-vinylimidazolium triflate
+CC[N+]1=CN(C=C)C=C1.[S-]C#N,0.0,1-ethyl-3-vinylimidazolium thiocyanate
+CC[N+]1=CN(C=C)C=C1.O=C(C)[O-],0.0,1-ethyl-3-vinylimidazolium acetate
+CC[N+]1=CN(C=C)C=C1.[O-]S(=O)(OCC)=O,0.0,1-ethyl-3-vinylimidazolium ethyl sulfate
+CC[N+]1=CN(C=C)C=C1.[O-]S(=O)(O)=O,0.0,1-ethyl-3-vinylimidazolium hydrogensulfate
+CC[N+]1=CN(C=C)C=C1.[O-]S(=O)(C)=O,0.0,1-ethyl-3-vinylimidazolium methanesulfonate
+CC[N+]1=CN(C=C)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-ethyl-3-vinylimidazolium tosylate
+CC[N+]1=CN(C=C)C=C1.O=C([H])[O-],0.0,1-ethyl-3-vinylimidazolium formate
+CC[N+]1=CN(C=C)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethyl-3-vinylimidazolium bis(2-ethylhexyl)phosphate
+CC[N+]1=CN(C=C)C=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-ethyl-3-vinylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CC[N+]1=CN(C=C)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethyl-3-vinylimidazolium dibutylphosphate
+CC[N+]1=CN(C=C)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethyl-3-vinylimidazolium bis(pentafluoroethylsulfonyl)imide
+CC[N+]1=CN(C=C)C=C1.[O-]P(O)(O)=O,0.0,1-ethyl-3-vinylimidazolium dihydrogen phosphate
+CC[N+]1=CN(C=C)C=C1.O=C(C(F)(F)F)[O-],0.0,1-ethyl-3-vinylimidazolium trifluoroacetate
+CC[N+]1=CN(C=C)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-ethyl-3-vinylimidazolium dodecylbenzenesulfonate
+CC[N+]1=CN(C=C)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-ethyl-3-vinylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CC[N+]1=CN(C=C)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-ethyl-3-vinylimidazolium diethyl phosphate
+CC[N+]1=CN(C=C)C=C1.[O-]P(OC)(OC)=O,0.0,1-ethyl-3-vinylimidazolium dimethyl phosphate
+CC[N+]1=CN(C=C)C=C1.[O-]S(=O)(OC)=O,0.0,1-ethyl-3-vinylimidazolium methyl sulfate
+CC[N+]1=CN(C=C)C=C1.N#C[N-]C#N,-0.0,1-ethyl-3-vinylimidazolium dicyanamide
+CC[N+]1=CN(C=C)C=C1.[O-][N+]([O-])=O,0.0,1-ethyl-3-vinylimidazolium nitrate
+CC[N+]1=CN(C=C)C=C1.N#C[C-](C#N)C#N,-0.0,1-ethyl-3-vinylimidazolium tricyanomethanide
+CC[N+]1=CN(C=C)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethyl-3-vinylimidazolium decanoate
+CC[N+]1=CN(C=C)C=C1.F[B-](F)(F)F,0.0,1-ethyl-3-vinylimidazolium tetrafluoroborate
+CC[N+]1=CN(C=C)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-ethyl-3-vinylimidazolium bis(fluorosulfonyl)imide
+CC1=CC=[N+](CC)C=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-ethyl-4-methylpyridinium triflate
+CC1=CC=[N+](CC)C=C1.[S-]C#N,0.0,1-ethyl-4-methylpyridinium thiocyanate
+CC1=CC=[N+](CC)C=C1.O=C(C)[O-],0.0,1-ethyl-4-methylpyridinium acetate
+CC1=CC=[N+](CC)C=C1.[O-]S(=O)(OCC)=O,0.0,1-ethyl-4-methylpyridinium ethyl sulfate
+CC1=CC=[N+](CC)C=C1.[O-]S(=O)(O)=O,0.0,1-ethyl-4-methylpyridinium hydrogensulfate
+CC1=CC=[N+](CC)C=C1.[O-]S(=O)(C)=O,0.0,1-ethyl-4-methylpyridinium methanesulfonate
+CC1=CC=[N+](CC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-ethyl-4-methylpyridinium tosylate
+CC1=CC=[N+](CC)C=C1.O=C([H])[O-],0.0,1-ethyl-4-methylpyridinium formate
+CC1=CC=[N+](CC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethyl-4-methylpyridinium bis(2-ethylhexyl)phosphate
+CC1=CC=[N+](CC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethyl-4-methylpyridinium dibutylphosphate
+CC1=CC=[N+](CC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethyl-4-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC1=CC=[N+](CC)C=C1.O=C(C(F)(F)F)[O-],0.0,1-ethyl-4-methylpyridinium trifluoroacetate
+CC1=CC=[N+](CC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-ethyl-4-methylpyridinium dodecylbenzenesulfonate
+CC1=CC=[N+](CC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-ethyl-4-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CC1=CC=[N+](CC)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-ethyl-4-methylpyridinium diethyl phosphate
+CC1=CC=[N+](CC)C=C1.[O-]P(OC)(OC)=O,0.0,1-ethyl-4-methylpyridinium dimethyl phosphate
+CC1=CC=[N+](CC)C=C1.[O-]S(=O)(OC)=O,0.0,1-ethyl-4-methylpyridinium methyl sulfate
+CC1=CC=[N+](CC)C=C1.N#C[N-]C#N,0.0,1-ethyl-4-methylpyridinium dicyanamide
+CC1=CC=[N+](CC)C=C1.N#C[C-](C#N)C#N,-0.0,1-ethyl-4-methylpyridinium tricyanomethanide
+CC1=CC=[N+](CC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethyl-4-methylpyridinium decanoate
+CC1=CC=[N+](CC)C=C1.F[B-](F)(F)F,0.0,1-ethyl-4-methylpyridinium tetrafluoroborate
+CC1=CC=[N+](CC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-ethyl-4-methylpyridinium bis(fluorosulfonyl)imide
+CC[N+]1=CC=CC=C1.[S-]C#N,0.0,1-ethylpyridinium thiocyanate
+CC[N+]1=CC=CC=C1.O=C(C)[O-],0.0,1-ethylpyridinium acetate
+CC[N+]1=CC=CC=C1.[O-]S(=O)(OCC)=O,0.0,1-ethylpyridinium ethyl sulfate
+CC[N+]1=CC=CC=C1.[O-]S(=O)(O)=O,0.0,1-ethylpyridinium hydrogensulfate
+CC[N+]1=CC=CC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-ethylpyridinium tosylate
+CC[N+]1=CC=CC=C1.O=C([H])[O-],0.0,1-ethylpyridinium formate
+CC[N+]1=CC=CC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethylpyridinium bis(2-ethylhexyl)phosphate
+CC[N+]1=CC=CC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethylpyridinium dibutylphosphate
+CC[N+]1=CC=CC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC[N+]1=CC=CC=C1.[O-]P(OCC)(OCC)=O,0.0,1-ethylpyridinium diethyl phosphate
+CC[N+]1=CC=CC=C1.[O-]P(OC)(OC)=O,0.0,1-ethylpyridinium dimethyl phosphate
+CC[N+]1=CC=CC=C1.[O-]S(=O)(OC)=O,0.0,1-ethylpyridinium methyl sulfate
+CC[N+]1=CC=CC=C1.N#C[N-]C#N,0.0,1-ethylpyridinium dicyanamide
+CC[N+]1=CC=CC=C1.N#C[C-](C#N)C#N,-0.0,1-ethylpyridinium tricyanomethanide
+CC[N+]1=CC=CC=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethylpyridinium decanoate
+CC[N+]1=CC=CC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-ethylpyridinium bis(fluorosulfonyl)imide
+C[N+]1(CCCCCC)CCCC1.[O-]S(=O)(OCC)=O,0.0,1-hexyl-1-methylpyrrolidinium ethyl sulfate
+C[N+]1(CCCCCC)CCCC1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-hexyl-1-methylpyrrolidinium bis(2-ethylhexyl)phosphate
+C[N+]1(CCCCCC)CCCC1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-hexyl-1-methylpyrrolidinium dibutylphosphate
+C[N+]1(CCCCCC)CCCC1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-hexyl-1-methylpyrrolidinium bis(pentafluoroethylsulfonyl)imide
+C[N+]1(CCCCCC)CCCC1.[O-]P(OCC)(OCC)=O,0.0,1-hexyl-1-methylpyrrolidinium diethyl phosphate
+C[N+]1(CCCCCC)CCCC1.[O-]P(OC)(OC)=O,0.0,1-hexyl-1-methylpyrrolidinium dimethyl phosphate
+C[N+]1(CCCCCC)CCCC1.[O-]S(=O)(OC)=O,0.0,1-hexyl-1-methylpyrrolidinium methyl sulfate
+C[N+]1(CCCCCC)CCCC1.N#C[N-]C#N,0.0,1-hexyl-1-methylpyrrolidinium dicyanamide
+C[N+]1(CCCCCC)CCCC1.N#C[C-](C#N)C#N,0.0,1-hexyl-1-methylpyrrolidinium tricyanomethanide
+C[N+]1(CCCCCC)CCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-hexyl-1-methylpyrrolidinium bis(fluorosulfonyl)imide
+CCCCCC[N+]1=CC=CC=C1.[S-]C#N,0.0,1-hexylpyridinium thiocyanate
+CCCCCC[N+]1=CC=CC=C1.O=C(C)[O-],0.0,1-hexylpyridinium acetate
+CCCCCC[N+]1=CC=CC=C1.[O-]S(=O)(OCC)=O,0.0,1-hexylpyridinium ethyl sulfate
+CCCCCC[N+]1=CC=CC=C1.[O-]S(=O)(O)=O,0.0,1-hexylpyridinium hydrogensulfate
+CCCCCC[N+]1=CC=CC=C1.[O-]S(=O)(C)=O,0.0,1-hexylpyridinium methanesulfonate
+CCCCCC[N+]1=CC=CC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-hexylpyridinium tosylate
+CCCCCC[N+]1=CC=CC=C1.O=C([H])[O-],0.0,1-hexylpyridinium formate
+CCCCCC[N+]1=CC=CC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-hexylpyridinium bis(2-ethylhexyl)phosphate
+CCCCCC[N+]1=CC=CC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-hexylpyridinium dibutylphosphate
+CCCCCC[N+]1=CC=CC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-hexylpyridinium bis(pentafluoroethylsulfonyl)imide
+CCCCCC[N+]1=CC=CC=C1.O=C(C(F)(F)F)[O-],0.0,1-hexylpyridinium trifluoroacetate
+CCCCCC[N+]1=CC=CC=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-hexylpyridinium dodecylbenzenesulfonate
+CCCCCC[N+]1=CC=CC=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-hexylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCCCC[N+]1=CC=CC=C1.[O-]P(OCC)(OCC)=O,0.0,1-hexylpyridinium diethyl phosphate
+CCCCCC[N+]1=CC=CC=C1.[O-]P(OC)(OC)=O,0.0,1-hexylpyridinium dimethyl phosphate
+CCCCCC[N+]1=CC=CC=C1.[O-]S(=O)(OC)=O,0.0,1-hexylpyridinium methyl sulfate
+CCCCCC[N+]1=CC=CC=C1.N#C[N-]C#N,0.0,1-hexylpyridinium dicyanamide
+CCCCCC[N+]1=CC=CC=C1.N#C[C-](C#N)C#N,-0.0,1-hexylpyridinium tricyanomethanide
+CCCCCC[N+]1=CC=CC=C1.O=C(CCCCCCCCC)[O-],0.0,1-hexylpyridinium decanoate
+CCCCCC[N+]1=CC=CC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-hexylpyridinium bis(fluorosulfonyl)imide
+C[N+]1(CCCCCCCC)CCCC1.[O-]S(=O)(OCC)=O,0.0,1-methyl-1-octylpyrrolidinium ethyl sulfate
+C[N+]1(CCCCCCCC)CCCC1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-1-octylpyrrolidinium bis(2-ethylhexyl)phosphate
+C[N+]1(CCCCCCCC)CCCC1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-1-octylpyrrolidinium dibutylphosphate
+C[N+]1(CCCCCCCC)CCCC1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-1-octylpyrrolidinium bis(pentafluoroethylsulfonyl)imide
+C[N+]1(CCCCCCCC)CCCC1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-1-octylpyrrolidinium diethyl phosphate
+C[N+]1(CCCCCCCC)CCCC1.[O-]P(OC)(OC)=O,0.0,1-methyl-1-octylpyrrolidinium dimethyl phosphate
+C[N+]1(CCCCCCCC)CCCC1.[O-]S(=O)(OC)=O,0.0,1-methyl-1-octylpyrrolidinium methyl sulfate
+C[N+]1(CCCCCCCC)CCCC1.N#C[N-]C#N,0.0,1-methyl-1-octylpyrrolidinium dicyanamide
+C[N+]1(CCCCCCCC)CCCC1.N#C[C-](C#N)C#N,0.0,1-methyl-1-octylpyrrolidinium tricyanomethanide
+C[N+]1(CCCCCCCC)CCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-methyl-1-octylpyrrolidinium bis(fluorosulfonyl)imide
+C[N+]1(CCC)CCCCC1.[O-]S(=O)(OCC)=O,0.0,1-methyl-1-propylpiperidinium ethyl sulfate
+C[N+]1(CCC)CCCCC1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-1-propylpiperidinium bis(2-ethylhexyl)phosphate
+C[N+]1(CCC)CCCCC1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-1-propylpiperidinium dibutylphosphate
+C[N+]1(CCC)CCCCC1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-1-propylpiperidinium bis(pentafluoroethylsulfonyl)imide
+C[N+]1(CCC)CCCCC1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-1-propylpiperidinium diethyl phosphate
+C[N+]1(CCC)CCCCC1.[O-]P(OC)(OC)=O,0.0,1-methyl-1-propylpiperidinium dimethyl phosphate
+C[N+]1(CCC)CCCCC1.[O-]S(=O)(OC)=O,0.0,1-methyl-1-propylpiperidinium methyl sulfate
+C[N+]1(CCC)CCCCC1.N#C[N-]C#N,0.0,1-methyl-1-propylpiperidinium dicyanamide
+C[N+]1(CCC)CCCCC1.N#C[C-](C#N)C#N,0.0,1-methyl-1-propylpiperidinium tricyanomethanide
+C[N+]1(CCC)CCCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-methyl-1-propylpiperidinium bis(fluorosulfonyl)imide
+C[N+]1(CCC)CCCC1.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,1-methyl-1-propylpyrrolidinium bis(trifluoromethylsulfonyl)imide
+C[N+]1(CCC)CCCC1.[O-]S(=O)(OCC)=O,0.0,1-methyl-1-propylpyrrolidinium ethyl sulfate
+C[N+]1(CCC)CCCC1.O=C([H])[O-],0.0,1-methyl-1-propylpyrrolidinium formate
+C[N+]1(CCC)CCCC1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-1-propylpyrrolidinium bis(2-ethylhexyl)phosphate
+C[N+]1(CCC)CCCC1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-1-propylpyrrolidinium dibutylphosphate
+C[N+]1(CCC)CCCC1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-1-propylpyrrolidinium bis(pentafluoroethylsulfonyl)imide
+C[N+]1(CCC)CCCC1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-1-propylpyrrolidinium diethyl phosphate
+C[N+]1(CCC)CCCC1.[O-]P(OC)(OC)=O,0.0,1-methyl-1-propylpyrrolidinium dimethyl phosphate
+C[N+]1(CCC)CCCC1.[O-]S(=O)(OC)=O,0.0,1-methyl-1-propylpyrrolidinium methyl sulfate
+C[N+]1(CCC)CCCC1.N#C[C-](C#N)C#N,0.0,1-methyl-1-propylpyrrolidinium tricyanomethanide
+C[N+]1(CCC)CCCC1.O=C(CCCCCCCCC)[O-],0.0,1-methyl-1-propylpyrrolidinium decanoate
+C[N+]1(CCC)CCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)imide
+C[N+]1=CN(CCCCCCCC)C=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-methyl-3-octylimidazolium triflate
+C[N+]1=CN(CCCCCCCC)C=C1.[S-]C#N,0.0,1-methyl-3-octylimidazolium thiocyanate
+C[N+]1=CN(CCCCCCCC)C=C1.O=C(C)[O-],0.0,1-methyl-3-octylimidazolium acetate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]S(=O)(OCC)=O,0.0,1-methyl-3-octylimidazolium ethyl sulfate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]S(=O)(O)=O,0.0,1-methyl-3-octylimidazolium hydrogensulfate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]S(=O)(C)=O,0.0,1-methyl-3-octylimidazolium methanesulfonate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-methyl-3-octylimidazolium tosylate
+C[N+]1=CN(CCCCCCCC)C=C1.O=C([H])[O-],0.0,1-methyl-3-octylimidazolium formate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-3-octylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-3-octylimidazolium dibutylphosphate
+C[N+]1=CN(CCCCCCCC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-3-octylimidazolium bis(pentafluoroethylsulfonyl)imide
+C[N+]1=CN(CCCCCCCC)C=C1.O=C(C(F)(F)F)[O-],0.0,1-methyl-3-octylimidazolium trifluoroacetate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-methyl-3-octylimidazolium dodecylbenzenesulfonate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-methyl-3-octylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-3-octylimidazolium diethyl phosphate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]P(OC)(OC)=O,0.0,1-methyl-3-octylimidazolium dimethyl phosphate
+C[N+]1=CN(CCCCCCCC)C=C1.[O-]S(=O)(OC)=O,0.0,1-methyl-3-octylimidazolium methyl sulfate
+C[N+]1=CN(CCCCCCCC)C=C1.N#C[N-]C#N,0.0,1-methyl-3-octylimidazolium dicyanamide
+C[N+]1=CN(CCCCCCCC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-methyl-3-octylimidazolium decanoate
+C[N+]1=CN(CCCCCCCC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-methyl-3-octylimidazolium bis(fluorosulfonyl)imide
+C[N+]1=CN(CCC)C=C1.[S-]C#N,0.0,1-methyl-3-propylimidazolium thiocyanate
+C[N+]1=CN(CCC)C=C1.O=C(C)[O-],0.0,1-methyl-3-propylimidazolium acetate
+C[N+]1=CN(CCC)C=C1.[O-]S(=O)(OCC)=O,0.0,1-methyl-3-propylimidazolium ethyl sulfate
+C[N+]1=CN(CCC)C=C1.[O-]S(=O)(O)=O,0.0,1-methyl-3-propylimidazolium hydrogensulfate
+C[N+]1=CN(CCC)C=C1.[O-]S(=O)(C)=O,0.0,1-methyl-3-propylimidazolium methanesulfonate
+C[N+]1=CN(CCC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-methyl-3-propylimidazolium tosylate
+C[N+]1=CN(CCC)C=C1.O=C([H])[O-],0.0,1-methyl-3-propylimidazolium formate
+C[N+]1=CN(CCC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-3-propylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN(CCC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-3-propylimidazolium dibutylphosphate
+C[N+]1=CN(CCC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-3-propylimidazolium bis(pentafluoroethylsulfonyl)imide
+C[N+]1=CN(CCC)C=C1.O=C(C(F)(F)F)[O-],0.0,1-methyl-3-propylimidazolium trifluoroacetate
+C[N+]1=CN(CCC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-methyl-3-propylimidazolium dodecylbenzenesulfonate
+C[N+]1=CN(CCC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-methyl-3-propylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+C[N+]1=CN(CCC)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-3-propylimidazolium diethyl phosphate
+C[N+]1=CN(CCC)C=C1.[O-]P(OC)(OC)=O,0.0,1-methyl-3-propylimidazolium dimethyl phosphate
+C[N+]1=CN(CCC)C=C1.[O-]S(=O)(OC)=O,0.0,1-methyl-3-propylimidazolium methyl sulfate
+C[N+]1=CN(CCC)C=C1.N#C[N-]C#N,-0.0,1-methyl-3-propylimidazolium dicyanamide
+C[N+]1=CN(CCC)C=C1.[O-][N+]([O-])=O,0.0,1-methyl-3-propylimidazolium nitrate
+C[N+]1=CN(CCC)C=C1.N#C[C-](C#N)C#N,-0.0,1-methyl-3-propylimidazolium tricyanomethanide
+C[N+]1=CN(CCC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-methyl-3-propylimidazolium decanoate
+C[N+]1=CN(CCC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-methyl-3-propylimidazolium bis(fluorosulfonyl)imide
+CC1=C[N+](CCC)=CC=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-propyl-3-methylpyridinium triflate
+CC1=C[N+](CCC)=CC=C1.[S-]C#N,0.0,1-propyl-3-methylpyridinium thiocyanate
+CC1=C[N+](CCC)=CC=C1.O=C(C)[O-],0.0,1-propyl-3-methylpyridinium acetate
+CC1=C[N+](CCC)=CC=C1.[O-]S(=O)(OCC)=O,0.0,1-propyl-3-methylpyridinium ethyl sulfate
+CC1=C[N+](CCC)=CC=C1.[O-]S(=O)(O)=O,0.0,1-propyl-3-methylpyridinium hydrogensulfate
+CC1=C[N+](CCC)=CC=C1.[O-]S(=O)(C)=O,0.0,1-propyl-3-methylpyridinium methanesulfonate
+CC1=C[N+](CCC)=CC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-propyl-3-methylpyridinium tosylate
+CC1=C[N+](CCC)=CC=C1.O=C([H])[O-],0.0,1-propyl-3-methylpyridinium formate
+CC1=C[N+](CCC)=CC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-propyl-3-methylpyridinium bis(2-ethylhexyl)phosphate
+CC1=C[N+](CCC)=CC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-propyl-3-methylpyridinium dibutylphosphate
+CC1=C[N+](CCC)=CC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-propyl-3-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CC1=C[N+](CCC)=CC=C1.O=C(C(F)(F)F)[O-],0.0,1-propyl-3-methylpyridinium trifluoroacetate
+CC1=C[N+](CCC)=CC=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-propyl-3-methylpyridinium dodecylbenzenesulfonate
+CC1=C[N+](CCC)=CC=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-propyl-3-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CC1=C[N+](CCC)=CC=C1.[O-]P(OCC)(OCC)=O,0.0,1-propyl-3-methylpyridinium diethyl phosphate
+CC1=C[N+](CCC)=CC=C1.[O-]P(OC)(OC)=O,0.0,1-propyl-3-methylpyridinium dimethyl phosphate
+CC1=C[N+](CCC)=CC=C1.[O-]S(=O)(OC)=O,0.0,1-propyl-3-methylpyridinium methyl sulfate
+CC1=C[N+](CCC)=CC=C1.N#C[N-]C#N,0.0,1-propyl-3-methylpyridinium dicyanamide
+CC1=C[N+](CCC)=CC=C1.N#C[C-](C#N)C#N,-0.0,1-propyl-3-methylpyridinium tricyanomethanide
+CC1=C[N+](CCC)=CC=C1.O=C(CCCCCCCCC)[O-],0.0,1-propyl-3-methylpyridinium decanoate
+CC1=C[N+](CCC)=CC=C1.F[B-](F)(F)F,0.0,1-propyl-3-methylpyridinium tetrafluoroborate
+CC1=C[N+](CCC)=CC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-propyl-3-methylpyridinium bis(fluorosulfonyl)imide
+CCC[N+]1=CC=C(C)C=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-propyl-4-methylpyridinium triflate
+CCC[N+]1=CC=C(C)C=C1.[S-]C#N,0.0,1-propyl-4-methylpyridinium thiocyanate
+CCC[N+]1=CC=C(C)C=C1.O=C(C)[O-],0.0,1-propyl-4-methylpyridinium acetate
+CCC[N+]1=CC=C(C)C=C1.[O-]S(=O)(OCC)=O,0.0,1-propyl-4-methylpyridinium ethyl sulfate
+CCC[N+]1=CC=C(C)C=C1.[O-]S(=O)(O)=O,0.0,1-propyl-4-methylpyridinium hydrogensulfate
+CCC[N+]1=CC=C(C)C=C1.[O-]S(=O)(C)=O,0.0,1-propyl-4-methylpyridinium methanesulfonate
+CCC[N+]1=CC=C(C)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-propyl-4-methylpyridinium tosylate
+CCC[N+]1=CC=C(C)C=C1.O=C([H])[O-],0.0,1-propyl-4-methylpyridinium formate
+CCC[N+]1=CC=C(C)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-propyl-4-methylpyridinium bis(2-ethylhexyl)phosphate
+CCC[N+]1=CC=C(C)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-propyl-4-methylpyridinium dibutylphosphate
+CCC[N+]1=CC=C(C)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-propyl-4-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CCC[N+]1=CC=C(C)C=C1.O=C(C(F)(F)F)[O-],0.0,1-propyl-4-methylpyridinium trifluoroacetate
+CCC[N+]1=CC=C(C)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-propyl-4-methylpyridinium dodecylbenzenesulfonate
+CCC[N+]1=CC=C(C)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-propyl-4-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CCC[N+]1=CC=C(C)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-propyl-4-methylpyridinium diethyl phosphate
+CCC[N+]1=CC=C(C)C=C1.[O-]P(OC)(OC)=O,0.0,1-propyl-4-methylpyridinium dimethyl phosphate
+CCC[N+]1=CC=C(C)C=C1.[O-]S(=O)(OC)=O,0.0,1-propyl-4-methylpyridinium methyl sulfate
+CCC[N+]1=CC=C(C)C=C1.N#C[N-]C#N,-0.0,1-propyl-4-methylpyridinium dicyanamide
+CCC[N+]1=CC=C(C)C=C1.[O-][N+]([O-])=O,0.0,1-propyl-4-methylpyridinium nitrate
+CCC[N+]1=CC=C(C)C=C1.N#C[C-](C#N)C#N,-0.0,1-propyl-4-methylpyridinium tricyanomethanide
+CCC[N+]1=CC=C(C)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-propyl-4-methylpyridinium decanoate
+CCC[N+]1=CC=C(C)C=C1.F[B-](F)(F)F,0.0,1-propyl-4-methylpyridinium tetrafluoroborate
+CCC[N+]1=CC=C(C)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-propyl-4-methylpyridinium bis(fluorosulfonyl)imide
+OCC[NH3+].O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,2-hydroxyethylammonium bis(trifluoromethylsulfonyl)imide
+OCC[NH3+].C(F)(F)(F)S(=O)(=O)[O-],0.0,2-hydroxyethylammonium triflate
+OCC[NH3+].[S-]C#N,-0.0,2-hydroxyethylammonium thiocyanate
+OCC[NH3+].O=C(C)[O-],0.0,2-hydroxyethylammonium acetate
+OCC[NH3+].[O-]S(=O)(OCC)=O,-0.0,2-hydroxyethylammonium ethyl sulfate
+OCC[NH3+].[O-]S(=O)(O)=O,0.0,2-hydroxyethylammonium hydrogensulfate
+OCC[NH3+].[O-]S(=O)(C)=O,0.0,2-hydroxyethylammonium methanesulfonate
+OCC[NH3+].[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,2-hydroxyethylammonium tosylate
+OCC[NH3+].[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,2-hydroxyethylammonium bis(2-ethylhexyl)phosphate
+OCC[NH3+].[O-]P(OCCCC)(OCCCC)=O,-0.0,2-hydroxyethylammonium dibutylphosphate
+OCC[NH3+].O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,2-hydroxyethylammonium bis(pentafluoroethylsulfonyl)imide
+OCC[NH3+].O=C(C(F)(F)F)[O-],0.0,2-hydroxyethylammonium trifluoroacetate
+OCC[NH3+].[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,2-hydroxyethylammonium dodecylbenzenesulfonate
+OCC[NH3+].[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"2-hydroxyethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+OCC[NH3+].[O-]P(OCC)(OCC)=O,-0.0,2-hydroxyethylammonium diethyl phosphate
+OCC[NH3+].[O-]P(OC)(OC)=O,0.0,2-hydroxyethylammonium dimethyl phosphate
+OCC[NH3+].[O-]S(=O)(OC)=O,-0.0,2-hydroxyethylammonium methyl sulfate
+OCC[NH3+].N#C[N-]C#N,-0.0,2-hydroxyethylammonium dicyanamide
+OCC[NH3+].[O-][N+]([O-])=O,0.0,2-hydroxyethylammonium nitrate
+OCC[NH3+].O=C(CCCCCCCCC)[O-],0.0,2-hydroxyethylammonium decanoate
+OCC[NH3+].F[B-](F)(F)F,0.0,2-hydroxyethylammonium tetrafluoroborate
+OCC[NH3+].[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,2-hydroxyethylammonium bis(fluorosulfonyl)imide
+C[N+](CCCC)(C)C.[S-]C#N,0.0,butyltrimethylammonium thiocyanate
+C[N+](CCCC)(C)C.O=C(C)[O-],0.0,butyltrimethylammonium acetate
+C[N+](CCCC)(C)C.[O-]S(=O)(OCC)=O,0.0,butyltrimethylammonium ethyl sulfate
+C[N+](CCCC)(C)C.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,butyltrimethylammonium tosylate
+C[N+](CCCC)(C)C.O=C([H])[O-],0.0,butyltrimethylammonium formate
+C[N+](CCCC)(C)C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,butyltrimethylammonium bis(2-ethylhexyl)phosphate
+C[N+](CCCC)(C)C.[O-]P(OCCCC)(OCCCC)=O,0.0,butyltrimethylammonium dibutylphosphate
+C[N+](CCCC)(C)C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,butyltrimethylammonium bis(pentafluoroethylsulfonyl)imide
+C[N+](CCCC)(C)C.[O-]P(OCC)(OCC)=O,0.0,butyltrimethylammonium diethyl phosphate
+C[N+](CCCC)(C)C.[O-]P(OC)(OC)=O,0.0,butyltrimethylammonium dimethyl phosphate
+C[N+](CCCC)(C)C.[O-]S(=O)(OC)=O,0.0,butyltrimethylammonium methyl sulfate
+C[N+](CCCC)(C)C.N#C[N-]C#N,0.0,butyltrimethylammonium dicyanamide
+C[N+](CCCC)(C)C.N#C[C-](C#N)C#N,-0.0,butyltrimethylammonium tricyanomethanide
+C[N+](CCCC)(C)C.O=C(CCCCCCCCC)[O-],0.0,butyltrimethylammonium decanoate
+C[N+](CCCC)(C)C.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,butyltrimethylammonium bis(fluorosulfonyl)imide
+C[NH+](CC)CC.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,diethylmethylammonium bis(trifluoromethylsulfonyl)imide
+C[NH+](CC)CC.[S-]C#N,0.0,diethylmethylammonium thiocyanate
+C[NH+](CC)CC.O=C(C)[O-],0.0,diethylmethylammonium acetate
+C[NH+](CC)CC.[O-]S(=O)(OCC)=O,0.0,diethylmethylammonium ethyl sulfate
+C[NH+](CC)CC.[O-]S(=O)(O)=O,0.0,diethylmethylammonium hydrogensulfate
+C[NH+](CC)CC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,diethylmethylammonium tosylate
+C[NH+](CC)CC.O=C([H])[O-],0.0,diethylmethylammonium formate
+C[NH+](CC)CC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,diethylmethylammonium bis(2-ethylhexyl)phosphate
+C[NH+](CC)CC.[O-]P(OCCCC)(OCCCC)=O,0.0,diethylmethylammonium dibutylphosphate
+C[NH+](CC)CC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,diethylmethylammonium bis(pentafluoroethylsulfonyl)imide
+C[NH+](CC)CC.O=C(C(F)(F)F)[O-],0.0,diethylmethylammonium trifluoroacetate
+C[NH+](CC)CC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,diethylmethylammonium dodecylbenzenesulfonate
+C[NH+](CC)CC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"diethylmethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+C[NH+](CC)CC.[O-]P(OCC)(OCC)=O,0.0,diethylmethylammonium diethyl phosphate
+C[NH+](CC)CC.[O-]P(OC)(OC)=O,0.0,diethylmethylammonium dimethyl phosphate
+C[NH+](CC)CC.[O-]S(=O)(OC)=O,0.0,diethylmethylammonium methyl sulfate
+C[NH+](CC)CC.N#C[N-]C#N,-0.0,diethylmethylammonium dicyanamide
+C[NH+](CC)CC.N#C[C-](C#N)C#N,-0.0,diethylmethylammonium tricyanomethanide
+C[NH+](CC)CC.O=C(CCCCCCCCC)[O-],0.0,diethylmethylammonium decanoate
+C[NH+](CC)CC.F[B-](F)(F)F,0.0,diethylmethylammonium tetrafluoroborate
+C[NH+](CC)CC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,diethylmethylammonium bis(fluorosulfonyl)imide
+C[S+](C)CC.[S-]C#N,0.0,diethylmethylsulfonium thiocyanate
+C[S+](C)CC.O=C(C)[O-],0.0,diethylmethylsulfonium acetate
+C[S+](C)CC.[O-]S(=O)(OCC)=O,0.0,diethylmethylsulfonium ethyl sulfate
+C[S+](C)CC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,diethylmethylsulfonium tosylate
+C[S+](C)CC.O=C([H])[O-],0.0,diethylmethylsulfonium formate
+C[S+](C)CC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,diethylmethylsulfonium bis(2-ethylhexyl)phosphate
+C[S+](C)CC.[O-]P(OCCCC)(OCCCC)=O,0.0,diethylmethylsulfonium dibutylphosphate
+C[S+](C)CC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,diethylmethylsulfonium bis(pentafluoroethylsulfonyl)imide
+C[S+](C)CC.[O-]P(OCC)(OCC)=O,0.0,diethylmethylsulfonium diethyl phosphate
+C[S+](C)CC.[O-]P(OC)(OC)=O,0.0,diethylmethylsulfonium dimethyl phosphate
+C[S+](C)CC.[O-]S(=O)(OC)=O,0.0,diethylmethylsulfonium methyl sulfate
+C[S+](C)CC.N#C[N-]C#N,0.0,diethylmethylsulfonium dicyanamide
+C[S+](C)CC.N#C[C-](C#N)C#N,-0.0,diethylmethylsulfonium tricyanomethanide
+C[S+](C)CC.O=C(CCCCCCCCC)[O-],0.0,diethylmethylsulfonium decanoate
+C[S+](C)CC.F[B-](F)(F)F,0.0,diethylmethylsulfonium tetrafluoroborate
+C[S+](C)CC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,diethylmethylsulfonium bis(fluorosulfonyl)imide
+[NH3+]CC.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,ethylammonium bis(trifluoromethylsulfonyl)imide
+[NH3+]CC.C(F)(F)(F)S(=O)(=O)[O-],0.0,ethylammonium triflate
+[NH3+]CC.[S-]C#N,-0.0,ethylammonium thiocyanate
+[NH3+]CC.O=C(C)[O-],0.0,ethylammonium acetate
+[NH3+]CC.[O-]S(=O)(OCC)=O,-0.0,ethylammonium ethyl sulfate
+[NH3+]CC.[O-]S(=O)(O)=O,0.0,ethylammonium hydrogensulfate
+[NH3+]CC.[O-]S(=O)(C)=O,0.0,ethylammonium methanesulfonate
+[NH3+]CC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,ethylammonium tosylate
+[NH3+]CC.O=C([H])[O-],-0.0,ethylammonium formate
+[NH3+]CC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,ethylammonium bis(2-ethylhexyl)phosphate
+[NH3+]CC.[O-]P(OCCCC)(OCCCC)=O,0.0,ethylammonium dibutylphosphate
+[NH3+]CC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,ethylammonium bis(pentafluoroethylsulfonyl)imide
+[NH3+]CC.O=C(C(F)(F)F)[O-],0.0,ethylammonium trifluoroacetate
+[NH3+]CC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,ethylammonium dodecylbenzenesulfonate
+[NH3+]CC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"ethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+[NH3+]CC.[O-]P(OCC)(OCC)=O,-0.0,ethylammonium diethyl phosphate
+[NH3+]CC.[O-]P(OC)(OC)=O,0.0,ethylammonium dimethyl phosphate
+[NH3+]CC.[O-]S(=O)(OC)=O,-0.0,ethylammonium methyl sulfate
+[NH3+]CC.N#C[N-]C#N,-0.0,ethylammonium dicyanamide
+[NH3+]CC.O=C(CCCCCCCCC)[O-],0.0,ethylammonium decanoate
+[NH3+]CC.F[B-](F)(F)F,0.0,ethylammonium tetrafluoroborate
+[NH3+]CC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,ethylammonium bis(fluorosulfonyl)imide
+CC[P+](CCCC)(CCCC)CCCC.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,-0.0,ethyltributylphosphonium bis(trifluoromethylsulfonyl)imide
+CC[P+](CCCC)(CCCC)CCCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,ethyltributylphosphonium triflate
+CC[P+](CCCC)(CCCC)CCCC.[S-]C#N,-0.0,ethyltributylphosphonium thiocyanate
+CC[P+](CCCC)(CCCC)CCCC.O=C(C)[O-],-0.0,ethyltributylphosphonium acetate
+CC[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(OCC)=O,-0.0,ethyltributylphosphonium ethyl sulfate
+CC[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(O)=O,0.0,ethyltributylphosphonium hydrogensulfate
+CC[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C)=O,0.0,ethyltributylphosphonium methanesulfonate
+CC[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,ethyltributylphosphonium tosylate
+CC[P+](CCCC)(CCCC)CCCC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,ethyltributylphosphonium perfluorobutanesulfonate
+CC[P+](CCCC)(CCCC)CCCC.O=C([H])[O-],-0.0,ethyltributylphosphonium formate
+CC[P+](CCCC)(CCCC)CCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,ethyltributylphosphonium bis(2-ethylhexyl)phosphate
+CC[P+](CCCC)(CCCC)CCCC.[Cl-],0.0,ethyltributylphosphonium chloride
+CC[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"ethyltributylphosphonium 1,1,2,2-tetrafluoroethanesulfonate"
+CC[P+](CCCC)(CCCC)CCCC.[O-]P(OCCCC)(OCCCC)=O,-0.0,ethyltributylphosphonium dibutylphosphate
+CC[P+](CCCC)(CCCC)CCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,ethyltributylphosphonium bis(pentafluoroethylsulfonyl)imide
+CC[P+](CCCC)(CCCC)CCCC.[O-]P(O)(O)=O,0.0,ethyltributylphosphonium dihydrogen phosphate
+CC[P+](CCCC)(CCCC)CCCC.O=C(C(F)(F)F)[O-],0.0,ethyltributylphosphonium trifluoroacetate
+CC[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,ethyltributylphosphonium dodecylbenzenesulfonate
+CC[P+](CCCC)(CCCC)CCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"ethyltributylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+CC[P+](CCCC)(CCCC)CCCC.[O-]P(OC)(OC)=O,-0.0,ethyltributylphosphonium dimethyl phosphate
+CC[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(OC)=O,-0.0,ethyltributylphosphonium methyl sulfate
+CC[P+](CCCC)(CCCC)CCCC.N#C[N-]C#N,-0.0,ethyltributylphosphonium dicyanamide
+CC[P+](CCCC)(CCCC)CCCC.[O-][N+]([O-])=O,0.0,ethyltributylphosphonium nitrate
+CC[P+](CCCC)(CCCC)CCCC.N#C[C-](C#N)C#N,-0.0,ethyltributylphosphonium tricyanomethanide
+CC[P+](CCCC)(CCCC)CCCC.O=C(CCCCCCCCC)[O-],0.0,ethyltributylphosphonium decanoate
+CC[P+](CCCC)(CCCC)CCCC.F[B-](F)(F)F,-0.0,ethyltributylphosphonium tetrafluoroborate
+CC[P+](CCCC)(CCCC)CCCC.[Br-],0.0,ethyltributylphosphonium bromide
+CC[P+](CCCC)(CCCC)CCCC.F[P-](F)(F)(F)(F)F,0.0,ethyltributylphosphonium hexafluorophosphate
+CC[P+](CCCC)(CCCC)CCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,ethyltributylphosphonium bis(fluorosulfonyl)imide
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[S-]C#N,0.0,methyltrioctylammonium thiocyanate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.O=C(C)[O-],0.0,methyltrioctylammonium acetate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]S(=O)(OCC)=O,0.0,methyltrioctylammonium ethyl sulfate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]S(=O)(O)=O,0.0,methyltrioctylammonium hydrogensulfate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]S(=O)(C)=O,0.0,methyltrioctylammonium methanesulfonate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,methyltrioctylammonium tosylate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.O=C([H])[O-],0.0,methyltrioctylammonium formate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,methyltrioctylammonium bis(2-ethylhexyl)phosphate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,methyltrioctylammonium dibutylphosphate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,methyltrioctylammonium bis(pentafluoroethylsulfonyl)imide
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.O=C(C(F)(F)F)[O-],0.0,methyltrioctylammonium trifluoroacetate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,methyltrioctylammonium dodecylbenzenesulfonate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"methyltrioctylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]P(OCC)(OCC)=O,0.0,methyltrioctylammonium diethyl phosphate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]P(OC)(OC)=O,0.0,methyltrioctylammonium dimethyl phosphate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[O-]S(=O)(OC)=O,0.0,methyltrioctylammonium methyl sulfate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.N#C[N-]C#N,0.0,methyltrioctylammonium dicyanamide
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.N#C[C-](C#N)C#N,0.0,methyltrioctylammonium tricyanomethanide
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.O=C(CCCCCCCCC)[O-],0.0,methyltrioctylammonium decanoate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.F[B-](F)(F)F,0.0,methyltrioctylammonium tetrafluoroborate
+CCCCCCCC[N+](CCCCCCCC)(C)CCCCCCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,methyltrioctylammonium bis(fluorosulfonyl)imide
+C[N+](CCCC)(CCCC)CCCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,tributylmethylammonium triflate
+C[N+](CCCC)(CCCC)CCCC.[S-]C#N,0.0,tributylmethylammonium thiocyanate
+C[N+](CCCC)(CCCC)CCCC.O=C(C)[O-],0.0,tributylmethylammonium acetate
+C[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(OCC)=O,0.0,tributylmethylammonium ethyl sulfate
+C[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(O)=O,0.0,tributylmethylammonium hydrogensulfate
+C[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(C)=O,0.0,tributylmethylammonium methanesulfonate
+C[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,tributylmethylammonium tosylate
+C[N+](CCCC)(CCCC)CCCC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,tributylmethylammonium perfluorobutanesulfonate
+C[N+](CCCC)(CCCC)CCCC.O=C([H])[O-],0.0,tributylmethylammonium formate
+C[N+](CCCC)(CCCC)CCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,tributylmethylammonium bis(2-ethylhexyl)phosphate
+C[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"tributylmethylammonium 1,1,2,2-tetrafluoroethanesulfonate"
+C[N+](CCCC)(CCCC)CCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,tributylmethylammonium dibutylphosphate
+C[N+](CCCC)(CCCC)CCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,tributylmethylammonium bis(pentafluoroethylsulfonyl)imide
+C[N+](CCCC)(CCCC)CCCC.[O-]P(O)(O)=O,0.0,tributylmethylammonium dihydrogen phosphate
+C[N+](CCCC)(CCCC)CCCC.O=C(C(F)(F)F)[O-],0.0,tributylmethylammonium trifluoroacetate
+C[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,tributylmethylammonium dodecylbenzenesulfonate
+C[N+](CCCC)(CCCC)CCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"tributylmethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+C[N+](CCCC)(CCCC)CCCC.[O-]P(OCC)(OCC)=O,0.0,tributylmethylammonium diethyl phosphate
+C[N+](CCCC)(CCCC)CCCC.[O-]P(OC)(OC)=O,0.0,tributylmethylammonium dimethyl phosphate
+C[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(OC)=O,0.0,tributylmethylammonium methyl sulfate
+C[N+](CCCC)(CCCC)CCCC.N#C[N-]C#N,-0.0,tributylmethylammonium dicyanamide
+C[N+](CCCC)(CCCC)CCCC.[O-][N+]([O-])=O,0.0,tributylmethylammonium nitrate
+C[N+](CCCC)(CCCC)CCCC.N#C[C-](C#N)C#N,-0.0,tributylmethylammonium tricyanomethanide
+C[N+](CCCC)(CCCC)CCCC.O=C(CCCCCCCCC)[O-],0.0,tributylmethylammonium decanoate
+C[N+](CCCC)(CCCC)CCCC.F[B-](F)(F)F,0.0,tributylmethylammonium tetrafluoroborate
+C[N+](CCCC)(CCCC)CCCC.[Br-],0.0,tributylmethylammonium bromide
+CC[S+](CC)CC.C(F)(F)(F)S(=O)(=O)[O-],0.0,triethylsulfonium triflate
+CC[S+](CC)CC.[S-]C#N,-0.0,triethylsulfonium thiocyanate
+CC[S+](CC)CC.O=C(C)[O-],0.0,triethylsulfonium acetate
+CC[S+](CC)CC.[O-]S(=O)(OCC)=O,-0.0,triethylsulfonium ethyl sulfate
+CC[S+](CC)CC.[O-]S(=O)(O)=O,0.0,triethylsulfonium hydrogensulfate
+CC[S+](CC)CC.[O-]S(=O)(C)=O,0.0,triethylsulfonium methanesulfonate
+CC[S+](CC)CC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,triethylsulfonium tosylate
+CC[S+](CC)CC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,triethylsulfonium perfluorobutanesulfonate
+CC[S+](CC)CC.O=C([H])[O-],-0.0,triethylsulfonium formate
+CC[S+](CC)CC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,triethylsulfonium bis(2-ethylhexyl)phosphate
+CC[S+](CC)CC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"triethylsulfonium 1,1,2,2-tetrafluoroethanesulfonate"
+CC[S+](CC)CC.[O-]P(OCCCC)(OCCCC)=O,-0.0,triethylsulfonium dibutylphosphate
+CC[S+](CC)CC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,triethylsulfonium bis(pentafluoroethylsulfonyl)imide
+CC[S+](CC)CC.[O-]P(O)(O)=O,0.0,triethylsulfonium dihydrogen phosphate
+CC[S+](CC)CC.O=C(C(F)(F)F)[O-],0.0,triethylsulfonium trifluoroacetate
+CC[S+](CC)CC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,triethylsulfonium dodecylbenzenesulfonate
+CC[S+](CC)CC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"triethylsulfonium bis(2,4,4-trimethylpentyl)phosphinate"
+CC[S+](CC)CC.[O-]P(OCC)(OCC)=O,-0.0,triethylsulfonium diethyl phosphate
+CC[S+](CC)CC.[O-]P(OC)(OC)=O,0.0,triethylsulfonium dimethyl phosphate
+CC[S+](CC)CC.[O-]S(=O)(OC)=O,-0.0,triethylsulfonium methyl sulfate
+CC[S+](CC)CC.N#C[N-]C#N,-0.0,triethylsulfonium dicyanamide
+CC[S+](CC)CC.[O-][N+]([O-])=O,0.0,triethylsulfonium nitrate
+CC[S+](CC)CC.N#C[C-](C#N)C#N,-0.0,triethylsulfonium tricyanomethanide
+CC[S+](CC)CC.O=C(CCCCCCCCC)[O-],0.0,triethylsulfonium decanoate
+CC[S+](CC)CC.F[B-](F)(F)F,0.0,triethylsulfonium tetrafluoroborate
+CC[S+](CC)CC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,triethylsulfonium bis(fluorosulfonyl)imide
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,trihexyltetradecylphosphonium triflate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[S-]C#N,0.0,trihexyltetradecylphosphonium thiocyanate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.O=C(C)[O-],0.0,trihexyltetradecylphosphonium acetate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]S(=O)(OCC)=O,0.0,trihexyltetradecylphosphonium ethyl sulfate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]S(=O)(O)=O,0.0,trihexyltetradecylphosphonium hydrogensulfate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]S(=O)(C)=O,0.0,trihexyltetradecylphosphonium methanesulfonate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,trihexyltetradecylphosphonium tosylate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,trihexyltetradecylphosphonium perfluorobutanesulfonate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.O=C([H])[O-],0.0,trihexyltetradecylphosphonium formate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"trihexyltetradecylphosphonium 1,1,2,2-tetrafluoroethanesulfonate"
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,trihexyltetradecylphosphonium dibutylphosphate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,trihexyltetradecylphosphonium bis(pentafluoroethylsulfonyl)imide
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]P(O)(O)=O,0.0,trihexyltetradecylphosphonium dihydrogen phosphate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.O=C(C(F)(F)F)[O-],0.0,trihexyltetradecylphosphonium trifluoroacetate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,trihexyltetradecylphosphonium dodecylbenzenesulfonate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]P(OCC)(OCC)=O,0.0,trihexyltetradecylphosphonium diethyl phosphate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]P(OC)(OC)=O,0.0,trihexyltetradecylphosphonium dimethyl phosphate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-]S(=O)(OC)=O,0.0,trihexyltetradecylphosphonium methyl sulfate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[O-][N+]([O-])=O,0.0,trihexyltetradecylphosphonium nitrate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.F[B-](F)(F)F,0.0,trihexyltetradecylphosphonium tetrafluoroborate
+CCCCCC[P+](CCCCCC)(CCCCCCCCCCCCCC)CCCCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,trihexyltetradecylphosphonium bis(fluorosulfonyl)imide
+C[P+](CC(C)C)(CC(C)C)CC(C)C.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,triisobutylmethylphosphonium bis(trifluoromethylsulfonyl)imide
+C[P+](CC(C)C)(CC(C)C)CC(C)C.C(F)(F)(F)S(=O)(=O)[O-],0.0,triisobutylmethylphosphonium triflate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[S-]C#N,0.0,triisobutylmethylphosphonium thiocyanate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.O=C(C)[O-],0.0,triisobutylmethylphosphonium acetate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]S(=O)(OCC)=O,0.0,triisobutylmethylphosphonium ethyl sulfate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]S(=O)(O)=O,0.0,triisobutylmethylphosphonium hydrogensulfate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]S(=O)(C)=O,0.0,triisobutylmethylphosphonium methanesulfonate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.O=C([H])[O-],0.0,triisobutylmethylphosphonium formate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,triisobutylmethylphosphonium bis(2-ethylhexyl)phosphate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]P(OCCCC)(OCCCC)=O,0.0,triisobutylmethylphosphonium dibutylphosphate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,triisobutylmethylphosphonium bis(pentafluoroethylsulfonyl)imide
+C[P+](CC(C)C)(CC(C)C)CC(C)C.O=C(C(F)(F)F)[O-],0.0,triisobutylmethylphosphonium trifluoroacetate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,triisobutylmethylphosphonium dodecylbenzenesulfonate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"triisobutylmethylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]P(OCC)(OCC)=O,0.0,triisobutylmethylphosphonium diethyl phosphate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]P(OC)(OC)=O,0.0,triisobutylmethylphosphonium dimethyl phosphate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-]S(=O)(OC)=O,0.0,triisobutylmethylphosphonium methyl sulfate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.N#C[N-]C#N,0.0,triisobutylmethylphosphonium dicyanamide
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[O-][N+]([O-])=O,0.0,triisobutylmethylphosphonium nitrate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.N#C[C-](C#N)C#N,-0.0,triisobutylmethylphosphonium tricyanomethanide
+C[P+](CC(C)C)(CC(C)C)CC(C)C.O=C(CCCCCCCCC)[O-],0.0,triisobutylmethylphosphonium decanoate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.F[B-](F)(F)F,0.0,triisobutylmethylphosphonium tetrafluoroborate
+C[P+](CC(C)C)(CC(C)C)CC(C)C.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,triisobutylmethylphosphonium bis(fluorosulfonyl)imide
+C[N+]1=C(C)NC=C1.[S-]C#N,0.0,"1,2-dimethylimidazolium thiocyanate"
+C[N+]1=C(C)NC=C1.O=C(C)[O-],0.0,"1,2-dimethylimidazolium acetate"
+C[N+]1=C(C)NC=C1.[O-]S(=O)(OCC)=O,0.0,"1,2-dimethylimidazolium ethyl sulfate"
+C[N+]1=C(C)NC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,"1,2-dimethylimidazolium tosylate"
+C[N+]1=C(C)NC=C1.O=C([H])[O-],0.0,"1,2-dimethylimidazolium formate"
+C[N+]1=C(C)NC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,"1,2-dimethylimidazolium bis(2-ethylhexyl)phosphate"
+C[N+]1=C(C)NC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,"1,2-dimethylimidazolium dibutylphosphate"
+C[N+]1=C(C)NC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,"1,2-dimethylimidazolium bis(pentafluoroethylsulfonyl)imide"
+C[N+]1=C(C)NC=C1.[O-]P(OCC)(OCC)=O,0.0,"1,2-dimethylimidazolium diethyl phosphate"
+C[N+]1=C(C)NC=C1.[O-]P(OC)(OC)=O,0.0,"1,2-dimethylimidazolium dimethyl phosphate"
+C[N+]1=C(C)NC=C1.[O-]S(=O)(OC)=O,0.0,"1,2-dimethylimidazolium methyl sulfate"
+C[N+]1=C(C)NC=C1.N#C[N-]C#N,0.0,"1,2-dimethylimidazolium dicyanamide"
+C[N+]1=C(C)NC=C1.N#C[C-](C#N)C#N,-0.0,"1,2-dimethylimidazolium tricyanomethanide"
+C[N+]1=C(C)NC=C1.O=C(CCCCCCCCC)[O-],0.0,"1,2-dimethylimidazolium decanoate"
+C[N+]1=C(C)NC=C1.F[B-](F)(F)F,0.0,"1,2-dimethylimidazolium tetrafluoroborate"
+C[N+]1=C(C)NC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,"1,2-dimethylimidazolium bis(fluorosulfonyl)imide"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,"1,3-didecyl-2-methylimidazolium bis(trifluoromethylsulfonyl)imide"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,"1,3-didecyl-2-methylimidazolium triflate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[S-]C#N,0.0,"1,3-didecyl-2-methylimidazolium thiocyanate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.O=C(C)[O-],0.0,"1,3-didecyl-2-methylimidazolium acetate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]S(=O)(OCC)=O,0.0,"1,3-didecyl-2-methylimidazolium ethyl sulfate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]S(=O)(O)=O,0.0,"1,3-didecyl-2-methylimidazolium hydrogensulfate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]S(=O)(C)=O,0.0,"1,3-didecyl-2-methylimidazolium methanesulfonate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,"1,3-didecyl-2-methylimidazolium tosylate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.O=C([H])[O-],0.0,"1,3-didecyl-2-methylimidazolium formate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,"1,3-didecyl-2-methylimidazolium bis(2-ethylhexyl)phosphate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,"1,3-didecyl-2-methylimidazolium dibutylphosphate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,"1,3-didecyl-2-methylimidazolium bis(pentafluoroethylsulfonyl)imide"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.O=C(C(F)(F)F)[O-],0.0,"1,3-didecyl-2-methylimidazolium trifluoroacetate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1,3-didecyl-2-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]P(OCC)(OCC)=O,0.0,"1,3-didecyl-2-methylimidazolium diethyl phosphate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]P(OC)(OC)=O,0.0,"1,3-didecyl-2-methylimidazolium dimethyl phosphate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[O-]S(=O)(OC)=O,0.0,"1,3-didecyl-2-methylimidazolium methyl sulfate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.N#C[N-]C#N,0.0,"1,3-didecyl-2-methylimidazolium dicyanamide"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.N#C[C-](C#N)C#N,0.0,"1,3-didecyl-2-methylimidazolium tricyanomethanide"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.O=C(CCCCCCCCC)[O-],0.0,"1,3-didecyl-2-methylimidazolium decanoate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.F[B-](F)(F)F,0.0,"1,3-didecyl-2-methylimidazolium tetrafluoroborate"
+CCCCCCCCCCN1C=C[N+](=C1C)CCCCCCCCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,"1,3-didecyl-2-methylimidazolium bis(fluorosulfonyl)imide"
+CN1C=C[N+](CCOC)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-(2-methoxyethyl)-3-methylimidazolium triflate
+CN1C=C[N+](CCOC)=C1.[S-]C#N,-0.0,1-(2-methoxyethyl)-3-methylimidazolium thiocyanate
+CN1C=C[N+](CCOC)=C1.O=C(C)[O-],-0.0,1-(2-methoxyethyl)-3-methylimidazolium acetate
+CN1C=C[N+](CCOC)=C1.[O-]S(=O)(OCC)=O,-0.0,1-(2-methoxyethyl)-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CCOC)=C1.[O-]S(=O)(O)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium hydrogensulfate
+CN1C=C[N+](CCOC)=C1.[O-]S(=O)(C)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium methanesulfonate
+CN1C=C[N+](CCOC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium tosylate
+CN1C=C[N+](CCOC)=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,1-(2-methoxyethyl)-3-methylimidazolium perfluorobutanesulfonate
+CN1C=C[N+](CCOC)=C1.O=C([H])[O-],-0.0,1-(2-methoxyethyl)-3-methylimidazolium formate
+CN1C=C[N+](CCOC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCOC)=C1.[Cl-],0.0,1-(2-methoxyethyl)-3-methylimidazolium chloride
+CN1C=C[N+](CCOC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-(2-methoxyethyl)-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CCOC)=C1.[O-]P(OCCCC)(OCCCC)=O,-0.0,1-(2-methoxyethyl)-3-methylimidazolium dibutylphosphate
+CN1C=C[N+](CCOC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CCOC)=C1.[O-]P(O)(O)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium dihydrogen phosphate
+CN1C=C[N+](CCOC)=C1.O=C(C(F)(F)F)[O-],0.0,1-(2-methoxyethyl)-3-methylimidazolium trifluoroacetate
+CN1C=C[N+](CCOC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCOC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-(2-methoxyethyl)-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCOC)=C1.[O-]P(OCC)(OCC)=O,-0.0,1-(2-methoxyethyl)-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CCOC)=C1.[O-]P(OC)(OC)=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium dimethyl phosphate
+CN1C=C[N+](CCOC)=C1.[O-]S(=O)(OC)=O,-0.0,1-(2-methoxyethyl)-3-methylimidazolium methyl sulfate
+CN1C=C[N+](CCOC)=C1.N#C[N-]C#N,-0.0,1-(2-methoxyethyl)-3-methylimidazolium dicyanamide
+CN1C=C[N+](CCOC)=C1.[O-][N+]([O-])=O,0.0,1-(2-methoxyethyl)-3-methylimidazolium nitrate
+CN1C=C[N+](CCOC)=C1.N#C[C-](C#N)C#N,-0.0,1-(2-methoxyethyl)-3-methylimidazolium tricyanomethanide
+CN1C=C[N+](CCOC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-(2-methoxyethyl)-3-methylimidazolium decanoate
+CN1C=C[N+](CCOC)=C1.F[B-](F)(F)F,0.0,1-(2-methoxyethyl)-3-methylimidazolium tetrafluoroborate
+CN1C=C[N+](CCOC)=C1.[Br-],0.0,1-(2-methoxyethyl)-3-methylimidazolium bromide
+CN1C=C[N+](CCOC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-(2-methoxyethyl)-3-methylimidazolium bis(fluorosulfonyl)imide
+CCCC[N+]1=CN(CC)C=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-butyl-3-ethylimidazolium triflate
+CCCC[N+]1=CN(CC)C=C1.[S-]C#N,0.0,1-butyl-3-ethylimidazolium thiocyanate
+CCCC[N+]1=CN(CC)C=C1.O=C(C)[O-],0.0,1-butyl-3-ethylimidazolium acetate
+CCCC[N+]1=CN(CC)C=C1.[O-]S(=O)(OCC)=O,-0.0,1-butyl-3-ethylimidazolium ethyl sulfate
+CCCC[N+]1=CN(CC)C=C1.[O-]S(=O)(O)=O,0.0,1-butyl-3-ethylimidazolium hydrogensulfate
+CCCC[N+]1=CN(CC)C=C1.[O-]S(=O)(C)=O,0.0,1-butyl-3-ethylimidazolium methanesulfonate
+CCCC[N+]1=CN(CC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-butyl-3-ethylimidazolium tosylate
+CCCC[N+]1=CN(CC)C=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,1-butyl-3-ethylimidazolium perfluorobutanesulfonate
+CCCC[N+]1=CN(CC)C=C1.O=C([H])[O-],0.0,1-butyl-3-ethylimidazolium formate
+CCCC[N+]1=CN(CC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-butyl-3-ethylimidazolium bis(2-ethylhexyl)phosphate
+CCCC[N+]1=CN(CC)C=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-butyl-3-ethylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CCCC[N+]1=CN(CC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-butyl-3-ethylimidazolium dibutylphosphate
+CCCC[N+]1=CN(CC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-butyl-3-ethylimidazolium bis(pentafluoroethylsulfonyl)imide
+CCCC[N+]1=CN(CC)C=C1.[O-]P(O)(O)=O,0.0,1-butyl-3-ethylimidazolium dihydrogen phosphate
+CCCC[N+]1=CN(CC)C=C1.O=C(C(F)(F)F)[O-],0.0,1-butyl-3-ethylimidazolium trifluoroacetate
+CCCC[N+]1=CN(CC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-butyl-3-ethylimidazolium dodecylbenzenesulfonate
+CCCC[N+]1=CN(CC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-butyl-3-ethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCC[N+]1=CN(CC)C=C1.[O-]P(OCC)(OCC)=O,-0.0,1-butyl-3-ethylimidazolium diethyl phosphate
+CCCC[N+]1=CN(CC)C=C1.[O-]P(OC)(OC)=O,0.0,1-butyl-3-ethylimidazolium dimethyl phosphate
+CCCC[N+]1=CN(CC)C=C1.[O-]S(=O)(OC)=O,0.0,1-butyl-3-ethylimidazolium methyl sulfate
+CCCC[N+]1=CN(CC)C=C1.N#C[N-]C#N,-0.0,1-butyl-3-ethylimidazolium dicyanamide
+CCCC[N+]1=CN(CC)C=C1.[O-][N+]([O-])=O,0.0,1-butyl-3-ethylimidazolium nitrate
+CCCC[N+]1=CN(CC)C=C1.N#C[C-](C#N)C#N,-0.0,1-butyl-3-ethylimidazolium tricyanomethanide
+CCCC[N+]1=CN(CC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-butyl-3-ethylimidazolium decanoate
+CCCC[N+]1=CN(CC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-butyl-3-ethylimidazolium bis(fluorosulfonyl)imide
+CC[N+]1(C)CCCCC1.[O-]S(=O)(OCC)=O,0.0,1-ethyl-1-methylpyrrolidinium ethyl sulfate
+CC[N+]1(C)CCCCC1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethyl-1-methylpyrrolidinium bis(2-ethylhexyl)phosphate
+CC[N+]1(C)CCCCC1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethyl-1-methylpyrrolidinium dibutylphosphate
+CC[N+]1(C)CCCCC1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethyl-1-methylpyrrolidinium bis(pentafluoroethylsulfonyl)imide
+CC[N+]1(C)CCCCC1.[O-]P(OCC)(OCC)=O,0.0,1-ethyl-1-methylpyrrolidinium diethyl phosphate
+CC[N+]1(C)CCCCC1.N#C[N-]C#N,0.0,1-ethyl-1-methylpyrrolidinium dicyanamide
+CC[N+]1(C)CCCCC1.N#C[C-](C#N)C#N,0.0,1-ethyl-1-methylpyrrolidinium tricyanomethanide
+CC[N+]1(C)CCCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-ethyl-1-methylpyrrolidinium bis(fluorosulfonyl)imide
+CN1C=C[N+](CCCCC)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-methyl-3-pentylimidazolium triflate
+CN1C=C[N+](CCCCC)=C1.[S-]C#N,0.0,1-methyl-3-pentylimidazolium thiocyanate
+CN1C=C[N+](CCCCC)=C1.O=C(C)[O-],0.0,1-methyl-3-pentylimidazolium acetate
+CN1C=C[N+](CCCCC)=C1.[O-]S(=O)(OCC)=O,0.0,1-methyl-3-pentylimidazolium ethyl sulfate
+CN1C=C[N+](CCCCC)=C1.[O-]S(=O)(O)=O,0.0,1-methyl-3-pentylimidazolium hydrogensulfate
+CN1C=C[N+](CCCCC)=C1.[O-]S(=O)(C)=O,0.0,1-methyl-3-pentylimidazolium methanesulfonate
+CN1C=C[N+](CCCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-methyl-3-pentylimidazolium tosylate
+CN1C=C[N+](CCCCC)=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,1-methyl-3-pentylimidazolium perfluorobutanesulfonate
+CN1C=C[N+](CCCCC)=C1.O=C([H])[O-],0.0,1-methyl-3-pentylimidazolium formate
+CN1C=C[N+](CCCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-3-pentylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCCCC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-methyl-3-pentylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CCCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-3-pentylimidazolium dibutylphosphate
+CN1C=C[N+](CCCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-3-pentylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CCCCC)=C1.[O-]P(O)(O)=O,0.0,1-methyl-3-pentylimidazolium dihydrogen phosphate
+CN1C=C[N+](CCCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-methyl-3-pentylimidazolium trifluoroacetate
+CN1C=C[N+](CCCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-methyl-3-pentylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-methyl-3-pentylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCCCC)=C1.[O-]P(OCC)(OCC)=O,-0.0,1-methyl-3-pentylimidazolium diethyl phosphate
+CN1C=C[N+](CCCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-methyl-3-pentylimidazolium dimethyl phosphate
+CN1C=C[N+](CCCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-methyl-3-pentylimidazolium methyl sulfate
+CN1C=C[N+](CCCCC)=C1.N#C[N-]C#N,-0.0,1-methyl-3-pentylimidazolium dicyanamide
+CN1C=C[N+](CCCCC)=C1.[O-][N+]([O-])=O,0.0,1-methyl-3-pentylimidazolium nitrate
+CN1C=C[N+](CCCCC)=C1.N#C[C-](C#N)C#N,-0.0,1-methyl-3-pentylimidazolium tricyanomethanide
+CN1C=C[N+](CCCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-methyl-3-pentylimidazolium decanoate
+CN1C=C[N+](CCCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-methyl-3-pentylimidazolium bis(fluorosulfonyl)imide
+CC[N+]1=CNC=C1.[S-]C#N,0.0,1-ethylimidazolium thiocyanate
+CC[N+]1=CNC=C1.O=C(C)[O-],0.0,1-ethylimidazolium acetate
+CC[N+]1=CNC=C1.[O-]S(=O)(OCC)=O,0.0,1-ethylimidazolium ethyl sulfate
+CC[N+]1=CNC=C1.[O-]S(=O)(O)=O,0.0,1-ethylimidazolium hydrogensulfate
+CC[N+]1=CNC=C1.[O-]S(=O)(C)=O,0.0,1-ethylimidazolium methanesulfonate
+CC[N+]1=CNC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-ethylimidazolium tosylate
+CC[N+]1=CNC=C1.O=C([H])[O-],0.0,1-ethylimidazolium formate
+CC[N+]1=CNC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethylimidazolium bis(2-ethylhexyl)phosphate
+CC[N+]1=CNC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethylimidazolium dibutylphosphate
+CC[N+]1=CNC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethylimidazolium bis(pentafluoroethylsulfonyl)imide
+CC[N+]1=CNC=C1.O=C(C(F)(F)F)[O-],0.0,1-ethylimidazolium trifluoroacetate
+CC[N+]1=CNC=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-ethylimidazolium dodecylbenzenesulfonate
+CC[N+]1=CNC=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-ethylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CC[N+]1=CNC=C1.[O-]P(OCC)(OCC)=O,0.0,1-ethylimidazolium diethyl phosphate
+CC[N+]1=CNC=C1.[O-]P(OC)(OC)=O,0.0,1-ethylimidazolium dimethyl phosphate
+CC[N+]1=CNC=C1.[O-]S(=O)(OC)=O,0.0,1-ethylimidazolium methyl sulfate
+CC[N+]1=CNC=C1.N#C[N-]C#N,-0.0,1-ethylimidazolium dicyanamide
+CC[N+]1=CNC=C1.N#C[C-](C#N)C#N,-0.0,1-ethylimidazolium tricyanomethanide
+CC[N+]1=CNC=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethylimidazolium decanoate
+CC[N+]1=CNC=C1.F[B-](F)(F)F,0.0,1-ethylimidazolium tetrafluoroborate
+CC[N+]1=CNC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-ethylimidazolium bis(fluorosulfonyl)imide
+CN1C=C[N+](CCCCCCC)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-heptyl-3-methylimidazolium triflate
+CN1C=C[N+](CCCCCCC)=C1.[S-]C#N,0.0,1-heptyl-3-methylimidazolium thiocyanate
+CN1C=C[N+](CCCCCCC)=C1.O=C(C)[O-],0.0,1-heptyl-3-methylimidazolium acetate
+CN1C=C[N+](CCCCCCC)=C1.[O-]S(=O)(OCC)=O,0.0,1-heptyl-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CCCCCCC)=C1.[O-]S(=O)(O)=O,0.0,1-heptyl-3-methylimidazolium hydrogensulfate
+CN1C=C[N+](CCCCCCC)=C1.[O-]S(=O)(C)=O,0.0,1-heptyl-3-methylimidazolium methanesulfonate
+CN1C=C[N+](CCCCCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-heptyl-3-methylimidazolium tosylate
+CN1C=C[N+](CCCCCCC)=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,1-heptyl-3-methylimidazolium perfluorobutanesulfonate
+CN1C=C[N+](CCCCCCC)=C1.O=C([H])[O-],0.0,1-heptyl-3-methylimidazolium formate
+CN1C=C[N+](CCCCCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-heptyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCCCCCC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-heptyl-3-methylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CN1C=C[N+](CCCCCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-heptyl-3-methylimidazolium dibutylphosphate
+CN1C=C[N+](CCCCCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-heptyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CCCCCCC)=C1.[O-]P(O)(O)=O,0.0,1-heptyl-3-methylimidazolium dihydrogen phosphate
+CN1C=C[N+](CCCCCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-heptyl-3-methylimidazolium trifluoroacetate
+CN1C=C[N+](CCCCCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-heptyl-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCCCCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-heptyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCCCCCC)=C1.[O-]P(OCC)(OCC)=O,0.0,1-heptyl-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CCCCCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-heptyl-3-methylimidazolium dimethyl phosphate
+CN1C=C[N+](CCCCCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-heptyl-3-methylimidazolium methyl sulfate
+CN1C=C[N+](CCCCCCC)=C1.N#C[N-]C#N,-0.0,1-heptyl-3-methylimidazolium dicyanamide
+CN1C=C[N+](CCCCCCC)=C1.[O-][N+]([O-])=O,0.0,1-heptyl-3-methylimidazolium nitrate
+CN1C=C[N+](CCCCCCC)=C1.N#C[C-](C#N)C#N,-0.0,1-heptyl-3-methylimidazolium tricyanomethanide
+CN1C=C[N+](CCCCCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-heptyl-3-methylimidazolium decanoate
+CN1C=C[N+](CCCCCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-heptyl-3-methylimidazolium bis(fluorosulfonyl)imide
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-hexadecyl-3-methylimidazolium triflate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[S-]C#N,0.0,1-hexadecyl-3-methylimidazolium thiocyanate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.O=C(C)[O-],0.0,1-hexadecyl-3-methylimidazolium acetate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]S(=O)(OCC)=O,0.0,1-hexadecyl-3-methylimidazolium ethyl sulfate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]S(=O)(O)=O,0.0,1-hexadecyl-3-methylimidazolium hydrogensulfate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]S(=O)(C)=O,0.0,1-hexadecyl-3-methylimidazolium methanesulfonate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-hexadecyl-3-methylimidazolium tosylate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.O=C([H])[O-],0.0,1-hexadecyl-3-methylimidazolium formate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-hexadecyl-3-methylimidazolium bis(2-ethylhexyl)phosphate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-hexadecyl-3-methylimidazolium dibutylphosphate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-hexadecyl-3-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.O=C(C(F)(F)F)[O-],0.0,1-hexadecyl-3-methylimidazolium trifluoroacetate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-hexadecyl-3-methylimidazolium dodecylbenzenesulfonate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-hexadecyl-3-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]P(OCC)(OCC)=O,0.0,1-hexadecyl-3-methylimidazolium diethyl phosphate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]P(OC)(OC)=O,0.0,1-hexadecyl-3-methylimidazolium dimethyl phosphate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[O-]S(=O)(OC)=O,0.0,1-hexadecyl-3-methylimidazolium methyl sulfate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-hexadecyl-3-methylimidazolium decanoate
+CN1C=C[N+](CCCCCCCCCCCCCCCC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-hexadecyl-3-methylimidazolium bis(fluorosulfonyl)imide
+C[N+]1=CN(CCCCCCCCC)C=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-methyl-3-nonylimidazolium triflate
+C[N+]1=CN(CCCCCCCCC)C=C1.[S-]C#N,0.0,1-methyl-3-nonylimidazolium thiocyanate
+C[N+]1=CN(CCCCCCCCC)C=C1.O=C(C)[O-],0.0,1-methyl-3-nonylimidazolium acetate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]S(=O)(OCC)=O,0.0,1-methyl-3-nonylimidazolium ethyl sulfate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]S(=O)(O)=O,0.0,1-methyl-3-nonylimidazolium hydrogensulfate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]S(=O)(C)=O,0.0,1-methyl-3-nonylimidazolium methanesulfonate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-methyl-3-nonylimidazolium tosylate
+C[N+]1=CN(CCCCCCCCC)C=C1.O=C([H])[O-],0.0,1-methyl-3-nonylimidazolium formate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-3-nonylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-3-nonylimidazolium dibutylphosphate
+C[N+]1=CN(CCCCCCCCC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-3-nonylimidazolium bis(pentafluoroethylsulfonyl)imide
+C[N+]1=CN(CCCCCCCCC)C=C1.O=C(C(F)(F)F)[O-],0.0,1-methyl-3-nonylimidazolium trifluoroacetate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-methyl-3-nonylimidazolium dodecylbenzenesulfonate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-methyl-3-nonylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-3-nonylimidazolium diethyl phosphate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]P(OC)(OC)=O,0.0,1-methyl-3-nonylimidazolium dimethyl phosphate
+C[N+]1=CN(CCCCCCCCC)C=C1.[O-]S(=O)(OC)=O,0.0,1-methyl-3-nonylimidazolium methyl sulfate
+C[N+]1=CN(CCCCCCCCC)C=C1.N#C[N-]C#N,0.0,1-methyl-3-nonylimidazolium dicyanamide
+C[N+]1=CN(CCCCCCCCC)C=C1.N#C[C-](C#N)C#N,0.0,1-methyl-3-nonylimidazolium tricyanomethanide
+C[N+]1=CN(CCCCCCCCC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-methyl-3-nonylimidazolium decanoate
+C[N+]1=CN(CCCCCCCCC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-methyl-3-nonylimidazolium bis(fluorosulfonyl)imide
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.[O-]S(=O)(OCC)=O,0.0,1-methyl-3-octadecylimidazolium ethyl sulfate
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-3-octadecylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-3-octadecylimidazolium dibutylphosphate
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-3-octadecylimidazolium bis(pentafluoroethylsulfonyl)imide
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-3-octadecylimidazolium diethyl phosphate
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.[O-]P(OC)(OC)=O,0.0,1-methyl-3-octadecylimidazolium dimethyl phosphate
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.[O-]S(=O)(OC)=O,0.0,1-methyl-3-octadecylimidazolium methyl sulfate
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.N#C[N-]C#N,0.0,1-methyl-3-octadecylimidazolium dicyanamide
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.N#C[C-](C#N)C#N,0.0,1-methyl-3-octadecylimidazolium tricyanomethanide
+C[N+]1=CN(CCCCCCCCCCCCCCCCCC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-methyl-3-octadecylimidazolium bis(fluorosulfonyl)imide
+C[N+]1=CN([H])C=C1.[S-]C#N,0.0,1-methylimidazolium thiocyanate
+C[N+]1=CN([H])C=C1.O=C(C)[O-],0.0,1-methylimidazolium acetate
+C[N+]1=CN([H])C=C1.[O-]S(=O)(OCC)=O,0.0,1-methylimidazolium ethyl sulfate
+C[N+]1=CN([H])C=C1.[O-]S(=O)(O)=O,0.0,1-methylimidazolium hydrogensulfate
+C[N+]1=CN([H])C=C1.[O-]S(=O)(C)=O,0.0,1-methylimidazolium methanesulfonate
+C[N+]1=CN([H])C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-methylimidazolium tosylate
+C[N+]1=CN([H])C=C1.O=C([H])[O-],0.0,1-methylimidazolium formate
+C[N+]1=CN([H])C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN([H])C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methylimidazolium dibutylphosphate
+C[N+]1=CN([H])C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methylimidazolium bis(pentafluoroethylsulfonyl)imide
+C[N+]1=CN([H])C=C1.O=C(C(F)(F)F)[O-],0.0,1-methylimidazolium trifluoroacetate
+C[N+]1=CN([H])C=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-methylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+C[N+]1=CN([H])C=C1.[O-]P(OCC)(OCC)=O,0.0,1-methylimidazolium diethyl phosphate
+C[N+]1=CN([H])C=C1.[O-]P(OC)(OC)=O,0.0,1-methylimidazolium dimethyl phosphate
+C[N+]1=CN([H])C=C1.[O-]S(=O)(OC)=O,0.0,1-methylimidazolium methyl sulfate
+C[N+]1=CN([H])C=C1.N#C[N-]C#N,-0.0,1-methylimidazolium dicyanamide
+C[N+]1=CN([H])C=C1.N#C[C-](C#N)C#N,-0.0,1-methylimidazolium tricyanomethanide
+C[N+]1=CN([H])C=C1.O=C(CCCCCCCCC)[O-],0.0,1-methylimidazolium decanoate
+C[N+]1=CN([H])C=C1.F[B-](F)(F)F,0.0,1-methylimidazolium tetrafluoroborate
+C[N+]1=CN([H])C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-methylimidazolium bis(fluorosulfonyl)imide
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[S-]C#N,0.0,1-methyl-3-tetradecylimidazolium thiocyanate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.O=C(C)[O-],0.0,1-methyl-3-tetradecylimidazolium acetate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[O-]S(=O)(OCC)=O,0.0,1-methyl-3-tetradecylimidazolium ethyl sulfate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-methyl-3-tetradecylimidazolium tosylate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.O=C([H])[O-],0.0,1-methyl-3-tetradecylimidazolium formate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-methyl-3-tetradecylimidazolium bis(2-ethylhexyl)phosphate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-methyl-3-tetradecylimidazolium dibutylphosphate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-methyl-3-tetradecylimidazolium bis(pentafluoroethylsulfonyl)imide
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[O-]P(OCC)(OCC)=O,0.0,1-methyl-3-tetradecylimidazolium diethyl phosphate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[O-]P(OC)(OC)=O,0.0,1-methyl-3-tetradecylimidazolium dimethyl phosphate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[O-]S(=O)(OC)=O,0.0,1-methyl-3-tetradecylimidazolium methyl sulfate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.N#C[N-]C#N,0.0,1-methyl-3-tetradecylimidazolium dicyanamide
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.N#C[C-](C#N)C#N,0.0,1-methyl-3-tetradecylimidazolium tricyanomethanide
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.O=C(CCCCCCCCC)[O-],0.0,1-methyl-3-tetradecylimidazolium decanoate
+C[N+]1=CN(CCCCCCCCCCCCCC)C=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-methyl-3-tetradecylimidazolium bis(fluorosulfonyl)imide
+CCC[N+]1=C(C)NC=C1.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,1-propyl-2-methylpyridinium bis(trifluoromethylsulfonyl)imide
+CCC[N+]1=C(C)NC=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-propyl-2-methylpyridinium triflate
+CCC[N+]1=C(C)NC=C1.[S-]C#N,0.0,1-propyl-2-methylpyridinium thiocyanate
+CCC[N+]1=C(C)NC=C1.O=C(C)[O-],0.0,1-propyl-2-methylpyridinium acetate
+CCC[N+]1=C(C)NC=C1.[O-]S(=O)(OCC)=O,0.0,1-propyl-2-methylpyridinium ethyl sulfate
+CCC[N+]1=C(C)NC=C1.[O-]S(=O)(O)=O,0.0,1-propyl-2-methylpyridinium hydrogensulfate
+CCC[N+]1=C(C)NC=C1.[O-]S(=O)(C)=O,0.0,1-propyl-2-methylpyridinium methanesulfonate
+CCC[N+]1=C(C)NC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-propyl-2-methylpyridinium tosylate
+CCC[N+]1=C(C)NC=C1.O=C([H])[O-],0.0,1-propyl-2-methylpyridinium formate
+CCC[N+]1=C(C)NC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-propyl-2-methylpyridinium bis(2-ethylhexyl)phosphate
+CCC[N+]1=C(C)NC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-propyl-2-methylpyridinium dibutylphosphate
+CCC[N+]1=C(C)NC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-propyl-2-methylpyridinium bis(pentafluoroethylsulfonyl)imide
+CCC[N+]1=C(C)NC=C1.O=C(C(F)(F)F)[O-],0.0,1-propyl-2-methylpyridinium trifluoroacetate
+CCC[N+]1=C(C)NC=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-propyl-2-methylpyridinium dodecylbenzenesulfonate
+CCC[N+]1=C(C)NC=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-propyl-2-methylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CCC[N+]1=C(C)NC=C1.[O-]P(OCC)(OCC)=O,0.0,1-propyl-2-methylpyridinium diethyl phosphate
+CCC[N+]1=C(C)NC=C1.[O-]P(OC)(OC)=O,0.0,1-propyl-2-methylpyridinium dimethyl phosphate
+CCC[N+]1=C(C)NC=C1.[O-]S(=O)(OC)=O,0.0,1-propyl-2-methylpyridinium methyl sulfate
+CCC[N+]1=C(C)NC=C1.N#C[N-]C#N,-0.0,1-propyl-2-methylpyridinium dicyanamide
+CCC[N+]1=C(C)NC=C1.[O-][N+]([O-])=O,0.0,1-propyl-2-methylpyridinium nitrate
+CCC[N+]1=C(C)NC=C1.N#C[C-](C#N)C#N,-0.0,1-propyl-2-methylpyridinium tricyanomethanide
+CCC[N+]1=C(C)NC=C1.O=C(CCCCCCCCC)[O-],0.0,1-propyl-2-methylpyridinium decanoate
+CCC[N+]1=C(C)NC=C1.F[B-](F)(F)F,0.0,1-propyl-2-methylpyridinium tetrafluoroborate
+CCC[N+]1=C(C)NC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-propyl-2-methylpyridinium bis(fluorosulfonyl)imide
+CCC[N+]1=CC=CC=C1.[S-]C#N,0.0,1-propylpyridinium thiocyanate
+CCC[N+]1=CC=CC=C1.O=C(C)[O-],0.0,1-propylpyridinium acetate
+CCC[N+]1=CC=CC=C1.[O-]S(=O)(OCC)=O,0.0,1-propylpyridinium ethyl sulfate
+CCC[N+]1=CC=CC=C1.[O-]S(=O)(O)=O,0.0,1-propylpyridinium hydrogensulfate
+CCC[N+]1=CC=CC=C1.[O-]S(=O)(C)=O,0.0,1-propylpyridinium methanesulfonate
+CCC[N+]1=CC=CC=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-propylpyridinium tosylate
+CCC[N+]1=CC=CC=C1.O=C([H])[O-],0.0,1-propylpyridinium formate
+CCC[N+]1=CC=CC=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-propylpyridinium bis(2-ethylhexyl)phosphate
+CCC[N+]1=CC=CC=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-propylpyridinium dibutylphosphate
+CCC[N+]1=CC=CC=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-propylpyridinium bis(pentafluoroethylsulfonyl)imide
+CCC[N+]1=CC=CC=C1.O=C(C(F)(F)F)[O-],0.0,1-propylpyridinium trifluoroacetate
+CCC[N+]1=CC=CC=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-propylpyridinium dodecylbenzenesulfonate
+CCC[N+]1=CC=CC=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-propylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CCC[N+]1=CC=CC=C1.[O-]P(OCC)(OCC)=O,0.0,1-propylpyridinium diethyl phosphate
+CCC[N+]1=CC=CC=C1.[O-]P(OC)(OC)=O,0.0,1-propylpyridinium dimethyl phosphate
+CCC[N+]1=CC=CC=C1.[O-]S(=O)(OC)=O,0.0,1-propylpyridinium methyl sulfate
+CCC[N+]1=CC=CC=C1.N#C[N-]C#N,0.0,1-propylpyridinium dicyanamide
+CCC[N+]1=CC=CC=C1.N#C[C-](C#N)C#N,-0.0,1-propylpyridinium tricyanomethanide
+CCC[N+]1=CC=CC=C1.O=C(CCCCCCCCC)[O-],0.0,1-propylpyridinium decanoate
+CCC[N+]1=CC=CC=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,1-propylpyridinium bis(fluorosulfonyl)imide
+CCCC[N+](CC)(CC)CC.C(F)(F)(F)S(=O)(=O)[O-],0.0,butyltriethylammonium triflate
+CCCC[N+](CC)(CC)CC.[S-]C#N,0.0,butyltriethylammonium thiocyanate
+CCCC[N+](CC)(CC)CC.O=C(C)[O-],0.0,butyltriethylammonium acetate
+CCCC[N+](CC)(CC)CC.[O-]S(=O)(OCC)=O,0.0,butyltriethylammonium ethyl sulfate
+CCCC[N+](CC)(CC)CC.[O-]S(=O)(O)=O,0.0,butyltriethylammonium hydrogensulfate
+CCCC[N+](CC)(CC)CC.[O-]S(=O)(C)=O,0.0,butyltriethylammonium methanesulfonate
+CCCC[N+](CC)(CC)CC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,butyltriethylammonium tosylate
+CCCC[N+](CC)(CC)CC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,butyltriethylammonium perfluorobutanesulfonate
+CCCC[N+](CC)(CC)CC.O=C([H])[O-],0.0,butyltriethylammonium formate
+CCCC[N+](CC)(CC)CC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,butyltriethylammonium bis(2-ethylhexyl)phosphate
+CCCC[N+](CC)(CC)CC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"butyltriethylammonium 1,1,2,2-tetrafluoroethanesulfonate"
+CCCC[N+](CC)(CC)CC.[O-]P(OCCCC)(OCCCC)=O,0.0,butyltriethylammonium dibutylphosphate
+CCCC[N+](CC)(CC)CC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,butyltriethylammonium bis(pentafluoroethylsulfonyl)imide
+CCCC[N+](CC)(CC)CC.[O-]P(O)(O)=O,0.0,butyltriethylammonium dihydrogen phosphate
+CCCC[N+](CC)(CC)CC.O=C(C(F)(F)F)[O-],0.0,butyltriethylammonium trifluoroacetate
+CCCC[N+](CC)(CC)CC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,butyltriethylammonium dodecylbenzenesulfonate
+CCCC[N+](CC)(CC)CC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"butyltriethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCC[N+](CC)(CC)CC.[O-]P(OCC)(OCC)=O,0.0,butyltriethylammonium diethyl phosphate
+CCCC[N+](CC)(CC)CC.[O-]P(OC)(OC)=O,0.0,butyltriethylammonium dimethyl phosphate
+CCCC[N+](CC)(CC)CC.[O-]S(=O)(OC)=O,0.0,butyltriethylammonium methyl sulfate
+CCCC[N+](CC)(CC)CC.N#C[N-]C#N,-0.0,butyltriethylammonium dicyanamide
+CCCC[N+](CC)(CC)CC.[O-][N+]([O-])=O,0.0,butyltriethylammonium nitrate
+CCCC[N+](CC)(CC)CC.N#C[C-](C#N)C#N,-0.0,butyltriethylammonium tricyanomethanide
+CCCC[N+](CC)(CC)CC.O=C(CCCCCCCCC)[O-],0.0,butyltriethylammonium decanoate
+CCCC[N+](CC)(CC)CC.F[B-](F)(F)F,0.0,butyltriethylammonium tetrafluoroborate
+CCCC[N+](CC)(CC)CC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,butyltriethylammonium bis(fluorosulfonyl)imide
+C[N+](C)(C)CCO.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,choline bis(trifluoromethylsulfonyl)imide
+C[N+](C)(C)CCO.[O-]S(=O)(OCC)=O,0.0,choline ethyl sulfate
+C[N+](C)(C)CCO.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,choline bis(2-ethylhexyl)phosphate
+C[N+](C)(C)CCO.[O-]P(OCCCC)(OCCCC)=O,0.0,choline dibutylphosphate
+C[N+](C)(C)CCO.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,choline bis(pentafluoroethylsulfonyl)imide
+C[N+](C)(C)CCO.[O-]P(OCC)(OCC)=O,0.0,choline diethyl phosphate
+C[N+](C)(C)CCO.[O-]S(=O)(OC)=O,0.0,choline methyl sulfate
+C[N+](C)(C)CCO.N#C[N-]C#N,0.0,choline dicyanamide
+C[N+](C)(C)CCO.N#C[C-](C#N)C#N,0.0,choline tricyanomethanide
+C[N+](C)(C)CCO.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,choline bis(fluorosulfonyl)imide
+C[NH2+]C.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,dimethylammonium bis(trifluoromethylsulfonyl)imide
+C[NH2+]C.C(F)(F)(F)S(=O)(=O)[O-],0.0,dimethylammonium triflate
+C[NH2+]C.[S-]C#N,0.0,dimethylammonium thiocyanate
+C[NH2+]C.O=C(C)[O-],0.0,dimethylammonium acetate
+C[NH2+]C.[O-]S(=O)(OCC)=O,0.0,dimethylammonium ethyl sulfate
+C[NH2+]C.[O-]S(=O)(O)=O,0.0,dimethylammonium hydrogensulfate
+C[NH2+]C.[O-]S(=O)(C)=O,0.0,dimethylammonium methanesulfonate
+C[NH2+]C.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,dimethylammonium tosylate
+C[NH2+]C.O=C([H])[O-],0.0,dimethylammonium formate
+C[NH2+]C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,dimethylammonium bis(2-ethylhexyl)phosphate
+C[NH2+]C.[O-]P(OCCCC)(OCCCC)=O,0.0,dimethylammonium dibutylphosphate
+C[NH2+]C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,dimethylammonium bis(pentafluoroethylsulfonyl)imide
+C[NH2+]C.O=C(C(F)(F)F)[O-],0.0,dimethylammonium trifluoroacetate
+C[NH2+]C.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"dimethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+C[NH2+]C.[O-]P(OCC)(OCC)=O,0.0,dimethylammonium diethyl phosphate
+C[NH2+]C.[O-]P(OC)(OC)=O,0.0,dimethylammonium dimethyl phosphate
+C[NH2+]C.[O-]S(=O)(OC)=O,0.0,dimethylammonium methyl sulfate
+C[NH2+]C.N#C[N-]C#N,-0.0,dimethylammonium dicyanamide
+C[NH2+]C.N#C[C-](C#N)C#N,-0.0,dimethylammonium tricyanomethanide
+C[NH2+]C.O=C(CCCCCCCCC)[O-],0.0,dimethylammonium decanoate
+C[NH2+]C.F[B-](F)(F)F,0.0,dimethylammonium tetrafluoroborate
+C[NH2+]C.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,dimethylammonium bis(fluorosulfonyl)imide
+C[N+](C)(C)CCCCCCCCCCCCCCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,hexadecyltrimethylammonium bis(2-ethylhexyl)phosphate
+C[N+](C)(C)CCCCCCCCCCCCCCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,hexadecyltrimethylammonium dibutylphosphate
+C[N+](C)(C)CCCCCCCCCCCCCCCC.[O-]P(OCC)(OCC)=O,0.0,hexadecyltrimethylammonium diethyl phosphate
+C[N+](C)(C)CCCCCCCCCCCCCCCC.N#C[N-]C#N,0.0,hexadecyltrimethylammonium dicyanamide
+C[N+](C)(C)CCCCCCCCCCCCCCCC.N#C[C-](C#N)C#N,0.0,hexadecyltrimethylammonium tricyanomethanide
+C[N+](C)(C)CCCCCCCCCCCCCCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,hexadecyltrimethylammonium bis(fluorosulfonyl)imide
+[NH3+]C.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,methylammonium bis(trifluoromethylsulfonyl)imide
+[NH3+]C.C(F)(F)(F)S(=O)(=O)[O-],0.0,methylammonium triflate
+[NH3+]C.[S-]C#N,0.0,methylammonium thiocyanate
+[NH3+]C.O=C(C)[O-],0.0,methylammonium acetate
+[NH3+]C.[O-]S(=O)(OCC)=O,-0.0,methylammonium ethyl sulfate
+[NH3+]C.[O-]S(=O)(O)=O,0.0,methylammonium hydrogensulfate
+[NH3+]C.[O-]S(=O)(C)=O,0.0,methylammonium methanesulfonate
+[NH3+]C.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,methylammonium tosylate
+[NH3+]C.O=C([H])[O-],0.0,methylammonium formate
+[NH3+]C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,methylammonium bis(2-ethylhexyl)phosphate
+[NH3+]C.[O-]P(OCCCC)(OCCCC)=O,0.0,methylammonium dibutylphosphate
+[NH3+]C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,methylammonium bis(pentafluoroethylsulfonyl)imide
+[NH3+]C.O=C(C(F)(F)F)[O-],0.0,methylammonium trifluoroacetate
+[NH3+]C.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,methylammonium dodecylbenzenesulfonate
+[NH3+]C.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"methylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+[NH3+]C.[O-]P(OCC)(OCC)=O,-0.0,methylammonium diethyl phosphate
+[NH3+]C.[O-]P(OC)(OC)=O,0.0,methylammonium dimethyl phosphate
+[NH3+]C.[O-]S(=O)(OC)=O,0.0,methylammonium methyl sulfate
+[NH3+]C.N#C[N-]C#N,-0.0,methylammonium dicyanamide
+[NH3+]C.O=C(CCCCCCCCC)[O-],0.0,methylammonium decanoate
+[NH3+]C.F[B-](F)(F)F,0.0,methylammonium tetrafluoroborate
+[NH3+]C.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,methylammonium bis(fluorosulfonyl)imide
+CCC[NH+](C)CC.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,n-ethyl-n-methyl-n-propylammonium bis(trifluoromethylsulfonyl)imide
+CCC[NH+](C)CC.C(F)(F)(F)S(=O)(=O)[O-],0.0,n-ethyl-n-methyl-n-propylammonium triflate
+CCC[NH+](C)CC.[S-]C#N,0.0,n-ethyl-n-methyl-n-propylammonium thiocyanate
+CCC[NH+](C)CC.O=C(C)[O-],0.0,n-ethyl-n-methyl-n-propylammonium acetate
+CCC[NH+](C)CC.[O-]S(=O)(OCC)=O,0.0,n-ethyl-n-methyl-n-propylammonium ethyl sulfate
+CCC[NH+](C)CC.[O-]S(=O)(O)=O,0.0,n-ethyl-n-methyl-n-propylammonium hydrogensulfate
+CCC[NH+](C)CC.[O-]S(=O)(C)=O,0.0,n-ethyl-n-methyl-n-propylammonium methanesulfonate
+CCC[NH+](C)CC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,n-ethyl-n-methyl-n-propylammonium tosylate
+CCC[NH+](C)CC.O=C([H])[O-],0.0,n-ethyl-n-methyl-n-propylammonium formate
+CCC[NH+](C)CC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,n-ethyl-n-methyl-n-propylammonium bis(2-ethylhexyl)phosphate
+CCC[NH+](C)CC.[O-]P(OCCCC)(OCCCC)=O,0.0,n-ethyl-n-methyl-n-propylammonium dibutylphosphate
+CCC[NH+](C)CC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,n-ethyl-n-methyl-n-propylammonium bis(pentafluoroethylsulfonyl)imide
+CCC[NH+](C)CC.O=C(C(F)(F)F)[O-],0.0,n-ethyl-n-methyl-n-propylammonium trifluoroacetate
+CCC[NH+](C)CC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,n-ethyl-n-methyl-n-propylammonium dodecylbenzenesulfonate
+CCC[NH+](C)CC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"n-ethyl-n-methyl-n-propylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+CCC[NH+](C)CC.[O-]P(OCC)(OCC)=O,0.0,n-ethyl-n-methyl-n-propylammonium diethyl phosphate
+CCC[NH+](C)CC.[O-]P(OC)(OC)=O,0.0,n-ethyl-n-methyl-n-propylammonium dimethyl phosphate
+CCC[NH+](C)CC.[O-]S(=O)(OC)=O,0.0,n-ethyl-n-methyl-n-propylammonium methyl sulfate
+CCC[NH+](C)CC.N#C[N-]C#N,-0.0,n-ethyl-n-methyl-n-propylammonium dicyanamide
+CCC[NH+](C)CC.N#C[C-](C#N)C#N,-0.0,n-ethyl-n-methyl-n-propylammonium tricyanomethanide
+CCC[NH+](C)CC.O=C(CCCCCCCCC)[O-],0.0,n-ethyl-n-methyl-n-propylammonium decanoate
+CCC[NH+](C)CC.F[B-](F)(F)F,0.0,n-ethyl-n-methyl-n-propylammonium tetrafluoroborate
+CCC[NH+](C)CC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,n-ethyl-n-methyl-n-propylammonium bis(fluorosulfonyl)imide
+CC[N+](CC)(CC)CCCCCCCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,octyltriethylammonium triflate
+CC[N+](CC)(CC)CCCCCCCC.[S-]C#N,0.0,octyltriethylammonium thiocyanate
+CC[N+](CC)(CC)CCCCCCCC.O=C(C)[O-],0.0,octyltriethylammonium acetate
+CC[N+](CC)(CC)CCCCCCCC.[O-]S(=O)(OCC)=O,0.0,octyltriethylammonium ethyl sulfate
+CC[N+](CC)(CC)CCCCCCCC.[O-]S(=O)(O)=O,0.0,octyltriethylammonium hydrogensulfate
+CC[N+](CC)(CC)CCCCCCCC.[O-]S(=O)(C)=O,0.0,octyltriethylammonium methanesulfonate
+CC[N+](CC)(CC)CCCCCCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,octyltriethylammonium tosylate
+CC[N+](CC)(CC)CCCCCCCC.O=C([H])[O-],0.0,octyltriethylammonium formate
+CC[N+](CC)(CC)CCCCCCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,octyltriethylammonium bis(2-ethylhexyl)phosphate
+CC[N+](CC)(CC)CCCCCCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,octyltriethylammonium dibutylphosphate
+CC[N+](CC)(CC)CCCCCCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,octyltriethylammonium bis(pentafluoroethylsulfonyl)imide
+CC[N+](CC)(CC)CCCCCCCC.O=C(C(F)(F)F)[O-],0.0,octyltriethylammonium trifluoroacetate
+CC[N+](CC)(CC)CCCCCCCC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,octyltriethylammonium dodecylbenzenesulfonate
+CC[N+](CC)(CC)CCCCCCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"octyltriethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+CC[N+](CC)(CC)CCCCCCCC.[O-]P(OCC)(OCC)=O,0.0,octyltriethylammonium diethyl phosphate
+CC[N+](CC)(CC)CCCCCCCC.[O-]P(OC)(OC)=O,0.0,octyltriethylammonium dimethyl phosphate
+CC[N+](CC)(CC)CCCCCCCC.[O-]S(=O)(OC)=O,0.0,octyltriethylammonium methyl sulfate
+CC[N+](CC)(CC)CCCCCCCC.N#C[N-]C#N,0.0,octyltriethylammonium dicyanamide
+CC[N+](CC)(CC)CCCCCCCC.[O-][N+]([O-])=O,0.0,octyltriethylammonium nitrate
+CC[N+](CC)(CC)CCCCCCCC.N#C[C-](C#N)C#N,-0.0,octyltriethylammonium tricyanomethanide
+CC[N+](CC)(CC)CCCCCCCC.O=C(CCCCCCCCC)[O-],0.0,octyltriethylammonium decanoate
+CC[N+](CC)(CC)CCCCCCCC.F[B-](F)(F)F,0.0,octyltriethylammonium tetrafluoroborate
+CC[N+](CC)(CC)CCCCCCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,octyltriethylammonium bis(fluorosulfonyl)imide
+[NH3+]CCC.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,-0.0,propylammonium bis(trifluoromethylsulfonyl)imide
+[NH3+]CCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,propylammonium triflate
+[NH3+]CCC.[S-]C#N,-0.0,propylammonium thiocyanate
+[NH3+]CCC.O=C(C)[O-],-0.0,propylammonium acetate
+[NH3+]CCC.[O-]S(=O)(OCC)=O,-0.0,propylammonium ethyl sulfate
+[NH3+]CCC.[O-]S(=O)(O)=O,0.0,propylammonium hydrogensulfate
+[NH3+]CCC.[O-]S(=O)(C)=O,0.0,propylammonium methanesulfonate
+[NH3+]CCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,propylammonium tosylate
+[NH3+]CCC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,propylammonium perfluorobutanesulfonate
+[NH3+]CCC.O=C([H])[O-],-0.0,propylammonium formate
+[NH3+]CCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,propylammonium bis(2-ethylhexyl)phosphate
+[NH3+]CCC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"propylammonium 1,1,2,2-tetrafluoroethanesulfonate"
+[NH3+]CCC.[O-]P(OCCCC)(OCCCC)=O,-0.0,propylammonium dibutylphosphate
+[NH3+]CCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,propylammonium bis(pentafluoroethylsulfonyl)imide
+[NH3+]CCC.[O-]P(O)(O)=O,0.0,propylammonium dihydrogen phosphate
+[NH3+]CCC.O=C(C(F)(F)F)[O-],0.0,propylammonium trifluoroacetate
+[NH3+]CCC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,propylammonium dodecylbenzenesulfonate
+[NH3+]CCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"propylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+[NH3+]CCC.[O-]P(OCC)(OCC)=O,-0.0,propylammonium diethyl phosphate
+[NH3+]CCC.[O-]P(OC)(OC)=O,-0.0,propylammonium dimethyl phosphate
+[NH3+]CCC.[O-]S(=O)(OC)=O,-0.0,propylammonium methyl sulfate
+[NH3+]CCC.O=C(CCCCCCCCC)[O-],0.0,propylammonium decanoate
+[NH3+]CCC.F[B-](F)(F)F,-0.0,propylammonium tetrafluoroborate
+[NH3+]CCC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,propylammonium bis(fluorosulfonyl)imide
+CC[N+](CC)(CC)CC.C(F)(F)(F)S(=O)(=O)[O-],0.0,tetraethylammonium triflate
+CC[N+](CC)(CC)CC.[S-]C#N,0.0,tetraethylammonium thiocyanate
+CC[N+](CC)(CC)CC.O=C(C)[O-],0.0,tetraethylammonium acetate
+CC[N+](CC)(CC)CC.[O-]S(=O)(OCC)=O,0.0,tetraethylammonium ethyl sulfate
+CC[N+](CC)(CC)CC.[O-]S(=O)(O)=O,0.0,tetraethylammonium hydrogensulfate
+CC[N+](CC)(CC)CC.[O-]S(=O)(C)=O,0.0,tetraethylammonium methanesulfonate
+CC[N+](CC)(CC)CC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,tetraethylammonium tosylate
+CC[N+](CC)(CC)CC.O=C([H])[O-],0.0,tetraethylammonium formate
+CC[N+](CC)(CC)CC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,tetraethylammonium bis(2-ethylhexyl)phosphate
+CC[N+](CC)(CC)CC.[O-]P(OCCCC)(OCCCC)=O,0.0,tetraethylammonium dibutylphosphate
+CC[N+](CC)(CC)CC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,tetraethylammonium bis(pentafluoroethylsulfonyl)imide
+CC[N+](CC)(CC)CC.O=C(C(F)(F)F)[O-],0.0,tetraethylammonium trifluoroacetate
+CC[N+](CC)(CC)CC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,tetraethylammonium dodecylbenzenesulfonate
+CC[N+](CC)(CC)CC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"tetraethylammonium bis(2,4,4-trimethylpentyl)phosphinate"
+CC[N+](CC)(CC)CC.[O-]P(OCC)(OCC)=O,0.0,tetraethylammonium diethyl phosphate
+CC[N+](CC)(CC)CC.[O-]P(OC)(OC)=O,0.0,tetraethylammonium dimethyl phosphate
+CC[N+](CC)(CC)CC.[O-]S(=O)(OC)=O,0.0,tetraethylammonium methyl sulfate
+CC[N+](CC)(CC)CC.N#C[N-]C#N,-0.0,tetraethylammonium dicyanamide
+CC[N+](CC)(CC)CC.N#C[C-](C#N)C#N,-0.0,tetraethylammonium tricyanomethanide
+CC[N+](CC)(CC)CC.O=C(CCCCCCCCC)[O-],0.0,tetraethylammonium decanoate
+CC[N+](CC)(CC)CC.F[B-](F)(F)F,0.0,tetraethylammonium tetrafluoroborate
+CC[N+](CC)(CC)CC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,tetraethylammonium bis(fluorosulfonyl)imide
+C[P+](CCCC)(CCCC)CCCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,tributylmethylphosphonium triflate
+C[P+](CCCC)(CCCC)CCCC.[S-]C#N,-0.0,tributylmethylphosphonium thiocyanate
+C[P+](CCCC)(CCCC)CCCC.O=C(C)[O-],-0.0,tributylmethylphosphonium acetate
+C[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(OCC)=O,-0.0,tributylmethylphosphonium ethyl sulfate
+C[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(O)=O,0.0,tributylmethylphosphonium hydrogensulfate
+C[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C)=O,0.0,tributylmethylphosphonium methanesulfonate
+C[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,tributylmethylphosphonium tosylate
+C[P+](CCCC)(CCCC)CCCC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,tributylmethylphosphonium perfluorobutanesulfonate
+C[P+](CCCC)(CCCC)CCCC.O=C([H])[O-],-0.0,tributylmethylphosphonium formate
+C[P+](CCCC)(CCCC)CCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,tributylmethylphosphonium bis(2-ethylhexyl)phosphate
+C[P+](CCCC)(CCCC)CCCC.[Cl-],0.0,tributylmethylphosphonium chloride
+C[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"tributylmethylphosphonium 1,1,2,2-tetrafluoroethanesulfonate"
+C[P+](CCCC)(CCCC)CCCC.[O-]P(OCCCC)(OCCCC)=O,-0.0,tributylmethylphosphonium dibutylphosphate
+C[P+](CCCC)(CCCC)CCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,tributylmethylphosphonium bis(pentafluoroethylsulfonyl)imide
+C[P+](CCCC)(CCCC)CCCC.[O-]P(O)(O)=O,0.0,tributylmethylphosphonium dihydrogen phosphate
+C[P+](CCCC)(CCCC)CCCC.O=C(C(F)(F)F)[O-],0.0,tributylmethylphosphonium trifluoroacetate
+C[P+](CCCC)(CCCC)CCCC.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,tributylmethylphosphonium dodecylbenzenesulfonate
+C[P+](CCCC)(CCCC)CCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"tributylmethylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+C[P+](CCCC)(CCCC)CCCC.[O-]P(OCC)(OCC)=O,-0.0,tributylmethylphosphonium diethyl phosphate
+C[P+](CCCC)(CCCC)CCCC.[O-]P(OC)(OC)=O,-0.0,tributylmethylphosphonium dimethyl phosphate
+C[P+](CCCC)(CCCC)CCCC.N#C[N-]C#N,-0.0,tributylmethylphosphonium dicyanamide
+C[P+](CCCC)(CCCC)CCCC.[O-][N+]([O-])=O,0.0,tributylmethylphosphonium nitrate
+C[P+](CCCC)(CCCC)CCCC.N#C[C-](C#N)C#N,-0.0,tributylmethylphosphonium tricyanomethanide
+C[P+](CCCC)(CCCC)CCCC.O=C(CCCCCCCCC)[O-],0.0,tributylmethylphosphonium decanoate
+C[P+](CCCC)(CCCC)CCCC.F[B-](F)(F)F,0.0,tributylmethylphosphonium tetrafluoroborate
+C[P+](CCCC)(CCCC)CCCC.[Br-],0.0,tributylmethylphosphonium bromide
+C[P+](CCCC)(CCCC)CCCC.F[P-](F)(F)(F)(F)F,0.0,tributylmethylphosphonium hexafluorophosphate
+C[P+](CCCC)(CCCC)CCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,tributylmethylphosphonium bis(fluorosulfonyl)imide
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,0.0,tributyltetradecylphosphonium bis(trifluoromethylsulfonyl)imide
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.C(F)(F)(F)S(=O)(=O)[O-],0.0,tributyltetradecylphosphonium triflate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[S-]C#N,0.0,tributyltetradecylphosphonium thiocyanate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.O=C(C)[O-],0.0,tributyltetradecylphosphonium acetate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]S(=O)(OCC)=O,0.0,tributyltetradecylphosphonium ethyl sulfate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]S(=O)(O)=O,0.0,tributyltetradecylphosphonium hydrogensulfate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]S(=O)(C)=O,0.0,tributyltetradecylphosphonium methanesulfonate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,tributyltetradecylphosphonium tosylate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,tributyltetradecylphosphonium perfluorobutanesulfonate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.O=C([H])[O-],0.0,tributyltetradecylphosphonium formate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,tributyltetradecylphosphonium bis(2-ethylhexyl)phosphate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[Cl-],0.0,tributyltetradecylphosphonium chloride
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"tributyltetradecylphosphonium 1,1,2,2-tetrafluoroethanesulfonate"
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]P(OCCCC)(OCCCC)=O,0.0,tributyltetradecylphosphonium dibutylphosphate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,tributyltetradecylphosphonium bis(pentafluoroethylsulfonyl)imide
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]P(O)(O)=O,0.0,tributyltetradecylphosphonium dihydrogen phosphate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.O=C(C(F)(F)F)[O-],0.0,tributyltetradecylphosphonium trifluoroacetate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"tributyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]P(OCC)(OCC)=O,0.0,tributyltetradecylphosphonium diethyl phosphate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]P(OC)(OC)=O,0.0,tributyltetradecylphosphonium dimethyl phosphate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-]S(=O)(OC)=O,0.0,tributyltetradecylphosphonium methyl sulfate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.N#C[N-]C#N,0.0,tributyltetradecylphosphonium dicyanamide
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[O-][N+]([O-])=O,0.0,tributyltetradecylphosphonium nitrate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.N#C[C-](C#N)C#N,0.0,tributyltetradecylphosphonium tricyanomethanide
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.O=C(CCCCCCCCC)[O-],0.0,tributyltetradecylphosphonium decanoate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.F[B-](F)(F)F,0.0,tributyltetradecylphosphonium tetrafluoroborate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[Br-],0.0,tributyltetradecylphosphonium bromide
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.F[P-](F)(F)(F)(F)F,0.0,tributyltetradecylphosphonium hexafluorophosphate
+CCCC[P+](CCCC)(CCCCCCCCCCCCCC)CCCC.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,tributyltetradecylphosphonium bis(fluorosulfonyl)imide
+C[S+](C)C.[O-]S(=O)(OCC)=O,0.0,trimethylsulfonium ethyl sulfate
+C[S+](C)C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,trimethylsulfonium bis(2-ethylhexyl)phosphate
+C[S+](C)C.[O-]P(OCCCC)(OCCCC)=O,0.0,trimethylsulfonium dibutylphosphate
+C[S+](C)C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,trimethylsulfonium bis(pentafluoroethylsulfonyl)imide
+C[S+](C)C.[O-]P(OCC)(OCC)=O,0.0,trimethylsulfonium diethyl phosphate
+C[S+](C)C.[O-]S(=O)(OC)=O,0.0,trimethylsulfonium methyl sulfate
+C[S+](C)C.N#C[N-]C#N,0.0,trimethylsulfonium dicyanamide
+C[S+](C)C.N#C[C-](C#N)C#N,-0.0,trimethylsulfonium tricyanomethanide
+C[S+](C)C.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,trimethylsulfonium bis(fluorosulfonyl)imide
+CCCN1C=C[N+](CC)=C1.C(F)(F)(F)S(=O)(=O)[O-],0.0,1-ethyl-3-propylimidazolium triflate
+CCCN1C=C[N+](CC)=C1.[S-]C#N,0.0,1-ethyl-3-propylimidazolium thiocyanate
+CCCN1C=C[N+](CC)=C1.O=C(C)[O-],0.0,1-ethyl-3-propylimidazolium acetate
+CCCN1C=C[N+](CC)=C1.[O-]S(=O)(OCC)=O,0.0,1-ethyl-3-propylimidazolium ethyl sulfate
+CCCN1C=C[N+](CC)=C1.[O-]S(=O)(O)=O,0.0,1-ethyl-3-propylimidazolium hydrogensulfate
+CCCN1C=C[N+](CC)=C1.[O-]S(=O)(C)=O,0.0,1-ethyl-3-propylimidazolium methanesulfonate
+CCCN1C=C[N+](CC)=C1.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,1-ethyl-3-propylimidazolium tosylate
+CCCN1C=C[N+](CC)=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F,0.0,1-ethyl-3-propylimidazolium perfluorobutanesulfonate
+CCCN1C=C[N+](CC)=C1.O=C([H])[O-],0.0,1-ethyl-3-propylimidazolium formate
+CCCN1C=C[N+](CC)=C1.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,1-ethyl-3-propylimidazolium bis(2-ethylhexyl)phosphate
+CCCN1C=C[N+](CC)=C1.[O-]S(=O)(C(F)(F)C(F)F)=O,0.0,"1-ethyl-3-propylimidazolium 1,1,2,2-tetrafluoroethanesulfonate"
+CCCN1C=C[N+](CC)=C1.[O-]P(OCCCC)(OCCCC)=O,0.0,1-ethyl-3-propylimidazolium dibutylphosphate
+CCCN1C=C[N+](CC)=C1.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,1-ethyl-3-propylimidazolium bis(pentafluoroethylsulfonyl)imide
+CCCN1C=C[N+](CC)=C1.[O-]P(O)(O)=O,0.0,1-ethyl-3-propylimidazolium dihydrogen phosphate
+CCCN1C=C[N+](CC)=C1.O=C(C(F)(F)F)[O-],0.0,1-ethyl-3-propylimidazolium trifluoroacetate
+CCCN1C=C[N+](CC)=C1.[O-]S(=O)(C1=CC=C(CCCCCCCCCCCC)C=C1)=O,0.0,1-ethyl-3-propylimidazolium dodecylbenzenesulfonate
+CCCN1C=C[N+](CC)=C1.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"1-ethyl-3-propylimidazolium bis(2,4,4-trimethylpentyl)phosphinate"
+CCCN1C=C[N+](CC)=C1.[O-]P(OCC)(OCC)=O,-0.0,1-ethyl-3-propylimidazolium diethyl phosphate
+CCCN1C=C[N+](CC)=C1.[O-]P(OC)(OC)=O,0.0,1-ethyl-3-propylimidazolium dimethyl phosphate
+CCCN1C=C[N+](CC)=C1.[O-]S(=O)(OC)=O,0.0,1-ethyl-3-propylimidazolium methyl sulfate
+CCCN1C=C[N+](CC)=C1.N#C[N-]C#N,-0.0,1-ethyl-3-propylimidazolium dicyanamide
+CCCN1C=C[N+](CC)=C1.[O-][N+]([O-])=O,0.0,1-ethyl-3-propylimidazolium nitrate
+CCCN1C=C[N+](CC)=C1.N#C[C-](C#N)C#N,-0.0,1-ethyl-3-propylimidazolium tricyanomethanide
+CCCN1C=C[N+](CC)=C1.O=C(CCCCCCCCC)[O-],0.0,1-ethyl-3-propylimidazolium decanoate
+CCCN1C=C[N+](CC)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F,-0.0,1-ethyl-3-propylimidazolium bis(fluorosulfonyl)imide
+CCC[N+]1=CC=CC=C1C.C(F)(F)(F)S(=O)(=O)[O-],0.0,2-methyl-1-propylpyridinium triflate
+CCC[N+]1=CC=CC=C1C.[S-]C#N,0.0,2-methyl-1-propylpyridinium thiocyanate
+CCC[N+]1=CC=CC=C1C.O=C(C)[O-],0.0,2-methyl-1-propylpyridinium acetate
+CCC[N+]1=CC=CC=C1C.[O-]S(=O)(OCC)=O,0.0,2-methyl-1-propylpyridinium ethyl sulfate
+CCC[N+]1=CC=CC=C1C.[O-]S(=O)(O)=O,0.0,2-methyl-1-propylpyridinium hydrogensulfate
+CCC[N+]1=CC=CC=C1C.[O-]S(=O)(C)=O,0.0,2-methyl-1-propylpyridinium methanesulfonate
+CCC[N+]1=CC=CC=C1C.[O-]S(=O)(C1=CC=C(C)C=C1)=O,0.0,2-methyl-1-propylpyridinium tosylate
+CCC[N+]1=CC=CC=C1C.O=C([H])[O-],0.0,2-methyl-1-propylpyridinium formate
+CCC[N+]1=CC=CC=C1C.[O-]P(OCC(CC)CCCC)(OCC(CCCC)CC)=O,0.0,2-methyl-1-propylpyridinium bis(2-ethylhexyl)phosphate
+CCC[N+]1=CC=CC=C1C.[O-]P(OCCCC)(OCCCC)=O,0.0,2-methyl-1-propylpyridinium dibutylphosphate
+CCC[N+]1=CC=CC=C1C.O=S([N-]S(=O)(C(F)(F)C(F)(F)F)=O)(C(F)(F)C(F)(F)F)=O,0.0,2-methyl-1-propylpyridinium bis(pentafluoroethylsulfonyl)imide
+CCC[N+]1=CC=CC=C1C.O=C(C(F)(F)F)[O-],0.0,2-methyl-1-propylpyridinium trifluoroacetate
+CCC[N+]1=CC=CC=C1C.[O-]P(CC(CC(C)C)C)(CC(CC(C)(C)C)C)=O,0.0,"2-methyl-1-propylpyridinium bis(2,4,4-trimethylpentyl)phosphinate"
+CCC[N+]1=CC=CC=C1C.[O-]P(OCC)(OCC)=O,0.0,2-methyl-1-propylpyridinium diethyl phosphate
+CCC[N+]1=CC=CC=C1C.[O-]P(OC)(OC)=O,0.0,2-methyl-1-propylpyridinium dimethyl phosphate
+CCC[N+]1=CC=CC=C1C.[O-]S(=O)(OC)=O,0.0,2-methyl-1-propylpyridinium methyl sulfate
+CCC[N+]1=CC=CC=C1C.N#C[N-]C#N,0.0,2-methyl-1-propylpyridinium dicyanamide
+CCC[N+]1=CC=CC=C1C.N#C[C-](C#N)C#N,-0.0,2-methyl-1-propylpyridinium tricyanomethanide
+CCC[N+]1=CC=CC=C1C.O=C(CCCCCCCCC)[O-],0.0,2-methyl-1-propylpyridinium decanoate
+CCC[N+]1=CC=CC=C1C.F[B-](F)(F)F,0.0,2-methyl-1-propylpyridinium tetrafluoroborate
+CCC[N+]1=CC=CC=C1C.[N-](S(=O)(=O)F)S(=O)(=O)F,0.0,2-methyl-1-propylpyridinium bis(fluorosulfonyl)imide
