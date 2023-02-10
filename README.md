@@ -37,16 +37,18 @@ This function can be used to predict new IL properties based on saved models.
 
 
 4. Sample code to use the ILP class
+5. 
 Import ILP
 
-    m = ILP()
-    m.dataCrawler()
-    m.dataProcessing()
-    m.despGenerator()
-    m.psiCal("scf/6-311g**")
-    m.gcnnModel()
-    m.machineLearning("state_clf")
-    m.machineLearning("conductivity_clf")
-    m.machineLearning("conductivity_reg")
-    m.screenIL()
-    m.combineILthermo()
+m = ILP()
+m.dataCrawler()
+m.dataProcessing()
+m.despGenerator()
+m.psiCal("scf/6-311g**")
+m.gcnnModel()
+m.machineLearning("state_clf")
+m.machineLearning("conductivity_clf")
+m.machineLearning("conductivity_reg")
+m.screenIL()
+m.combineILthermo()
+
