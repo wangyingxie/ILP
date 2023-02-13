@@ -42,14 +42,24 @@ This function can be used to predict new IL properties based on saved models.
 Import ILP
 
 1.m = ILP()
+
 2.m.dataCrawler()
+
 3.m.dataProcessing()
+
 4.m.despGenerator()
+
 5.m.psiCal("scf/6-311g**")
+
 6.m.gcnnModel()
+
 7.m.machineLearning("state_clf")
+
 8.m.machineLearning("conductivity_clf")
+
 9.m.machineLearning("conductivity_reg")
+
 10.m.screenIL()
+
 11.m.combineILthermo()
 
