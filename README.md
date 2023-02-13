@@ -2,7 +2,7 @@
 This repository is the place where you can find ML codes for prediction of IL properties.
 1.  Document Introduction 
   1.	output folder：Used to store the output files for the ILP Class.
-  2.	ILP.py：Source code of ILP Class.
+  2.	__init__.py：Source code of ILP Class.
 2. ILP Class Introduction
 1.	dataCrawler(parser="html.parser",url="https://iolitec.de/en/products/list")
 Default parser is "html.parser" and the target URL is https://iolitec.de/en/products/list. By using this method, the properties and chemical formula of the ion pairs in the URL can be crawled and cleaned. The final data will be exported as "dataset_iolitech.csv".
@@ -38,17 +38,18 @@ This function can be used to predict new IL properties based on saved models.
 
 4. Sample code to use the ILP class
 5. 
+
 Import ILP
 
-m = ILP()
-m.dataCrawler()
-m.dataProcessing()
-m.despGenerator()
-m.psiCal("scf/6-311g**")
-m.gcnnModel()
-m.machineLearning("state_clf")
-m.machineLearning("conductivity_clf")
-m.machineLearning("conductivity_reg")
-m.screenIL()
-m.combineILthermo()
+1.m = ILP()
+2.m.dataCrawler()
+3.m.dataProcessing()
+4.m.despGenerator()
+5.m.psiCal("scf/6-311g**")
+6.m.gcnnModel()
+7.m.machineLearning("state_clf")
+8.m.machineLearning("conductivity_clf")
+9.m.machineLearning("conductivity_reg")
+10.m.screenIL()
+11.m.combineILthermo()
 
