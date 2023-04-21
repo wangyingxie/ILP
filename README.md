@@ -1,8 +1,11 @@
 # ILP
-This repository is the place where you can find ML codes for prediction of IL properties.
+This repository is the place where you can find the data and ML codes for the published manuscript with title of "Machine learning-guided discovery of ionic polymer electrolytes for lithium metal batteries"
+
 1.  Document Introduction 
   1.	output folder：Used to store the output files for the ILP Class.
   2.	__init__.py：Source code of ILP Class.
+  3.    manuscript_figure_data folder: all the raw data to generate figures in the manuscript. 
+  
 2. ILP Class Introduction
 1.	dataCrawler(parser="html.parser",url="https://iolitec.de/en/products/list")
 Default parser is "html.parser" and the target URL is https://iolitec.de/en/products/list. By using this method, the properties and chemical formula of the ion pairs in the URL can be crawled and cleaned. The final data will be exported as "dataset_iolitech.csv".
