@@ -29,7 +29,7 @@ method = “conductivity_clf”. The learner is a classifier that uses support v
 8.	heriaClustering():
 	This method provides the execution and visualization of the dendrogram clustering. 
 9.	combineILThermo():
-This method compares the predicted results to ILThermo Database.
+This method compares the predicted results to ILThermo Database. The ILTherml data is available with url at https://www.nist.gov/mml/acmd/trc/ionic-liquids-database.
 10.	modelPrediction():
 This function can be used to predict new IL properties based on saved models. 
 3. Software and library version:
