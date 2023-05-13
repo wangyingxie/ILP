@@ -2,7 +2,7 @@
 This repository is the place where you can find the data and ML codes for the published manuscript with title of "Machine learning-guided discovery of ionic polymer electrolytes for lithium metal batteries"
 
 1.  Document Introduction 
-  1.    data_manuscript_figures folder: all the raw data to generate figures in the manuscript. 
+  1.    Raw_data_for_figure2-6_manuscript.xlsx: all the raw data to generate figures in the manuscript. 
   2.	output folder：Used to store the output files for the ILP Class.
   3.	__init__.py：Source code of ILP Class.
   
